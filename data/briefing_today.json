@@ -5,14 +5,14 @@
   "top_macro_signals": [
     "SEBI expands Online Bond Platforms (OBPPs) to distribute GIFT City IFSCA and 54EC tax-saving securities under Circular HO/17/11/2026.",
     "RBI Governor directs banks & NBFCs to treat AI as a 'board-driven strategic commitment' for credit underwriting and customer journeys.",
-    "Digital lending players (Zype, Fibe) raise fresh growth capital to accelerate automated cashflow-based underwriting and UPI AutoPay collections."
+    "Groww and leading WealthTech platforms aggressively scale affluent wealth offerings, PMS integrations, and multi-asset advisory distribution."
   ],
   "briefing_cards": [
     {
       "id": "card-1",
       "headline": "SEBI Modifies Regulatory Framework for Online Bond Platforms (OBPPs) to Include GIFT City & Tax-Saving Bonds",
       "category": "Capital Markets & MTF",
-      "source": "SEBI Official Circular HO/17/11/2026",
+      "source": "SEBI Circular HO/17/11/2026",
       "url": "https://taxguru.in/sebi/modification-regulatory-framework-online-bond-platform-providers.html",
       "summary": "SEBI issued circular HO/17/11/(2)2026-DDHS permitting Online Bond Platform Providers to offer securities regulated by the International Financial Services Centres Authority (IFSCA) in GIFT City and Section 54EC capital gains bonds, while requiring clear overseas labelling and FEMA/LRS compliance.",
       "pl_impact": "Massive top-line expansion for digital wealth and bond distribution platforms. Allows platforms to cross-sell dollar-denominated and tax-saving fixed-income assets to affluent retail and HNI investors, unlocking higher distribution commission spreads.",
@@ -34,6 +34,18 @@
     },
     {
       "id": "card-3",
+      "headline": "Groww Steps Up Wealth Management Play via PMS & Multi-Asset Portfolio Solutions",
+      "category": "FinTech & WealthTech",
+      "source": "Hubbis / Economic Times WealthTech",
+      "url": "https://www.hubbis.com/article/groww-steps-up-wealth-play-via-mf-and-portfolio-management-solutions",
+      "summary": "Groww has accelerated its push into affluent wealth management and high-net-worth distribution, integrating Portfolio Management Services (PMS), alternate assets, and curated advisory baskets to capture market share from traditional private banks.",
+      "pl_impact": "Direct playbook for expanding customer lifetime value (LTV). By cross-selling PMS and structured products to active broking clients, platforms compress CAC payback to under 6 months and capture 1.5–2% distribution fee take-rates.",
+      "action_trigger": "Share thought leadership: 'The Second Act of Discount Broking: How Product-Led Platforms Convert Retail Traders into ₹100 Cr+ Wealth Advisory Pipelines.'",
+      "tags": ["WealthTech", "Groww", "PMS", "Cross-Sell", "LTV:CAC"],
+      "audio_text": "In WealthTech moves: Groww is aggressively expanding its affluent wealth management footprint with PMS and multi-asset advisory solutions, proving the power of cross-selling beyond pure equity broking."
+    },
+    {
+      "id": "card-4",
       "headline": "Digital Lending Startup Zype Raises INR 90 Cr to Scale Micro-Lending & Instant Underwriting",
       "category": "Digital Lending & NBFC",
       "source": "Inc42 FinTech Buzz",
@@ -43,18 +55,6 @@
       "action_trigger": "Share analysis: 'The Next Phase of Retail Digital Lending: Why Micro-Line of Credit and Real-Time Risk APIs Beat Traditional Unsecured Loans on CAC Payback.'",
       "tags": ["Digital Lending", "Zype", "Personal Loans", "FinTech Funding"],
       "audio_text": "In digital lending growth news: Zype raised 90 Crore rupees from Xponentia Capital to scale its digital credit line product, highlighting the market appetite for real-time underwriting rails."
-    },
-    {
-      "id": "card-4",
-      "headline": "Paytm Receives RBI In-Principle Approval for Payment Aggregator (PA) Licence",
-      "category": "FinTech & WealthTech",
-      "source": "Inc42 / Entrackr",
-      "url": "https://inc42.com/buzz/paytm-gets-rbi-nod-for-payment-aggregator-licence/",
-      "summary": "Paytm's subsidiary Paytm Payments Services Limited received in-principle approval from the RBI for its Payment Aggregator (PA) licence, allowing it to onboard new online merchants after regulatory scrutiny.",
-      "pl_impact": "Unlocks merchant acquisition pipelines and cross-sell of merchant cash advance and digital working capital loans, expanding fee income and transaction take-rates.",
-      "action_trigger": "Comment on merchant ecosystem economics: 'The Return of Merchant Rails: How Payment Aggregator Licences Act as the Gateway for High-Margin Merchant Lending.'",
-      "tags": ["Paytm", "RBI", "Payment Aggregator", "Merchant Ecosystem"],
-      "audio_text": "In FinTech corporate developments, Paytm has secured in-principle RBI approval for its Payment Aggregator licence, opening up fresh merchant distribution corridors."
     }
   ]
 }

@@ -1,4 +1,4 @@
-const CACHE_NAME = 'exec-intel-v1';
+const CACHE_NAME = 'exec-intel-v2';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
@@ -31,7 +31,18 @@ self.addEventListener('activate', event => {
 });
 
 self.addEventListener('fetch', event => {
-  // Stale-while-revalidate strategy for data, network-first for fresh updates
+  // Network first for briefing data, stale-while-revalidate for assets
+  if (event.request.url.includes('briefing_today.json')) {
+    event.respondWith(
+      fetch(event.request).then(response => {
+        const resClone = response.clone();
+        caches.open(CACHE_NAME).then(cache => cache.put(event.request, resClone));
+        return response;
+      }).catch(() => caches.match(event.request))
+    );
+    return;
+  }
+
   event.respondWith(
     caches.match(event.request).then(cachedResponse => {
       const fetchPromise = fetch(event.request).then(networkResponse => {

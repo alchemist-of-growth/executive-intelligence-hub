@@ -385,6 +385,7 @@ function setupEventListeners() {
     showToast('Refreshing sector intelligence...');
     elements.refreshLiveBtn.style.transform = 'rotate(360deg)';
     elements.refreshLiveBtn.style.transition = 'transform 0.8s ease';
+    localStorage.removeItem('exec_briefing_today');
     setTimeout(() => {
       elements.refreshLiveBtn.style.transform = 'none';
     }, 800);
