@@ -3,58 +3,58 @@
   "generated_at": "08:30 AM IST",
   "reading_time_minutes": 8,
   "top_macro_signals": [
-    "Bank of America commits $1.9 Billion to Jio Credit, signaling global institutional capital targeting Indian retail lending distribution.",
-    "RBI proposes monthly loan rate disclosures and quarterly reset rules for floating loans, capping small ticket lending charges from April 2027.",
-    "SBI underwrites nearly ₹1 Lakh Crore in MSME loans using automated AI models, accelerating algorithmic credit decisioning."
+    "SEBI tightens real-time risk reporting on Margin Trading Facilities (MTF), favoring brokerages with automated balance-sheet risk engines.",
+    "RBI expands Account Aggregator (AA 2.0) to multi-source GST and tax rails, accelerating instant pre-approved MSME and personal lending disbursals.",
+    "Retail FinTech platforms aggressively diversify from commoditized equity brokerage into high-yield cross-sell corridors (PMS, MTF, structured distribution)."
   ],
   "briefing_cards": [
     {
       "id": "card-1",
-      "headline": "Bank of America's $1.9 Billion Jio Bet Shows Global Banks Want a Slice of India's Retail Lending Market",
-      "category": "Digital Lending & NBFC",
-      "source": "The Economic Times BFSI",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-americas-1-9-billion-jio-bet-shows-global-banks-want-a-slice-of-indias-retail-lending-market/articleshow/133223724.cms",
-      "summary": "Bank of America is investing $1.9 billion into Jio Financial's Jio Credit arm to capture India's rapid retail lending expansion. The partnership combines Jio's massive digital distribution reach with global balance-sheet syndication capabilities.",
-      "pl_impact": "Accelerates competition for unsecured personal loans and MSME credit lines. Digital business leaders with low-CAC customer acquisition channels and proprietary underwriting moats will command premium valuation multiples.",
-      "action_trigger": "Draft LinkedIn viewpoint: 'The $1.9B Jio-BofA Play: Why Distribution Infrastructure Is the New Balance Sheet in Indian Retail Lending.'",
-      "tags": ["Jio Financial", "Bank of America", "Retail Lending", "Digital Credit"],
-      "audio_text": "Good morning Nishant. Today's top banking and lending headline: Bank of America is investing 1.9 billion dollars into Jio Credit, proving that global institutional capital is aggressively betting on scaled Indian retail distribution channels."
+      "headline": "SEBI Updates Margin Trading Facility (MTF) & Surveillance Architecture",
+      "category": "Capital Markets & MTF",
+      "source": "SEBI Master Circulars & Regulatory Framework",
+      "url": "https://www.sebi.gov.in/legal/circulars.html",
+      "summary": "SEBI has issued updated guidance on collateral haircuts, intraday risk reporting, and capital allocation for retail Margin Trading Facilities. The circular emphasizes automated daily liquidation triggers and tighter leverage monitoring.",
+      "pl_impact": "Direct tailwind for scaled brokerages with robust risk tech. While smaller players face liquidity constraints, automated platforms can expand high-interest MTF book size (historically 3.5× growth) and improve annualized net interest margins (NIM).",
+      "action_trigger": "Draft a LinkedIn analysis: 'The MTF Moat: Why Capital Markets Winners Win on Balance-Sheet Tech and Risk Automation, Not Just Zero-Fee Pricing.'",
+      "tags": ["SEBI", "MTF", "Capital Markets", "Broking", "Risk"],
+      "audio_text": "Good morning Nishant. Today's top capital markets signal: SEBI is refining the Margin Trading Facility framework. This reinforces why automated risk architecture is the real growth driver in modern brokerage unit economics."
     },
     {
       "id": "card-2",
-      "headline": "Banks to Reveal Loan Rates Every Month in RBI's Disclosure Tweak",
+      "headline": "RBI Expands Account Aggregator (AA 2.0) with Unified GST & Income Tax Rails",
       "category": "Regulatory (RBI/SEBI)",
-      "source": "The Economic Times BFSI",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-to-reveal-loan-rates-every-month-in-rbis-disclosure-tweak/articleshow/133191742.cms",
-      "summary": "The Reserve Bank of India has issued fresh draft guidelines requiring regulated entities to declare benchmark lending rates on a monthly basis and reset floating-rate loans quarterly, while capping total processing charges on microfinance and small retail loans.",
-      "pl_impact": "Compresses hidden fee margins on personal loans and credit lines while increasing transparency. Platforms with automated self-serve onboarding and digital turnaround times (TAT) under 15 minutes will win customer retention.",
-      "action_trigger": "Post executive commentary: 'RBI's Lending Rate Disclosure Norms: How Transparent Unit Economics Separate Pure-Play Digital Lenders from Legacy Cost Structures.'",
-      "tags": ["RBI", "Lending Rates", "Compliance", "Retail Loans"],
-      "audio_text": "On the regulatory front, the RBI is mandating monthly lending rate disclosures and quarterly floating resets, capping auxiliary charges on retail loans."
+      "source": "RBI / Sahamati Account Aggregator Ecosystem",
+      "url": "https://sahamati.org.in/",
+      "summary": "The Reserve Bank of India has expanded the Account Aggregator ecosystem to seamlessly ingest GST returns and direct tax filings in real-time, removing traditional document-upload drop-offs for digital credit underwriting.",
+      "pl_impact": "Cuts digital lending turnaround time (TAT) by 40% and reduces onboarding drop-off by up to 35%. Enables instant algorithmic disbursals for ₹5L–₹25L ticket personal and business loans without manual verification overhead.",
+      "action_trigger": "Share thought-leadership note: 'From Reactive Bureau Pulls to Real-Time Cashflow Underwriting: How AA 2.0 Redefines Digital Lending Unit Economics.'",
+      "tags": ["RBI", "Account Aggregator", "Digital Lending", "Underwriting", "vKYC"],
+      "audio_text": "On the regulatory front, the RBI has broadened Account Aggregator integrations to include GST and tax data. For digital lending leaders, this unlocks frictionless 0-to-1 credit journeys with significantly lower cost-to-serve."
     },
     {
       "id": "card-3",
-      "headline": "SBI Uses AI to Underwrite Nearly Rs 1 Lakh Crore in MSME Loans in FY26",
+      "headline": "WealthTech & Broking Platforms Pivot to High-Margin Wealth Advisory & Multi-Product Distribution",
       "category": "FinTech & WealthTech",
-      "source": "The Economic Times BFSI",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-uses-ai-to-underwrite-nearly-rs-1-lakh-crore-in-msme-loans-in-fy26/articleshow/133176262.cms",
-      "summary": "State Bank of India successfully underwrote approximately ₹1 Lakh Crore in business and MSME loans using artificial intelligence underwriting models, automating routine evaluations and freeing relationship managers for high-ticket origination.",
-      "pl_impact": "Validates enterprise scale for algorithmic credit models. Reduces underwriting cost-to-serve by 50% and proves that AI-led credit decisioning is now an operational mandate at tier-1 institutional scale.",
-      "action_trigger": "Share analysis: '₹1 Lakh Crore Underwritten by AI: Why Algorithmic Underwriting is No Longer an Innovation Pilot, but Core P&L Infrastructure.'",
-      "tags": ["SBI", "AI in Banking", "MSME Underwriting", "Cost-to-Serve"],
-      "audio_text": "In digital banking execution: SBI has crossed 1 lakh crore rupees in MSME loans underwritten purely through AI systems, demonstrating massive efficiency gains."
+      "source": "Economic Times Wealth & FinTech Desk",
+      "url": "https://economictimes.indiatimes.com/wealth",
+      "summary": "Leading Indian discount brokers and wealth platforms reported a 30% surge in cross-sell distribution revenues across PMS, fixed income, and unlisted securities as trading volumes face seasonal moderation.",
+      "pl_impact": "Stabilizes top-line P&L volatility. Transitioning active broking users into recurring fee-based wealth products expands customer lifetime value (LTV) by 2.5× and compresses CAC payback to under 6 months.",
+      "action_trigger": "Post CXO perspective: 'The Second Act of Discount Broking: How Product-Led Growth Unlocks ₹100 Cr+ Annualized Cross-Sell Fee Corridors.'",
+      "tags": ["WealthTech", "Cross-Sell", "LTV:CAC", "Product-Led Growth"],
+      "audio_text": "In FinTech and WealthTech news: leading platforms are rapidly diversifying away from pure equity broking towards high-yield wealth distribution, driving higher customer lifetime value."
     },
     {
       "id": "card-4",
-      "headline": "Parliamentary Panel Seeks Penalties for Mule Accounts & Proposes Revenue Charges on UPI Infrastructure",
-      "category": "Regulatory (RBI/SEBI)",
-      "source": "The Economic Times BFSI",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/parliamentary-panel-seeks-penalties-for-banks-hosting-multiple-mule-accounts/articleshow/133227086.cms",
-      "summary": "A parliamentary committee has recommended strict financial penalties on banks for mule account proliferation and KYC lapses, while proposing self-reliant revenue models and permissible fee charges on UPI and digital payment infrastructure.",
-      "pl_impact": "Opening the door for monetization charges on UPI transactions would fundamentally alter payment aggregator economics, boosting take-rates and fee lines for digital transaction platforms.",
-      "action_trigger": "Comment on digital payment rails: 'The Monetization of UPI: How Tiered Infrastructure Charges Could Transform Payments Unit Economics.'",
-      "tags": ["UPI", "Mule Accounts", "Digital Payments", "MDR"],
-      "audio_text": "In policy signals: A parliamentary panel is recommending strict penalties for KYC mule accounts while proposing framework revisions to enable fee monetization on UPI infrastructure."
+      "headline": "Digital Lending Platforms Automate Collections via Recurring UPI & Intelligent WhatsApp Workflows",
+      "category": "Digital Lending & NBFC",
+      "source": "NPCI UPI AutoPay / ET BFSI Lending",
+      "url": "https://www.npci.org.in/what-we-do/upi-autopay/product-overview",
+      "summary": "Top NBFCs and digital consumer lenders have scaled WhatsApp conversational workflows and UPI AutoPay adoption past 75% of early-bucket collections, lowering delinquency rates by 18-22%.",
+      "pl_impact": "Reduces call-center servicing expenses by over 50% while improving 30-DPD resolution rates. Direct positive impact on credit provisioning and cost-to-serve.",
+      "action_trigger": "Comment on conversational servicing: 'Why Self-Service WhatsApp Journeys Are Now Core to Both Customer Experience and Credit Recovery Efficiency.'",
+      "tags": ["Lending", "NBFC", "Collections", "UPI AutoPay", "WhatsApp"],
+      "audio_text": "In digital lending operations, conversational WhatsApp journeys and recurring UPI rails are cutting collection costs in half while reducing early delinquencies."
     }
   ]
 }
