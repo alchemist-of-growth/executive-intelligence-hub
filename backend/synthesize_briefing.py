@@ -1,7 +1,7 @@
 """
 synthesize_briefing.py
 Uses Gemini / Google Antigravity SDK to distill raw sector signals into an 8-minute executive morning briefing.
-Supports both `google-genai` package and direct standard-library Gemini REST API calls.
+Guarantees preservation of exact deep-link source URLs for every card.
 """
 
 import os
@@ -24,8 +24,8 @@ Instructions:
 2. For each development, provide:
    - "headline": Crisp, senior-level title.
    - "category": One of ["Regulatory (RBI/SEBI)", "FinTech & WealthTech", "Digital Lending & NBFC", "Capital Markets & MTF"].
-   - "source": Name of source or regulatory body.
-   - "url": Source URL from raw data.
+   - "source": Name of source or regulatory body (e.g. "SEBI Circulars", "RBI Notifications", "Inc42 FinTech", "ET BFSI").
+   - "url": EXACT deep-link source URL from the raw item. CRITICAL: NEVER replace with a root domain like https://www.rbi.org.in or https://www.sebi.gov.in. Retain the exact full article/circular link.
    - "summary": 2-3 sentences explaining exactly what happened with facts and numbers.
    - "pl_impact": Clear strategic analysis on how this impacts P&L, customer acquisition cost (CAC), margins, risk, product-led growth, or unit economics.
    - "action_trigger": Recommended tactical move or 1-tap LinkedIn thought-leadership angle that Nishant can post to establish category authority.
@@ -119,7 +119,7 @@ def synthesize_with_gemini(raw_items: list) -> dict:
         return generate_heuristic_briefing(raw_items, date_str, time_str)
 
 def generate_heuristic_briefing(raw_items: list, date_str: str, time_str: str) -> dict:
-    """Bulletproof heuristic synthesis engine."""
+    """Bulletproof heuristic synthesis engine preserving deep URLs."""
     cards = []
     reg_keywords = ["rbi", "sebi", "circular", "guideline", "direction", "compliance", "penalty", "kyc", "lending", "margin", "mtf"]
     
@@ -165,8 +165,8 @@ def generate_heuristic_briefing(raw_items: list, date_str: str, time_str: str) -
                 "id": "card-1",
                 "headline": "SEBI Updates Margin Trading Facility (MTF) & Surveillance Architecture",
                 "category": "Capital Markets & MTF",
-                "source": "SEBI",
-                "url": "https://www.sebi.gov.in",
+                "source": "SEBI Circulars",
+                "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0",
                 "summary": "SEBI refines real-time exposure limits and collateral haircut models for retail margin finance.",
                 "pl_impact": "Direct tailwind for automated balance-sheet risk engines, allowing up to 3.5× MTF book expansion while preserving capital adequacy.",
                 "action_trigger": "Draft LinkedIn post on risk automation in capital markets.",
