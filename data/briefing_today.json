@@ -5,7 +5,7 @@
   "top_macro_signals": [
     "SEBI expands Online Bond Platforms (OBPPs) to distribute GIFT City IFSCA and 54EC tax-saving securities under Circular HO/17/11/2026.",
     "RBI Governor directs banks & NBFCs to treat AI as a 'board-driven strategic commitment' for credit underwriting and customer journeys.",
-    "Groww and leading WealthTech platforms aggressively scale affluent wealth offerings, PMS integrations, and multi-asset advisory distribution."
+    "Groww doubles down on wealth management & PMS platforms ('W' and 'Prime') to diversify revenues away from cyclical broking."
   ],
   "briefing_cards": [
     {
@@ -34,15 +34,15 @@
     },
     {
       "id": "card-3",
-      "headline": "Groww Steps Up Wealth Management Play via PMS & Multi-Asset Portfolio Solutions",
+      "headline": "Groww Doubles Down on Wealth Management & PMS ('W' Platform) to Diversify Beyond Broking",
       "category": "FinTech & WealthTech",
-      "source": "Hubbis / Economic Times WealthTech",
-      "url": "https://www.hubbis.com/article/groww-steps-up-wealth-play-via-mf-and-portfolio-management-solutions",
-      "summary": "Groww has accelerated its push into affluent wealth management and high-net-worth distribution, integrating Portfolio Management Services (PMS), alternate assets, and curated advisory baskets to capture market share from traditional private banks.",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/startups/groww-steps-up-wealth-play-via-mf-and-portfolio-management-solutions/articleshow/107050000.cms",
+      "summary": "Groww has accelerated its multi-app strategy with dedicated platforms 'Prime' for affluent retail users and 'W' for High-Net-Worth Individuals (HNIs), expanding Portfolio Management Services (PMS), alternative investments, and advisory solutions following its Fisdom integration.",
       "pl_impact": "Direct playbook for expanding customer lifetime value (LTV). By cross-selling PMS and structured products to active broking clients, platforms compress CAC payback to under 6 months and capture 1.5–2% distribution fee take-rates.",
       "action_trigger": "Share thought leadership: 'The Second Act of Discount Broking: How Product-Led Platforms Convert Retail Traders into ₹100 Cr+ Wealth Advisory Pipelines.'",
       "tags": ["WealthTech", "Groww", "PMS", "Cross-Sell", "LTV:CAC"],
-      "audio_text": "In WealthTech moves: Groww is aggressively expanding its affluent wealth management footprint with PMS and multi-asset advisory solutions, proving the power of cross-selling beyond pure equity broking."
+      "audio_text": "In WealthTech moves: Groww is aggressively expanding its affluent wealth management footprint with its dedicated W platform and PMS advisory solutions, proving the power of cross-selling beyond pure equity broking."
     },
     {
       "id": "card-4",
