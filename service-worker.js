@@ -1,18 +1,18 @@
-const CACHE_NAME = 'exec-intel-v2';
+const CACHE_NAME = 'exec-intel-v3';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
   './styles.css',
   './app.js',
-  './manifest.json',
-  './data/briefing_today.json'
+  './manifest.json'
 ];
 
 self.addEventListener('install', event => {
+  self.skipWaiting();
   event.waitUntil(
     caches.open(CACHE_NAME).then(cache => {
       return cache.addAll(ASSETS_TO_CACHE);
-    }).then(() => self.skipWaiting())
+    })
   );
 });
 
@@ -31,18 +31,15 @@ self.addEventListener('activate', event => {
 });
 
 self.addEventListener('fetch', event => {
-  // Network first for briefing data, stale-while-revalidate for assets
-  if (event.request.url.includes('briefing_today.json')) {
+  // Always bypass cache completely for briefing data
+  if (event.request.url.includes('briefing_today.json') || event.request.url.includes('/api/')) {
     event.respondWith(
-      fetch(event.request).then(response => {
-        const resClone = response.clone();
-        caches.open(CACHE_NAME).then(cache => cache.put(event.request, resClone));
-        return response;
-      }).catch(() => caches.match(event.request))
+      fetch(event.request, { cache: 'no-store' }).catch(() => caches.match(event.request))
     );
     return;
   }
 
+  // Stale-while-revalidate for static app assets
   event.respondWith(
     caches.match(event.request).then(cachedResponse => {
       const fetchPromise = fetch(event.request).then(networkResponse => {

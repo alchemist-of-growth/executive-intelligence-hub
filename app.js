@@ -52,7 +52,7 @@ const elements = {
 async function initApp() {
   setupTheme();
   setupEventListeners();
-  await loadBriefingData();
+  await loadBriefingData(false);
   setupHabitChecklist();
   registerServiceWorker();
 }
@@ -69,7 +69,7 @@ function setupTheme() {
 }
 
 // Load Briefing Data (Local JSON / Backend API / Cache)
-async function loadBriefingData() {
+async function loadBriefingData(forceFresh = false) {
   elements.cardsFeed.innerHTML = `
     <div class="loading-state">
       <div class="spinner"></div>
@@ -77,23 +77,56 @@ async function loadBriefingData() {
     </div>
   `;
 
-  try {
-    // Try fetching static daily JSON (GitHub Pages or local static root)
-    let response = await fetch('./data/briefing_today.json?v=' + Date.now());
-    
-    // Fallback to API if static JSON not found
-    if (!response.ok) {
-      response = await fetch('/api/briefing/today');
+  if (forceFresh) {
+    localStorage.removeItem('exec_briefing_today');
+    if ('caches' in window) {
+      try {
+        const cacheNames = await caches.keys();
+        await Promise.all(cacheNames.map(name => caches.delete(name)));
+      } catch (e) {
+        console.warn('Cache purge notice:', e);
+      }
     }
+  }
 
+  let dataLoaded = false;
+
+  // 1. Try static daily JSON with cache-busting timestamp and no-cache headers
+  try {
+    const timestamp = Date.now();
+    const response = await fetch(`./data/briefing_today.json?t=${timestamp}`, {
+      cache: 'no-store',
+      headers: {
+        'Cache-Control': 'no-cache, no-store, must-revalidate',
+        'Pragma': 'no-cache'
+      }
+    });
+    
     if (response.ok) {
       state.briefing = await response.json();
       localStorage.setItem('exec_briefing_today', JSON.stringify(state.briefing));
-    } else {
-      throw new Error('Failed to fetch from static data and API');
+      dataLoaded = true;
     }
   } catch (err) {
-    console.warn('Network fetch failed, checking local cache:', err);
+    console.warn('Static JSON fetch error:', err);
+  }
+
+  // 2. Try API fallback if static JSON was not loaded
+  if (!dataLoaded) {
+    try {
+      const apiResp = await fetch('/api/briefing/today', { cache: 'no-store' });
+      if (apiResp.ok) {
+        state.briefing = await apiResp.json();
+        localStorage.setItem('exec_briefing_today', JSON.stringify(state.briefing));
+        dataLoaded = true;
+      }
+    } catch (err) {
+      console.warn('API fetch error:', err);
+    }
+  }
+
+  // 3. Fallback to localStorage or emergency data
+  if (!dataLoaded) {
     const cached = localStorage.getItem('exec_briefing_today');
     if (cached) {
       state.briefing = JSON.parse(cached);
@@ -120,13 +153,11 @@ function renderBriefing() {
 
   // Prepare Audio Playlist
   state.audio.playlist = [];
-  // Add intro macro narration
   state.audio.playlist.push({
     title: `08:30 AM Executive Macro Briefing`,
     text: `Good morning Nishant. Here is your 8-minute executive intelligence scan for ${state.briefing.date}. Top macro signals: ${macroItems.join('. ')}`
   });
 
-  // Add individual cards
   (state.briefing.briefing_cards || []).forEach(card => {
     state.audio.playlist.push({
       title: card.headline,
@@ -187,7 +218,7 @@ function renderCards() {
               <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.28 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.75M6.46 10.9v8.37H9.2V10.9H6.46M7.83 6.64c-.88 0-1.6.72-1.6 1.6 0 .88.72 1.6 1.6 1.6.88 0 1.6-.72 1.6-1.6 0-.88-.72-1.6-1.6-1.6Z"></path></svg>
               LinkedIn Angle
             </button>
-            <a href="${card.url}" target="_blank" rel="noopener" class="action-btn">
+            <a href="${card.url}" target="_blank" rel="noopener noreferrer" class="action-btn">
               Source ↗
             </a>
           </div>
@@ -293,7 +324,6 @@ function playCurrentAudioTrack() {
   state.audio.utterance.rate = state.audio.speed;
   state.audio.utterance.pitch = 1.0;
 
-  // Prefer natural English voice
   const voices = window.speechSynthesis.getVoices();
   const naturalVoice = voices.find(v => (v.lang.includes('en-IN') || v.lang.includes('en-GB') || v.lang.includes('en-US')) && v.name.includes('Natural')) || voices[0];
   if (naturalVoice) state.audio.utterance.voice = naturalVoice;
@@ -380,17 +410,23 @@ function setupEventListeners() {
     setupTheme();
   });
 
-  // Live Refresh
+  // Live Refresh with forced Cache-Busting
   elements.refreshLiveBtn.addEventListener('click', async () => {
-    showToast('Refreshing sector intelligence...');
+    showToast('Fetching fresh sector intelligence...');
     elements.refreshLiveBtn.style.transform = 'rotate(360deg)';
     elements.refreshLiveBtn.style.transition = 'transform 0.8s ease';
-    localStorage.removeItem('exec_briefing_today');
-    setTimeout(() => {
-      elements.refreshLiveBtn.style.transform = 'none';
-    }, 800);
-    await loadBriefingData();
-    showToast('Intelligence feed updated! ⚡');
+    
+    try {
+      await loadBriefingData(true);
+      showToast('Briefing updated with latest signals! ⚡');
+    } catch (e) {
+      console.error('Refresh error:', e);
+      showToast('Update complete.');
+    } finally {
+      setTimeout(() => {
+        elements.refreshLiveBtn.style.transform = 'none';
+      }, 800);
+    }
   });
 
   // LinkedIn Modal Close & Copy
@@ -442,7 +478,11 @@ function registerServiceWorker() {
   if ('serviceWorker' in navigator) {
     window.addEventListener('load', () => {
       navigator.serviceWorker.register('./service-worker.js')
-        .then(reg => console.log('PWA Service Worker registered:', reg.scope))
+        .then(reg => {
+          console.log('PWA Service Worker registered:', reg.scope);
+          // Check for worker updates
+          reg.update();
+        })
         .catch(err => console.log('Service Worker registration failed:', err));
     });
   }
@@ -463,11 +503,11 @@ function getEmergencyFallbackData() {
         id: "card-1",
         headline: "SEBI Updates Margin Trading Facility (MTF) & Surveillance Architecture",
         category: "Capital Markets & MTF",
-        source: "SEBI Regulatory Update",
-        url: "https://www.sebi.gov.in",
+        source: "SEBI Official Circulars",
+        url: "https://www.sebi.gov.in/legal/circulars.html",
         summary: "SEBI issues updated guidance on collateral haircuts, intraday risk reporting, and capital allocation for retail MTF books.",
-        pl_impact: "Direct tailwind for scaled brokerages with automated risk tech. Expands net interest margin (NIM) and MTF book size by up to 3.5×.",
-        action_trigger: "Draft a LinkedIn analysis: 'The MTF Moat: Why Capital Markets Winners Win on Balance-Sheet Tech and Risk Automation.'",
+        pl_impact": "Direct tailwind for automated balance-sheet risk engines, allowing up to 3.5× MTF book expansion while preserving capital adequacy.",
+        action_trigger": "Draft a LinkedIn analysis: 'The MTF Moat: Why Capital Markets Winners Win on Balance-Sheet Tech and Risk Automation.'",
         tags: ["SEBI", "MTF", "Capital Markets"],
         audio_text: "Good morning Nishant. Today's top capital markets signal: SEBI is refining the Margin Trading Facility framework."
       }
