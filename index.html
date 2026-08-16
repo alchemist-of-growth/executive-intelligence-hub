@@ -6,10 +6,10 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="ExecIntel">
-  <meta name="theme-color" content="#0d1117">
-  <meta name="description" content="Morning Sector Intelligence & Regulatory Scan for FinTech & BFSI CXOs - Nishant Agarwal">
+  <meta name="theme-color" content="#0b0f17">
+  <meta name="description" content="Morning Sector Intelligence & Capital Markets Broking Wire - Nishant Agarwal">
 
-  <title>Executive Intelligence Hub | 08:30 AM Briefing</title>
+  <title>Executive Intelligence Hub | Broking Wire & 08:30 AM Briefing</title>
 
   <!-- Google Fonts: Plus Jakarta Sans & Outfit -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -45,6 +45,16 @@
       </div>
     </div>
 
+    <!-- Mode Switcher Tabs: 8-Min Briefing vs Continuous Broking Scroll -->
+    <div class="view-mode-switcher">
+      <button id="modeDigestBtn" class="mode-tab active">
+        <span class="tab-icon">✦</span> 8-Min Digest
+      </button>
+      <button id="modeWireBtn" class="mode-tab">
+        <span class="tab-icon">⚡</span> Broking Wire Scroll
+      </button>
+    </div>
+
     <div class="briefing-meta-bar">
       <div class="meta-pill date-pill">
         <span class="live-pulse"></span>
@@ -60,40 +70,80 @@
   <!-- Main Container -->
   <main class="main-content" id="mainContent">
 
-    <!-- Hero: Macro Signals of the Day -->
-    <section class="macro-signals-hero" id="macroSignalsSection">
-      <div class="hero-header">
-        <div class="hero-tag">
-          <span class="sparkle-icon">✦</span> 08:30 AM EXECUTIVE MACRO SCAN
+    <!-- VIEW 1: 8-MINUTE EXECUTIVE DIGEST VIEW -->
+    <section id="digestView" class="view-section">
+      <!-- Hero: Macro Signals of the Day -->
+      <section class="macro-signals-hero" id="macroSignalsSection">
+        <div class="hero-header">
+          <div class="hero-tag">
+            <span class="sparkle-icon">✦</span> 08:30 AM EXECUTIVE MACRO SCAN
+          </div>
+          <button id="listenAllBtn" class="hero-listen-btn">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+            Listen to Brief (8m)
+          </button>
         </div>
-        <button id="listenAllBtn" class="hero-listen-btn">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
-          Listen to Brief (8m)
-        </button>
-      </div>
-      <h2 class="hero-title">Key Regulatory & Market Signals</h2>
-      <ul class="macro-list" id="macroList">
-        <li>Loading real-time regulatory and FinTech signals...</li>
-      </ul>
+        <h2 class="hero-title">Key Regulatory & Market Signals</h2>
+        <ul class="macro-list" id="macroList">
+          <li>Loading real-time regulatory and FinTech signals...</li>
+        </ul>
+      </section>
+
+      <!-- Category Filters Navigation -->
+      <nav class="category-nav" id="categoryNav">
+        <button class="cat-pill active" data-category="ALL">All Signals</button>
+        <button class="cat-pill" data-category="Capital Markets & MTF">🟣 MTF & Broking</button>
+        <button class="cat-pill" data-category="Regulatory (RBI/SEBI)">🔴 RBI & SEBI</button>
+        <button class="cat-pill" data-category="FinTech & WealthTech">🟢 WealthTech</button>
+        <button class="cat-pill" data-category="Digital Lending & NBFC">🟡 Digital Lending</button>
+        <button class="cat-pill" data-category="BOOKMARKS">⭐ Bookmarked</button>
+      </nav>
+
+      <!-- Briefing Cards Feed -->
+      <section class="cards-feed" id="cardsFeed">
+        <div class="loading-state">
+          <div class="spinner"></div>
+          <p>Fetching 08:30 AM Sector Intelligence...</p>
+        </div>
+      </section>
     </section>
 
-    <!-- Category Filters Navigation -->
-    <nav class="category-nav" id="categoryNav">
-      <button class="cat-pill active" data-category="ALL">All Signals</button>
-      <button class="cat-pill" data-category="Regulatory (RBI/SEBI)">🔴 RBI & SEBI</button>
-      <button class="cat-pill" data-category="FinTech & WealthTech">🟢 WealthTech</button>
-      <button class="cat-pill" data-category="Capital Markets & MTF">🟣 MTF & Broking</button>
-      <button class="cat-pill" data-category="Digital Lending & NBFC">🟡 Digital Lending</button>
-      <button class="cat-pill" data-category="BOOKMARKS">⭐ Bookmarked</button>
-    </nav>
+    <!-- VIEW 2: CONTINUOUS BROKING & CAPITAL MARKETS WIRE SCROLL -->
+    <section id="wireView" class="view-section hidden">
+      <div class="wire-header-box">
+        <div class="wire-title-row">
+          <div>
+            <h2 class="wire-main-title">⚡ Capital Markets & Broking Wire</h2>
+            <p class="wire-subtitle">Continuous feed: Retail Broking, MTF, F&O, SEBI, Demat & Competitors</p>
+          </div>
+          <span class="wire-count-badge" id="wireCountBadge">0 Updates</span>
+        </div>
 
-    <!-- Briefing Cards Feed -->
-    <section class="cards-feed" id="cardsFeed">
-      <!-- Injected via JavaScript -->
-      <div class="loading-state">
-        <div class="spinner"></div>
-        <p>Fetching 08:30 AM Sector Intelligence & Regulatory Scans...</p>
+        <!-- Live Search Bar -->
+        <div class="wire-search-box">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+          <input type="text" id="wireSearchInput" placeholder="Search MTF, F&O, Groww, Zerodha, Demat, SEBI..." autocomplete="off">
+          <button id="clearSearchBtn" class="clear-search-btn hidden">&times;</button>
+        </div>
+
+        <!-- Broking Quick Filter Tags -->
+        <div class="wire-tag-filters" id="wireTagFilters">
+          <button class="wire-tag-pill active" data-tag="ALL">All News</button>
+          <button class="wire-tag-pill" data-tag="MTF">MTF & Margin</button>
+          <button class="wire-tag-pill" data-tag="DERIVATIVES">F&O / Derivatives</button>
+          <button class="wire-tag-pill" data-tag="DEMAT">Demat & NSE/BSE</button>
+          <button class="wire-tag-pill" data-tag="GROWW">Groww & Zerodha</button>
+          <button class="wire-tag-pill" data-tag="SEBI">SEBI Circulars</button>
+        </div>
       </div>
+
+      <!-- Infinite Stream Cards Container -->
+      <section class="wire-stream-feed" id="wireStreamFeed">
+        <div class="loading-state">
+          <div class="spinner"></div>
+          <p>Loading Broking Wire Stream...</p>
+        </div>
+      </section>
     </section>
 
     <!-- Habit Stack Progress Checklist -->
@@ -103,8 +153,8 @@
         <label class="habit-item completed">
           <input type="checkbox" checked id="habit1">
           <span class="habit-label">
-            <strong>08:30–08:38 (8m) Sector & Regulatory Scan</strong>
-            <small>Review RBI/SEBI circulars, MTF shifts, & FinTech signals</small>
+            <strong>08:30–08:38 (8m) Sector & Broking Scan</strong>
+            <small>Review SEBI circulars, MTF shifts, & competitor moves</small>
           </span>
         </label>
         <label class="habit-item">
@@ -168,7 +218,7 @@
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
           Copy to Clipboard
         </button>
-        <a id="openLinkedInBtn" href="https://www.linkedin.com/feed/" target="_blank" rel="noopener" class="btn-secondary">
+        <a id="openLinkedInBtn" href="https://www.linkedin.com/feed/" target="_blank" rel="noopener noreferrer" class="btn-secondary">
           Open LinkedIn
         </a>
       </div>

@@ -1,12 +1,16 @@
 /**
- * app.js - Executive Intelligence Hub PWA Client Logic
- * Designed for Nishant Agarwal
+ * app.js - Executive Intelligence Hub & Broking Wire PWA Client Logic
+ * Designed for Nishant Agarwal (Head of Digital Business & Strategy / CGO)
  */
 
 // Application State
 const state = {
   briefing: null,
+  brokingStream: [],
+  activeView: 'digest', // 'digest' or 'wire'
   activeCategory: 'ALL',
+  activeWireTag: 'ALL',
+  wireSearchQuery: '',
   bookmarks: JSON.parse(localStorage.getItem('exec_bookmarks') || '[]'),
   audio: {
     isPlaying: false,
@@ -27,6 +31,19 @@ const elements = {
   themeToggleBtn: document.getElementById('themeToggleBtn'),
   refreshLiveBtn: document.getElementById('refreshLiveBtn'),
   listenAllBtn: document.getElementById('listenAllBtn'),
+  
+  // View Switchers
+  modeDigestBtn: document.getElementById('modeDigestBtn'),
+  modeWireBtn: document.getElementById('modeWireBtn'),
+  digestView: document.getElementById('digestView'),
+  wireView: document.getElementById('wireView'),
+  
+  // Wire Stream Elements
+  wireStreamFeed: document.getElementById('wireStreamFeed'),
+  wireCountBadge: document.getElementById('wireCountBadge'),
+  wireSearchInput: document.getElementById('wireSearchInput'),
+  clearSearchBtn: document.getElementById('clearSearchBtn'),
+  wireTagFilters: document.getElementById('wireTagFilters'),
   
   // Audio Player Elements
   audioPlayerBar: document.getElementById('audioPlayerBar'),
@@ -52,7 +69,7 @@ const elements = {
 async function initApp() {
   setupTheme();
   setupEventListeners();
-  await loadBriefingData(false);
+  await loadAllData(false);
   setupHabitChecklist();
   registerServiceWorker();
 }
@@ -68,17 +85,11 @@ function setupTheme() {
   }
 }
 
-// Load Briefing Data (Local JSON / Backend API / Cache)
-async function loadBriefingData(forceFresh = false) {
-  elements.cardsFeed.innerHTML = `
-    <div class="loading-state">
-      <div class="spinner"></div>
-      <p>Loading 08:30 AM Sector Intelligence & Regulatory Scans...</p>
-    </div>
-  `;
-
+// Load Both Curated Briefing and Continuous Broking Stream
+async function loadAllData(forceFresh = false) {
   if (forceFresh) {
     localStorage.removeItem('exec_briefing_today');
+    localStorage.removeItem('exec_broking_stream');
     if ('caches' in window) {
       try {
         const cacheNames = await caches.keys();
@@ -89,69 +100,56 @@ async function loadBriefingData(forceFresh = false) {
     }
   }
 
-  let dataLoaded = false;
+  const timestamp = Date.now();
 
-  // 1. Try static daily JSON with cache-busting timestamp and no-cache headers
+  // 1. Load Curated Briefing
   try {
-    const timestamp = Date.now();
-    const response = await fetch(`./data/briefing_today.json?t=${timestamp}`, {
+    const resp = await fetch(`./data/briefing_today.json?t=${timestamp}`, {
       cache: 'no-store',
-      headers: {
-        'Cache-Control': 'no-cache, no-store, must-revalidate',
-        'Pragma': 'no-cache'
-      }
+      headers: { 'Cache-Control': 'no-cache, no-store, must-revalidate' }
     });
-    
-    if (response.ok) {
-      state.briefing = await response.json();
+    if (resp.ok) {
+      state.briefing = await resp.json();
       localStorage.setItem('exec_briefing_today', JSON.stringify(state.briefing));
-      dataLoaded = true;
     }
   } catch (err) {
-    console.warn('Static JSON fetch error:', err);
-  }
-
-  // 2. Try API fallback if static JSON was not loaded
-  if (!dataLoaded) {
-    try {
-      const apiResp = await fetch('/api/briefing/today', { cache: 'no-store' });
-      if (apiResp.ok) {
-        state.briefing = await apiResp.json();
-        localStorage.setItem('exec_briefing_today', JSON.stringify(state.briefing));
-        dataLoaded = true;
-      }
-    } catch (err) {
-      console.warn('API fetch error:', err);
-    }
-  }
-
-  // 3. Fallback to localStorage or emergency data
-  if (!dataLoaded) {
+    console.warn('Briefing fetch notice:', err);
     const cached = localStorage.getItem('exec_briefing_today');
-    if (cached) {
-      state.briefing = JSON.parse(cached);
-    } else {
-      state.briefing = getEmergencyFallbackData();
+    if (cached) state.briefing = JSON.parse(cached);
+  }
+
+  // 2. Load Continuous Broking News Stream
+  try {
+    const streamResp = await fetch(`./data/broking_stream.json?t=${timestamp}`, {
+      cache: 'no-store',
+      headers: { 'Cache-Control': 'no-cache, no-store, must-revalidate' }
+    });
+    if (streamResp.ok) {
+      state.brokingStream = await streamResp.json();
+      localStorage.setItem('exec_broking_stream', JSON.stringify(state.brokingStream));
     }
+  } catch (err) {
+    console.warn('Broking stream fetch notice:', err);
+    const cachedStream = localStorage.getItem('exec_broking_stream');
+    if (cachedStream) state.brokingStream = JSON.parse(cachedStream);
   }
 
   renderBriefing();
+  renderBrokingWire();
 }
 
-// Render Header, Macro Signals, and Cards
+// Render 8-Min Executive Digest View
 function renderBriefing() {
   if (!state.briefing) return;
 
-  // Header meta
   elements.briefingDate.textContent = `${state.briefing.date} • ${state.briefing.generated_at}`;
 
-  // Macro Signals Hero
   const macroItems = state.briefing.top_macro_signals || [];
   elements.macroList.innerHTML = macroItems
     .map(signal => `<li>${signal}</li>`)
     .join('');
 
-  // Prepare Audio Playlist
+  // Audio Playlist
   state.audio.playlist = [];
   state.audio.playlist.push({
     title: `08:30 AM Executive Macro Briefing`,
@@ -168,9 +166,9 @@ function renderBriefing() {
   renderCards();
 }
 
-// Render Briefing Cards based on active category
+// Render Digest Cards
 function renderCards() {
-  const cards = state.briefing.briefing_cards || [];
+  const cards = state.briefing ? (state.briefing.briefing_cards || []) : [];
   let filtered = [];
 
   if (state.activeCategory === 'ALL') {
@@ -231,11 +229,87 @@ function renderCards() {
   }).join('');
 }
 
+// Render Continuous Broking News Wire Stream Scroll
+function renderBrokingWire() {
+  const stream = state.brokingStream || [];
+  let filtered = stream;
+
+  // Filter by search query
+  if (state.wireSearchQuery.trim()) {
+    const q = state.wireSearchQuery.toLowerCase();
+    filtered = filtered.filter(item => 
+      (item.title && item.title.toLowerCase().includes(q)) ||
+      (item.summary && item.summary.toLowerCase().includes(q)) ||
+      (item.source && item.source.toLowerCase().includes(q)) ||
+      (item.tags && item.tags.some(t => t.toLowerCase().includes(q)))
+    );
+  }
+
+  // Filter by tag chip
+  if (state.activeWireTag !== 'ALL') {
+    const tagQ = state.activeWireTag.toLowerCase();
+    filtered = filtered.filter(item => 
+      (item.tags && item.tags.some(t => t.toLowerCase().includes(tagQ))) ||
+      (item.subcategory && item.subcategory.toLowerCase().includes(tagQ)) ||
+      (item.title && item.title.toLowerCase().includes(tagQ))
+    );
+  }
+
+  elements.wireCountBadge.textContent = `${filtered.length} Updates`;
+
+  if (filtered.length === 0) {
+    elements.wireStreamFeed.innerHTML = `
+      <div class="loading-state">
+        <p>No matching broking news signals found for "${state.wireSearchQuery || state.activeWireTag}".</p>
+      </div>
+    `;
+    return;
+  }
+
+  elements.wireStreamFeed.innerHTML = filtered.map(item => {
+    const tagsHtml = (item.tags || []).map(t => `<span class="wire-tag-badge">#${t}</span>`).join('');
+    
+    return `
+      <article class="wire-card" id="${item.id}">
+        <div class="wire-card-top">
+          <span class="wire-source">${item.source} • ${item.subcategory || 'Broking'}</span>
+          <span class="wire-time">${item.published || 'Today'}</span>
+        </div>
+        <h4 class="wire-title">${item.title}</h4>
+        <p class="wire-summary">${item.summary}</p>
+        <div class="wire-card-footer">
+          <div class="wire-tags">${tagsHtml}</div>
+          <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="wire-link-btn">
+            Read Source ↗
+          </a>
+        </div>
+      </article>
+    `;
+  }).join('');
+}
+
 function getBadgeClass(category) {
   if (category.includes('RBI') || category.includes('SEBI') || category.includes('Regulatory')) return 'badge-reg';
   if (category.includes('FinTech') || category.includes('WealthTech')) return 'badge-fin';
   if (category.includes('MTF') || category.includes('Capital Markets')) return 'badge-mkt';
   return 'badge-lend';
+}
+
+// Switch View Modes
+function switchViewMode(mode) {
+  state.activeView = mode;
+  if (mode === 'digest') {
+    elements.modeDigestBtn.classList.add('active');
+    elements.modeWireBtn.classList.remove('active');
+    elements.digestView.classList.remove('hidden');
+    elements.wireView.classList.add('hidden');
+  } else {
+    elements.modeWireBtn.classList.add('active');
+    elements.modeDigestBtn.classList.remove('active');
+    elements.wireView.classList.remove('hidden');
+    elements.digestView.classList.add('hidden');
+    renderBrokingWire();
+  }
 }
 
 // Bookmark Toggle
@@ -258,24 +332,24 @@ window.openLinkedInAngle = function(cardId) {
 
   elements.modalHeadline.textContent = card.headline;
 
-  const postDraft = `🚀 Strategic Lens on Indian BFSI & FinTech: ${card.headline}
+  const postDraft = `🚀 Strategic Lens on Capital Markets & Broking: ${card.headline}
 
-In scaling digital businesses and retail distribution models, regulatory shifts and market changes aren't roadblocks—they are unit-economics moats for agile teams.
+In retail broking and digital wealth distribution, market structure shifts and regulatory circulars aren't barriers—they are commercial moats for teams that execute with discipline.
 
-Key Development:
+Key Market Signal:
 ${card.summary}
 
-The Commercial & P&L Reality:
+The P&L & Balance Sheet Reality:
 ${card.pl_impact}
 
 Executive Takeaway:
 ${card.action_trigger}
 
-For digital leaders and platforms, the playbook is clear: optimize turnaround time, eliminate onboarding friction, and build automated self-service rails before margin compression forces your hand.
+For digital platforms, the playbook is clear: scale automated margin risk management, eliminate customer onboarding friction, and build sticky multi-asset cross-sell corridors.
 
-How is your organization adapting to this shift?
+How is your leadership team positioning for this shift?
 
-#FinTech #BFSI #DigitalLending #WealthTech #Growth #Leadership #Strategy`;
+#CapitalMarkets #Broking #MTF #FinTech #WealthTech #Growth #Leadership #Strategy`;
 
   elements.linkedInPostText.value = postDraft;
   elements.linkedInModal.classList.remove('hidden');
@@ -393,7 +467,39 @@ function updateAudioProgress() {
 
 // Setup Event Listeners
 function setupEventListeners() {
-  // Category Pill Navigation
+  // Mode Switchers
+  elements.modeDigestBtn.addEventListener('click', () => switchViewMode('digest'));
+  elements.modeWireBtn.addEventListener('click', () => switchViewMode('wire'));
+
+  // Live Wire Search Input
+  elements.wireSearchInput.addEventListener('input', e => {
+    state.wireSearchQuery = e.target.value;
+    if (state.wireSearchQuery.trim()) {
+      elements.clearSearchBtn.classList.remove('hidden');
+    } else {
+      elements.clearSearchBtn.classList.add('hidden');
+    }
+    renderBrokingWire();
+  });
+
+  elements.clearSearchBtn.addEventListener('click', () => {
+    elements.wireSearchInput.value = '';
+    state.wireSearchQuery = '';
+    elements.clearSearchBtn.classList.add('hidden');
+    renderBrokingWire();
+  });
+
+  // Wire Tag Filters
+  elements.wireTagFilters.addEventListener('click', e => {
+    if (e.target.classList.contains('wire-tag-pill')) {
+      document.querySelectorAll('.wire-tag-pill').forEach(btn => btn.classList.remove('active'));
+      e.target.classList.add('active');
+      state.activeWireTag = e.target.dataset.tag;
+      renderBrokingWire();
+    }
+  });
+
+  // Category Pill Navigation for Digest
   elements.categoryNav.addEventListener('click', e => {
     if (e.target.classList.contains('cat-pill')) {
       document.querySelectorAll('.cat-pill').forEach(btn => btn.classList.remove('active'));
@@ -417,8 +523,8 @@ function setupEventListeners() {
     elements.refreshLiveBtn.style.transition = 'transform 0.8s ease';
     
     try {
-      await loadBriefingData(true);
-      showToast('Briefing updated with latest signals! ⚡');
+      await loadAllData(true);
+      showToast('Feed updated with latest signals! ⚡');
     } catch (e) {
       console.error('Refresh error:', e);
       showToast('Update complete.');
@@ -480,39 +586,11 @@ function registerServiceWorker() {
       navigator.serviceWorker.register('./service-worker.js')
         .then(reg => {
           console.log('PWA Service Worker registered:', reg.scope);
-          // Check for worker updates
           reg.update();
         })
         .catch(err => console.log('Service Worker registration failed:', err));
     });
   }
-}
-
-// Fallback emergency data
-function getEmergencyFallbackData() {
-  return {
-    date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
-    generated_at: '08:30 AM IST',
-    top_macro_signals: [
-      "SEBI updates Margin Trading Facility (MTF) surveillance framework.",
-      "RBI expands Account Aggregator (AA 2.0) to GST and tax rails for frictionless credit.",
-      "WealthTech platforms accelerate cross-sell transition towards active advisory products."
-    ],
-    briefing_cards: [
-      {
-        id: "card-1",
-        headline: "SEBI Updates Margin Trading Facility (MTF) & Surveillance Architecture",
-        category: "Capital Markets & MTF",
-        source: "SEBI Official Circulars",
-        url: "https://www.sebi.gov.in/legal/circulars.html",
-        summary: "SEBI issues updated guidance on collateral haircuts, intraday risk reporting, and capital allocation for retail MTF books.",
-        pl_impact": "Direct tailwind for automated balance-sheet risk engines, allowing up to 3.5× MTF book expansion while preserving capital adequacy.",
-        action_trigger": "Draft a LinkedIn analysis: 'The MTF Moat: Why Capital Markets Winners Win on Balance-Sheet Tech and Risk Automation.'",
-        tags: ["SEBI", "MTF", "Capital Markets"],
-        audio_text: "Good morning Nishant. Today's top capital markets signal: SEBI is refining the Margin Trading Facility framework."
-      }
-    ]
-  };
 }
 
 // Start App

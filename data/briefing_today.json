@@ -1,6 +1,6 @@
 {
   "date": "August 16, 2026",
-  "generated_at": "03:38 AM IST",
+  "generated_at": "11:02 AM IST",
   "reading_time_minutes": 8,
   "top_macro_signals": [
     "SEBI and RBI tightening risk architectures while accelerating instant digital rails (Account Aggregator, vKYC).",
@@ -10,105 +10,105 @@
   "briefing_cards": [
     {
       "id": "card-1",
-      "headline": "RBI: Organisation Structure",
-      "category": "Regulatory (RBI/SEBI)",
-      "source": "Reserve Bank of India",
-      "url": "https://www.rbi.org.in/Scripts/scripts/AboutUsDisplay.aspx?pg=OrganizationStructure.htm",
-      "summary": "Reserve Bank of India regulatory release: Organisation Structure",
-      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn Reserve Bank of India Directives into Scaled Distribution Moats.'",
+      "headline": "SEBI Updates Margin Trading Facility (MTF) & Surveillance Architecture",
+      "category": "Capital Markets & MTF",
+      "source": "SEBI Official Circulars",
+      "url": "https://www.sebi.gov.in/legal/circulars.html",
+      "summary": "SEBI refines real-time exposure limits and collateral haircut models for retail margin finance.",
+      "pl_impact": "Direct impact on collateral utilization and net interest margins (NIM). Brokerages scaling automated risk platforms can expand MTF books with controlled capital adequacy.",
+      "action_trigger": "Post on LinkedIn: 'The Structural MTF Advantage: Why Technology & Real-Time Risk Surpass Aggressive Fee Discounting in Broking Economics.'",
       "tags": [
         "BFSI",
         "Growth",
         "FinTech",
         "Strategy"
       ],
-      "audio_text": "Story from Reserve Bank of India: RBI: Organisation Structure. Details: Reserve Bank of India regulatory release: Organisation Structure. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+      "audio_text": "Story from SEBI Official Circulars: SEBI Updates Margin Trading Facility (MTF) & Surveillance Architecture. Details: SEBI refines real-time exposure limits and collateral haircut models for retail margin finance.. Strategic P&L take: Direct impact on collateral utilization and net interest margins (NIM). Brokerages scaling automated risk platforms can expand MTF books with controlled capital adequacy."
     },
     {
       "id": "card-2",
-      "headline": "RBI: College of Agricultural Banking",
+      "headline": "Sebi proposes to rationalise penalties for settling ongoing cases",
       "category": "Regulatory (RBI/SEBI)",
-      "source": "Reserve Bank of India",
-      "url": "https://cab.rbi.org.in",
-      "summary": "Reserve Bank of India regulatory release: College of Agricultural Banking",
+      "source": "ET Markets - Stocks & Broking",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-to-rationalise-penalties-for-settling-ongoing-cases/articleshow/133245779.cms",
+      "summary": "India's market regulator has introduced an updated framework for addressing securities law violations, designed to streamline processes and decrease litigation. This proposed method may lead to reduced average settlement amounts for infractions. Individuals who faced prior rejections can submit new ",
       "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn Reserve Bank of India Directives into Scaled Distribution Moats.'",
+      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn ET Markets - Stocks & Broking Directives into Scaled Distribution Moats.'",
       "tags": [
         "BFSI",
         "Growth",
         "FinTech",
         "Strategy"
       ],
-      "audio_text": "Story from Reserve Bank of India: RBI: College of Agricultural Banking. Details: Reserve Bank of India regulatory release: College of Agricultural Banking. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+      "audio_text": "Story from ET Markets - Stocks & Broking: Sebi proposes to rationalise penalties for settling ongoing cases. Details: India's market regulator has introduced an updated framework for addressing securities law violations, designed to streamline processes and decrease litigation. This proposed method may lead to reduced average settlement amounts for infractions. Individuals who faced prior rejections can submit new . Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
       "id": "card-3",
-      "headline": "RBI: Reserve Bank Staff College",
+      "headline": "Sebi mulls digital onboarding for individual foreign investors to boost participation in securities mkt",
       "category": "Regulatory (RBI/SEBI)",
-      "source": "Reserve Bank of India",
-      "url": "https://www.rbi.org.in/Scripts/scripts/rbsc.aspx",
-      "summary": "Reserve Bank of India regulatory release: Reserve Bank Staff College",
+      "source": "ET Markets - Stocks & Broking",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-mulls-digital-onboarding-for-individual-foreign-investors-to-boost-participation-in-securities-mkt/articleshow/133245737.cms",
+      "summary": "Sebi has put forth a proposal for the digital onboarding of individual foreign investors, aimed at enhancing their access to markets. Intermediaries could utilize video verification for clients based abroad. Additionally, the framework suggests accepting KYC from other Sebi-registered entities. This",
       "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn Reserve Bank of India Directives into Scaled Distribution Moats.'",
+      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn ET Markets - Stocks & Broking Directives into Scaled Distribution Moats.'",
       "tags": [
         "BFSI",
         "Growth",
         "FinTech",
         "Strategy"
       ],
-      "audio_text": "Story from Reserve Bank of India: RBI: Reserve Bank Staff College. Details: Reserve Bank of India regulatory release: Reserve Bank Staff College. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+      "audio_text": "Story from ET Markets - Stocks & Broking: Sebi mulls digital onboarding for individual foreign investors to boost participation in securities mkt. Details: Sebi has put forth a proposal for the digital onboarding of individual foreign investors, aimed at enhancing their access to markets. Intermediaries could utilize video verification for clients based abroad. Additionally, the framework suggests accepting KYC from other Sebi-registered entities. This. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
       "id": "card-4",
-      "headline": "RBI: College of Supervisors",
-      "category": "Regulatory (RBI/SEBI)",
-      "source": "Reserve Bank of India",
-      "url": "https://cos.rbi.org.in/",
-      "summary": "Reserve Bank of India regulatory release: College of Supervisors",
-      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn Reserve Bank of India Directives into Scaled Distribution Moats.'",
+      "headline": "Concurrent Losers: 11 stocks decline for 5 consecutive sessions",
+      "category": "FinTech & WealthTech",
+      "source": "ET Markets - Stocks & Broking",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-11-stocks-decline-for-5-consecutive-sessions/slideshow/133258683.cms",
+      "summary": "The Sensex fell 490 points over five sessions through August 14, while 23 BSE 500 stocks declined daily. Eleven stocks dropped more than 5%, led by Aditya Birla Fashion and Retail, Physicswallah and Techno Electric Engineering.",
+      "pl_impact": "Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base.",
+      "action_trigger": "Engage peer group on product-led growth loops and automated lifecycle servicing.",
       "tags": [
         "BFSI",
         "Growth",
         "FinTech",
         "Strategy"
       ],
-      "audio_text": "Story from Reserve Bank of India: RBI: College of Supervisors. Details: Reserve Bank of India regulatory release: College of Supervisors. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+      "audio_text": "Story from ET Markets - Stocks & Broking: Concurrent Losers: 11 stocks decline for 5 consecutive sessions. Details: The Sensex fell 490 points over five sessions through August 14, while 23 BSE 500 stocks declined daily. Eleven stocks dropped more than 5%, led by Aditya Birla Fashion and Retail, Physicswallah and Techno Electric Engineering.. Strategic P&L take: Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base."
     },
     {
       "id": "card-5",
-      "headline": "SEBI: Modification in the regulatory framework for Online Bond Platform Providers (OBPPs) including measures for promoting ease of doing business",
-      "category": "Regulatory (RBI/SEBI)",
-      "source": "SEBI",
-      "url": "https://www.sebi.gov.in/legal/circulars/aug-2026/modification-in-the-regulatory-framework-for-online-bond-platform-providers-obpps-including-measures-for-promoting-ease-of-doing-business_103647.html",
-      "summary": "Securities and Exchange Board of India circular: Modification in the regulatory framework for Online Bond Platform Providers (OBPPs) including measures for promoting ease of doing business",
-      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn SEBI Directives into Scaled Distribution Moats.'",
+      "headline": "D-Street ends in red for a third week on West Asia deal delay, oil spike",
+      "category": "FinTech & WealthTech",
+      "source": "ET Markets - Stocks & Broking",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-ends-in-red-for-a-third-week-on-west-asia-deal-delay-oil-spike/articleshow/133255400.cms",
+      "summary": "The Indian equity market saw a decline on Friday, ending a lackluster trading week as geopolitical tensions and rising crude oil prices loomed over Dalal Street. With the benchmark indices marking their third consecutive week of losses, market apprehensions were evident. Despite this, the results se",
+      "pl_impact": "Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base.",
+      "action_trigger": "Engage peer group on product-led growth loops and automated lifecycle servicing.",
       "tags": [
         "BFSI",
         "Growth",
         "FinTech",
         "Strategy"
       ],
-      "audio_text": "Story from SEBI: SEBI: Modification in the regulatory framework for Online Bond Platform Providers (OBPPs) including measures for promoting ease of doing business. Details: Securities and Exchange Board of India circular: Modification in the regulatory framework for Online Bond Platform Providers (OBPPs) including measures for promoting ease of doing business. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+      "audio_text": "Story from ET Markets - Stocks & Broking: D-Street ends in red for a third week on West Asia deal delay, oil spike. Details: The Indian equity market saw a decline on Friday, ending a lackluster trading week as geopolitical tensions and rising crude oil prices loomed over Dalal Street. With the benchmark indices marking their third consecutive week of losses, market apprehensions were evident. Despite this, the results se. Strategic P&L take: Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base."
     },
     {
       "id": "card-6",
-      "headline": "SEBI: Framework for Calculation of Net Distributable Cash Flows for InvITs",
-      "category": "Regulatory (RBI/SEBI)",
-      "source": "SEBI",
-      "url": "https://www.sebi.gov.in/legal/circulars/aug-2026/framework-for-calculation-of-net-distributable-cash-flows-for-invits_103644.html",
-      "summary": "Securities and Exchange Board of India circular: Framework for Calculation of Net Distributable Cash Flows for InvITs",
-      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn SEBI Directives into Scaled Distribution Moats.'",
+      "headline": "Will Sensex, Nifty continue to bleed on Monday? 4 factors which will drive D-Street action this week",
+      "category": "FinTech & WealthTech",
+      "source": "ET Markets - Stocks & Broking",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-continue-to-bleed-on-monday-4-factors-which-will-drive-d-street-action-this-week/articleshow/133270103.cms",
+      "summary": "Indian equities are likely to remain range-bound in the week of August 17–21, with elevated crude prices, global uncertainty and shifting US Fed expectations keeping investors cautious. Sensex fell around 500 points and Nifty 205 points last week, while broader markets declined further. Analysts hig",
+      "pl_impact": "Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base.",
+      "action_trigger": "Engage peer group on product-led growth loops and automated lifecycle servicing.",
       "tags": [
         "BFSI",
         "Growth",
         "FinTech",
         "Strategy"
       ],
-      "audio_text": "Story from SEBI: SEBI: Framework for Calculation of Net Distributable Cash Flows for InvITs. Details: Securities and Exchange Board of India circular: Framework for Calculation of Net Distributable Cash Flows for InvITs. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+      "audio_text": "Story from ET Markets - Stocks & Broking: Will Sensex, Nifty continue to bleed on Monday? 4 factors which will drive D-Street action this week. Details: Indian equities are likely to remain range-bound in the week of August 17–21, with elevated crude prices, global uncertainty and shifting US Fed expectations keeping investors cautious. Sensex fell around 500 points and Nifty 205 points last week, while broader markets declined further. Analysts hig. Strategic P&L take: Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base."
     }
   ]
 }
