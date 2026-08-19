@@ -1,6 +1,6 @@
 {
-  "date": "August 18, 2026",
-  "generated_at": "03:34 AM IST",
+  "date": "August 19, 2026",
+  "generated_at": "03:36 AM IST",
   "reading_time_minutes": 8,
   "top_macro_signals": [
     "SEBI and RBI tightening risk architectures while accelerating instant digital rails (Account Aggregator, vKYC).",
@@ -95,20 +95,20 @@
     },
     {
       "id": "card-6",
-      "headline": "Sebi clarifies rules on pledging securities for discretionary PMS clients to raise loans",
-      "category": "Regulatory (RBI/SEBI)",
+      "headline": "Nifty falls for sixth straight session; oil surge, CAS volatility rattle markets",
+      "category": "FinTech & WealthTech",
       "source": "ET Markets - Stocks & Broking",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-clarifies-rules-on-pledging-securities-for-discretionary-pms-clients-to-raise-loans/articleshow/133309034.cms",
-      "summary": "In a recent update, the Securities and Exchange Board of India (Sebi) confirmed that clients engaged in discretionary portfolio management have the right to pledge their securities. They will still be considered beneficial owners and are permitted to utilize these assets as collateral. This flexibil",
-      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn ET Markets - Stocks & Broking Directives into Scaled Distribution Moats.'",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-indian-markets-continue-their-six-day-losing-streak-as-oil-prices-and-geopolitical-tensions-rise/articleshow/133334664.cms",
+      "summary": "Indian markets faced pressure as the Nifty declined for a sixth consecutive trading session. Rising oil prices and ongoing West Asia conflict kept traders cautious throughout the day. The Nifty closed lower, reflecting broader market weakness and investor concerns. Domestic institutional investors p",
+      "pl_impact": "Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base.",
+      "action_trigger": "Engage peer group on product-led growth loops and automated lifecycle servicing.",
       "tags": [
         "BFSI",
         "Growth",
         "FinTech",
         "Strategy"
       ],
-      "audio_text": "Story from ET Markets - Stocks & Broking: Sebi clarifies rules on pledging securities for discretionary PMS clients to raise loans. Details: In a recent update, the Securities and Exchange Board of India (Sebi) confirmed that clients engaged in discretionary portfolio management have the right to pledge their securities. They will still be considered beneficial owners and are permitted to utilize these assets as collateral. This flexibil. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+      "audio_text": "Story from ET Markets - Stocks & Broking: Nifty falls for sixth straight session; oil surge, CAS volatility rattle markets. Details: Indian markets faced pressure as the Nifty declined for a sixth consecutive trading session. Rising oil prices and ongoing West Asia conflict kept traders cautious throughout the day. The Nifty closed lower, reflecting broader market weakness and investor concerns. Domestic institutional investors p. Strategic P&L take: Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base."
     }
   ]
 }
