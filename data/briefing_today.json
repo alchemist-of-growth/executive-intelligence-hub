@@ -1,6 +1,6 @@
 {
-  "date": "August 20, 2026",
-  "generated_at": "03:37 AM IST",
+  "date": "August 21, 2026",
+  "generated_at": "03:40 AM IST",
   "reading_time_minutes": 8,
   "top_macro_signals": [
     "SEBI and RBI tightening risk architectures while accelerating instant digital rails (Account Aggregator, vKYC).",
@@ -10,23 +10,6 @@
   "briefing_cards": [
     {
       "id": "card-1",
-      "headline": "Sebi bets on trading reforms to reverse  foreign capital flight",
-      "category": "Regulatory (RBI/SEBI)",
-      "source": "ET Markets - Stocks & Broking",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-bets-on-trading-reforms-to-reverse-foreign-capital-flight/articleshow/133362773.cms",
-      "summary": "India's market regulator is poised to introduce substantial rule amendments aimed at boosting foreign investments. The planned reforms intend to lower collateral demands and stimulate interest in longer-term derivatives. With foreign investment in Indian stocks hitting a seventeen-year low, the Secu",
-      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn ET Markets - Stocks & Broking Directives into Scaled Distribution Moats.'",
-      "tags": [
-        "BFSI",
-        "Growth",
-        "FinTech",
-        "Strategy"
-      ],
-      "audio_text": "Story from ET Markets - Stocks & Broking: Sebi bets on trading reforms to reverse  foreign capital flight. Details: India's market regulator is poised to introduce substantial rule amendments aimed at boosting foreign investments. The planned reforms intend to lower collateral demands and stimulate interest in longer-term derivatives. With foreign investment in Indian stocks hitting a seventeen-year low, the Secu. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
-    },
-    {
-      "id": "card-2",
       "headline": "SEBI: Modification in the regulatory framework for Online Bond Platform Providers (OBPPs) including measures for promoting ease of doing business",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -43,7 +26,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Modification in the regulatory framework for Online Bond Platform Providers (OBPPs) including measures for promoting ease of doing business. Details: Securities and Exchange Board of India circular: Modification in the regulatory framework for Online Bond Platform Providers (OBPPs) including measures for promoting ease of doing business. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-3",
+      "id": "card-2",
       "headline": "SEBI: Framework for Calculation of Net Distributable Cash Flows for InvITs",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -60,7 +43,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Framework for Calculation of Net Distributable Cash Flows for InvITs. Details: Securities and Exchange Board of India circular: Framework for Calculation of Net Distributable Cash Flows for InvITs. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-4",
+      "id": "card-3",
       "headline": "SEBI: Review of Inclusion of Historical Scenarios in Stress Testing for Commodity Derivatives Segment",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -77,7 +60,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Review of Inclusion of Historical Scenarios in Stress Testing for Commodity Derivatives Segment. Details: Securities and Exchange Board of India circular: Review of Inclusion of Historical Scenarios in Stress Testing for Commodity Derivatives Segment. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-5",
+      "id": "card-4",
       "headline": "SEBI: Extension of timeline for enrolment with PaRRVA as specified in SEBI Circular No. HO/38/14/(4)2026-MIRSD-POD/I/10557/2026 dated April 29, 2026",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -94,7 +77,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Extension of timeline for enrolment with PaRRVA as specified in SEBI Circular No. HO/38/14/(4)2026-MIRSD-POD/I/10557/2026 dated April 29, 2026. Details: Securities and Exchange Board of India circular: Extension of timeline for enrolment with PaRRVA as specified in SEBI Circular No. HO/38/14/(4)2026-MIRSD-POD/I/10557/2026 dated April 29, 2026. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-6",
+      "id": "card-5",
       "headline": "SEBI: Extension of timelines with repect to compliance of Digital Accessibility Circulars.",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -109,6 +92,23 @@
         "Strategy"
       ],
       "audio_text": "Story from SEBI Official Circulars: SEBI: Extension of timelines with repect to compliance of Digital Accessibility Circulars.. Details: Securities and Exchange Board of India circular: Extension of timelines with repect to compliance of Digital Accessibility Circulars.. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+    },
+    {
+      "id": "card-6",
+      "headline": "BSE cleared as eligible exchange in FTSE Russell equity indices",
+      "category": "FinTech & WealthTech",
+      "source": "ET Markets - Stocks & Broking",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-bse-cleared-as-eligible-exchange-in-ftse-russell-equity-indices/articleshow/133390768.cms",
+      "summary": "FTSE Russell has declared India's BSE an eligible exchange for its equity indices. Stocks listed on BSE's main board will be assessed from March 2027 onwards. New listings on BSE's main board will also undergo fast-track screening. If a company is on both BSE and NSE, NSE securities will be chosen f",
+      "pl_impact": "Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base.",
+      "action_trigger": "Engage peer group on product-led growth loops and automated lifecycle servicing.",
+      "tags": [
+        "BFSI",
+        "Growth",
+        "FinTech",
+        "Strategy"
+      ],
+      "audio_text": "Story from ET Markets - Stocks & Broking: BSE cleared as eligible exchange in FTSE Russell equity indices. Details: FTSE Russell has declared India's BSE an eligible exchange for its equity indices. Stocks listed on BSE's main board will be assessed from March 2027 onwards. New listings on BSE's main board will also undergo fast-track screening. If a company is on both BSE and NSE, NSE securities will be chosen f. Strategic P&L take: Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base."
     }
   ]
 }
