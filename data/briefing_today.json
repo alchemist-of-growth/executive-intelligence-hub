@@ -1,6 +1,6 @@
 {
-  "date": "September 13, 2026",
-  "generated_at": "07:43 AM IST",
+  "date": "September 14, 2026",
+  "generated_at": "08:12 AM IST",
   "reading_time_minutes": 8,
   "top_macro_signals": [
     "SEBI and RBI tightening risk architectures while accelerating instant digital rails (Account Aggregator, vKYC).",
@@ -95,20 +95,20 @@
     },
     {
       "id": "card-6",
-      "headline": "Sebi proposes new CAS framework, two options for expiry-day settlement",
-      "category": "Regulatory (RBI/SEBI)",
+      "headline": "Stock Market Holiday: Is NSE, BSE open or closed for Ganesh Chaturthi today. Check upcoming market holidays",
+      "category": "FinTech & WealthTech",
       "source": "ET Markets - Stocks & Broking",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-new-cas-framework-two-options-for-expiry-day-settlement/articleshow/134113792.cms",
-      "summary": "The Securities and Exchange Board of India (SEBI) is set to implement crucial updates to the Closing Auction Session. A focus of these changes is on the process of derivatives settlement on expiry days. SEBI has laid out two alternatives for determining the derivatives settlement price: the first pr",
-      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn ET Markets - Stocks & Broking Directives into Scaled Distribution Moats.'",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-today-nse-bse-to-remain-shut-for-ganesh-chaturthi-check-upcoming-market-holidays/articleshow/134212792.cms",
+      "summary": "India's largest commodity exchange, the Multi-Commodity Exchange of India (MCX), will remain closed for the first session (9 am to 5 pm) on Monday. Trading will resume in the evening session between 5 pm and 11:30 pm, as per its website. The National Commodity Derivatives Exchange (NCDEX), meanwhile",
+      "pl_impact": "Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base.",
+      "action_trigger": "Engage peer group on product-led growth loops and automated lifecycle servicing.",
       "tags": [
         "BFSI",
         "Growth",
         "FinTech",
         "Strategy"
       ],
-      "audio_text": "Story from ET Markets - Stocks & Broking: Sebi proposes new CAS framework, two options for expiry-day settlement. Details: The Securities and Exchange Board of India (SEBI) is set to implement crucial updates to the Closing Auction Session. A focus of these changes is on the process of derivatives settlement on expiry days. SEBI has laid out two alternatives for determining the derivatives settlement price: the first pr. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+      "audio_text": "Story from ET Markets - Stocks & Broking: Stock Market Holiday: Is NSE, BSE open or closed for Ganesh Chaturthi today. Check upcoming market holidays. Details: India's largest commodity exchange, the Multi-Commodity Exchange of India (MCX), will remain closed for the first session (9 am to 5 pm) on Monday. Trading will resume in the evening session between 5 pm and 11:30 pm, as per its website. The National Commodity Derivatives Exchange (NCDEX), meanwhile. Strategic P&L take: Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base."
     }
   ]
 }
