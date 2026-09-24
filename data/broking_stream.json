@@ -7,7 +7,7 @@
     "source": "SEBI Official Circulars",
     "category": "Regulatory (RBI/SEBI)",
     "subcategory": "Market Regulation",
-    "published": "2026-09-23",
+    "published": "2026-09-24",
     "tags": [
       "SEBI",
       "REGULATION",
@@ -23,7 +23,7 @@
     "source": "SEBI Official Circulars",
     "category": "Regulatory (RBI/SEBI)",
     "subcategory": "Market Regulation",
-    "published": "2026-09-23",
+    "published": "2026-09-24",
     "tags": [
       "SEBI",
       "REGULATION",
@@ -39,7 +39,7 @@
     "source": "SEBI Official Circulars",
     "category": "Regulatory (RBI/SEBI)",
     "subcategory": "Market Regulation",
-    "published": "2026-09-23",
+    "published": "2026-09-24",
     "tags": [
       "SEBI",
       "REGULATION",
@@ -55,7 +55,7 @@
     "source": "SEBI Official Circulars",
     "category": "Regulatory (RBI/SEBI)",
     "subcategory": "Market Regulation",
-    "published": "2026-09-23",
+    "published": "2026-09-24",
     "tags": [
       "SEBI",
       "REGULATION",
@@ -71,7 +71,7 @@
     "source": "SEBI Official Circulars",
     "category": "Regulatory (RBI/SEBI)",
     "subcategory": "Market Regulation",
-    "published": "2026-09-23",
+    "published": "2026-09-24",
     "tags": [
       "SEBI",
       "REGULATION",
@@ -81,22 +81,121 @@
   },
   {
     "id": "wire-6",
-    "title": "Spinny Confidentially Files IPO Papers, Eyes Up To ₹3,000 Cr Issue",
-    "summary": "Used-car marketplace Spinny has pre-filed IPO papers with the Securities and Exchange Board of India (SEBI), sources told Inc42. The",
-    "url": "https://inc42.com/buzz/spinny-confidentially-files-ipo-papers-eyes-up-to-%e2%82%b93000-cr-issue/",
-    "source": "Inc42 Media",
+    "title": "Sebi board meeting: PMS rules overhaul, FPI commodity trades among key decisions to watch out",
+    "summary": "Sebi's upcoming board meeting aims to discuss significant changes to portfolio management services and settlement regulations. Proposed revisions could allow discretionary portfolio managers to make new types of investments, including overseas assets. The meeting is expected to review widening the a",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-board-meeting-pms-rules-overhaul-fpi-commodity-trades-among-key-decisions-to-watch-out/articleshow/134454100.cms",
+    "source": "ET Markets - Stocks & Broking",
     "category": "Regulatory (RBI/SEBI)",
-    "subcategory": "FinTech Innovation",
-    "published": "Tue, 22 Sep 2026 07:22:18 +0000",
+    "subcategory": "Broking & Markets",
+    "published": "Thu, 24 Sep 2026 12:12:34 +0530",
+    "tags": [
+      "DERIVATIVES",
+      "SEBI",
+      "PMS",
+      "SETTLEMENT"
+    ],
+    "relevance_score": 4
+  },
+  {
+    "id": "wire-7",
+    "title": "NSE becomes 9th most valued company with Rs 4.63 lakh crore m-cap after IPO. Who did it overtake?",
+    "summary": "The National Stock Exchange (NSE) made a rather modest entrance on the Bombay Stock Exchange (BSE), opening at Rs 1,800 against its IPO price of Rs 1,785. With a market capitalization of Rs 4.63 lakh crore, it has emerged as the ninth largest entity in India. Analysts predict that shares may fluctua",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/nse-becomes-9th-most-valued-company-with-rs-4-63-lakh-crore-m-cap-after-ipo-who-did-it-overtake/articleshow/134451835.cms",
+    "source": "ET Markets - Stocks & Broking",
+    "category": "Capital Markets & MTF",
+    "subcategory": "Broking & Markets",
+    "published": "Thu, 24 Sep 2026 10:23:50 +0530",
+    "tags": [
+      "TRADING",
+      "BSE",
+      "EXCHANGE",
+      "NSE"
+    ],
+    "relevance_score": 4
+  },
+  {
+    "id": "wire-8",
+    "title": "NSE shares jump 5% after muted debut, market value swells by Rs 19,290 crore. Why Macquarie, other brokerages are bullish",
+    "summary": "NSE Share Price: National Stock Exchange shares made their market debut at Rs 1,800, which is slightly above the IPO price. The listing reflects a market capitalization exceeding Rs 4.45 lakh crore, significantly higher than BSE's Rs 1.33 lakh crore. The IPO aimed to raise Rs 22,562 crore through an",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/nse-shares-make-muted-debut-list-at-less-than-1-premium-to-ipo-price-should-you-buy-sell-or-hold/articleshow/134451187.cms",
+    "source": "ET Markets - Stocks & Broking",
+    "category": "Capital Markets & MTF",
+    "subcategory": "Broking & Markets",
+    "published": "Thu, 24 Sep 2026 09:56:11 +0530",
     "tags": [
       "EXCHANGE",
-      "SECURITIES",
-      "SEBI"
+      "BSE",
+      "BROKER",
+      "NSE"
+    ],
+    "relevance_score": 4
+  },
+  {
+    "id": "wire-9",
+    "title": "NSE draws brokerage attention on stock market debut as 3 firms initiate coverage on Day 1",
+    "summary": "NSE shares rallied after a muted listing at Rs 1,800, pushing the exchange into India’s ninth-most valued company with a market cap of Rs 4.63 lakh crore. The post-listing surge came as three major brokerages initiated coverage on Day 1 with positive ratings. Macquarie called NSE “The Dominator” and",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/nse-draws-brokerage-attention-on-stock-market-debut-as-3-firms-initiate-coverage-on-day-1/articleshow/134453158.cms",
+    "source": "ET Markets - Stocks & Broking",
+    "category": "Capital Markets & MTF",
+    "subcategory": "Broking & Markets",
+    "published": "Thu, 24 Sep 2026 11:32:10 +0530",
+    "tags": [
+      "EXCHANGE",
+      "BROKER",
+      "NSE"
     ],
     "relevance_score": 3
   },
   {
-    "id": "wire-7",
+    "id": "wire-10",
+    "title": "Didn’t get NSE IPO shares? Should you buy after listing, wait for a dip or bet on BSE?",
+    "summary": "NSE Shares: As the National Stock Exchange (NSE) emerges on the market, investors are presented with various investment avenues. Options include buying shares, waiting for strategic price dips, or exploring the rival BSE. Experts advise thorough assessment of market fluctuations and valuations. Long",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/didnt-get-nse-ipo-shares-should-you-buy-on-listing-wait-for-a-dip-or-bet-on-bse/articleshow/134451317.cms",
+    "source": "ET Markets - Stocks & Broking",
+    "category": "Capital Markets & MTF",
+    "subcategory": "Broking & Markets",
+    "published": "Thu, 24 Sep 2026 10:00:02 +0530",
+    "tags": [
+      "BSE",
+      "EXCHANGE",
+      "NSE"
+    ],
+    "relevance_score": 3
+  },
+  {
+    "id": "wire-11",
+    "title": "NSE share price target: PL Capital roots for ‘Goliath of capital markets’, initiates National Stock Exchange coverage",
+    "summary": "NSE shares rose almost 4% post-listing at ₹1,785. The brokerage PL Capital initiated coverage with an 'Accumulate' rating. Check National Stock Exchange share price target post listing",
+    "url": "https://www.livemint.com/market/stock-market-news/nse-share-price-target-pl-capital-roots-for-goliath-of-capital-markets-initiates-national-stock-exchange-coverage-11790227356399.html",
+    "source": "Livemint Markets",
+    "category": "Capital Markets & MTF",
+    "subcategory": "Exchanges & Equities",
+    "published": "Thu, 24 Sep 2026 11:26:45 +0530",
+    "tags": [
+      "EXCHANGE",
+      "BROKER",
+      "NSE"
+    ],
+    "relevance_score": 3
+  },
+  {
+    "id": "wire-12",
+    "title": "NSE share price rises after modest debut | Rally ahead or time for price discovery?",
+    "summary": "NSE share price rose over 3% on its BSE debut, opening at ₹1,800. The IPO, valued at ₹22,569 crore, was nearly six times oversubscribed. Analysts note strong market share and potential growth, but warn of risks tied to trading activity and market volumes.",
+    "url": "https://www.livemint.com/market/stock-market-news/nse-share-price-rises-after-modest-debut-rally-ahead-or-time-for-price-discovery-11790227789223.html",
+    "source": "Livemint Markets",
+    "category": "Capital Markets & MTF",
+    "subcategory": "Exchanges & Equities",
+    "published": "Thu, 24 Sep 2026 11:20:40 +0530",
+    "tags": [
+      "TRADING",
+      "BSE",
+      "NSE"
+    ],
+    "relevance_score": 3
+  },
+  {
+    "id": "wire-13",
     "title": "RBI issues final Basel III market risk capital rules for banks; new minimum requirements to kick in from April 2027",
     "summary": "The Reserve Bank of India has issued revised market risk capital requirements for commercial banks, aligning Indian regulations with Basel III standards. Banks must adopt the framework by April 1, 2027. The directions revise rules for trading books, foreign exchange risk, interest rate risk, debt fu",
     "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-issues-final-basel-iii-market-risk-capital-rules-for-banks-new-minimum-requirements-to-kick-in-from-april-2027/articleshow/134391682.cms",
@@ -105,51 +204,51 @@
     "subcategory": "Banking & Lending",
     "published": "Mon, 21 Sep 2026 19:48:50 +0530",
     "tags": [
-      "RBI",
+      "TRADING",
       "EXCHANGE",
-      "TRADING"
+      "RBI"
     ],
     "relevance_score": 3
   },
   {
-    "id": "wire-8",
-    "title": "SS Retail shares rally another 6% after bumper listing at 51% premium over IPO price. Buy, sell or hold?",
-    "summary": "SS Retail shares extended gains after a bumper debut, rising over 6% following a 50.73% listing premium on the BSE. With the stock trading at around 46.5x FY26 P/E, Swastika Investmart maintained a Neutral view, citing demanding valuations and limited margin of safety despite strong growth and profi",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/ss-retail-shares-rally-another-6-after-bumper-listing-at-51-premium-over-ipo-price-buy-sell-or-hold/articleshow/134428300.cms",
+    "id": "wire-14",
+    "title": "HSBC plans India equity broking return after 13 years amid IPO boom, sources say",
+    "summary": "After a decade-long hiatus, HSBC is gearing up to re-enter the Indian equity broking sector, responding to the increasing demands from wealthy clients and an active share sale market. The bank is set to introduce retail broking services shortly, leveraging its existing broking license. With this mov",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/hsbc-plans-india-equity-broking-return-after-13-years-amid-ipo-boom-sources-say/articleshow/134455177.cms",
     "source": "ET Markets - Stocks & Broking",
     "category": "Capital Markets & MTF",
     "subcategory": "Broking & Markets",
-    "published": "Wed, 23 Sep 2026 12:34:54 +0530",
+    "published": "Thu, 24 Sep 2026 13:04:09 +0530",
     "tags": [
-      "TRADING",
-      "BSE"
+      "BROKING",
+      "NSE"
     ],
     "relevance_score": 2
   },
   {
-    "id": "wire-9",
-    "title": "Sensex jumps 350 points, Nifty above 23,400 as oil dips below $99/barrel. What can trigger the next sharp rally on D-Street?",
-    "summary": "Indian benchmark indices gain up to 0.5% as metal and financial stocks support the market, while elevated crude prices and bond yields remain key constraints. Analysts highlight resistance levels and stretched midcap and smallcap valuations.",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-350-points-nifty-above-23400-as-oil-dips-below-99/barrel-what-can-trigger-the-next-sharp-rally-on-d-street/articleshow/134426992.cms",
+    "id": "wire-15",
+    "title": "NSE IPO: India's biggest exchange lists at ₹1,800 per share; gains 5% after flat debut",
+    "summary": "NSE IPO: India's biggest exchange lists at ₹1,800 per share; gains 5% after flat debut",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/nse-ipo-indias-biggest-exchange-lists-at-1800-per-share-gains-5-after-flat-debut/videoshow/134454898.cms",
     "source": "ET Markets - Stocks & Broking",
     "category": "Capital Markets & MTF",
     "subcategory": "Broking & Markets",
-    "published": "Wed, 23 Sep 2026 11:29:45 +0530",
+    "published": "Thu, 24 Sep 2026 12:44:59 +0530",
     "tags": [
-      "NSE",
-      "BOND"
+      "EXCHANGE",
+      "NSE"
     ],
     "relevance_score": 2
   },
   {
-    "id": "wire-10",
-    "title": "UBS upgrades Bajaj Finance shares, LT Finance as it sees NBFCs better placed than banks. Here’s why",
-    "summary": "UBS upgraded Bajaj Finance to Neutral and L T Finance to Buy, citing improving asset quality and a revival in unsecured lending. The brokerage sees scope for re-rating as personal loan growth accelerates, liquidity remains supportive and funding conditions stay favourable. It also expects improving ",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/ubs-upgrades-bajaj-finance-shares-lt-finance-as-it-sees-nbfcs-better-placed-than-banks-heres-why/articleshow/134426549.cms",
+    "id": "wire-16",
+    "title": "Stocks to buy: UBS picks 4 NBFC shares with upside potential of up to 36%",
+    "summary": "UBS anticipates a robust cycle of unsecured credit growth in India, primarily fueled by personal loans. The brokerage emphasizes the strong asset quality in banks and non-banking financial companies (NBFCs), coupled with sufficient liquidity in the system. Investors might consider four recommended N",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-ubs-picks-4-nbfc-shares-with-upside-potential-of-up-to-36/slideshow/134453126.cms",
     "source": "ET Markets - Stocks & Broking",
     "category": "Capital Markets & MTF",
     "subcategory": "Broking & Markets",
-    "published": "Wed, 23 Sep 2026 11:02:12 +0530",
+    "published": "Thu, 24 Sep 2026 11:22:18 +0530",
     "tags": [
       "BROKER",
       "NSE"
@@ -157,52 +256,52 @@
     "relevance_score": 2
   },
   {
-    "id": "wire-11",
-    "title": "Stocks to buy: Jefferies remains bullish on these 4 capital market stocks, sees up to 36% upside",
-    "summary": "Jefferies has presented an optimistic 'buy' recommendation for four capital market stocks, projecting considerable upside potential. They foresee Computer Age Management Services with a possible 36% profit, while KFin Technologies and Groww enjoy a similar bullish perspective. Moreover, the Multi Co",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-jefferies-remains-bullish-on-these-4-capital-market-stocks-sees-up-to-36-upside/slideshow/134426298.cms",
+    "id": "wire-17",
+    "title": "PB Fintech among 4 F&amp;O stocks with a sharp rise in futures open interest",
+    "summary": "Four NSE F O stocks, including PB Fintech and Bandhan Bank, registered over a 10% surge in futures open interest on September 23. The notable spike reflects fresh market positioning and increased contract activity, signaling strong interest from traders across these derivative counters during the tr",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/134451918.cms",
     "source": "ET Markets - Stocks & Broking",
     "category": "Capital Markets & MTF",
     "subcategory": "Broking & Markets",
-    "published": "Wed, 23 Sep 2026 10:31:18 +0530",
+    "published": "Thu, 24 Sep 2026 10:21:27 +0530",
     "tags": [
-      "EXCHANGE",
-      "GROWW"
+      "TRADING",
+      "NSE"
     ],
     "relevance_score": 2
   },
   {
-    "id": "wire-12",
-    "title": "Hero Motors share price hits 20% upper circuit after tepid listing | What investors should watch",
-    "summary": "Hero Motors share price surged 20% after a lackluster debut, trading at ₹98.40 on the NSE. Despite initial declines, analysts suggest a neutral outlook due to high valuations and risks but acknowledge strong growth potential in powertrain solutions and electric vehicles.",
-    "url": "https://www.livemint.com/market/stock-market-news/hero-motors-share-price-hits-20-upper-circuit-after-tepid-listing-what-investors-should-watch-11790142486424.html",
+    "id": "wire-18",
+    "title": "Why is market falling today? Sensex tumbles over 850 points, Nifty below 23,150. 5 factors behind D-St rout",
+    "summary": "The Indian stock market fell significantly as Sensex and Nifty dropped over 1%. The downturn was driven by surging US bond yields, which reached a 19-year high. Expectations of a rate hike by the Federal Reserve added to market concerns and uncertainty. Furthermore, rising oil prices displaced inves",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-tumbles-over-500-points-nifty-below-23250-5-factors-behind-rs-4-lakh-crore-wipeout/articleshow/134450985.cms",
+    "source": "ET Markets - Stocks & Broking",
+    "category": "Capital Markets & MTF",
+    "subcategory": "Broking & Markets",
+    "published": "Thu, 24 Sep 2026 09:39:39 +0530",
+    "tags": [
+      "BOND",
+      "NSE"
+    ],
+    "relevance_score": 2
+  },
+  {
+    "id": "wire-19",
+    "title": "NSE shares rise on stock market debut after $2.4-billion IPO",
+    "summary": "NSE's share price rose 0.8% to ₹1,800 on debut compared with an IPO price of ₹1,785 a share. The deal had valued the exchange at ₹4.4 lakh crore.",
+    "url": "https://www.livemint.com/market/stock-market-news/nse-ipo-share-price-market-cap-gmp-11790224426513.html",
     "source": "Livemint Markets",
     "category": "Capital Markets & MTF",
     "subcategory": "Exchanges & Equities",
-    "published": "Wed, 23 Sep 2026 11:28:57 +0530",
+    "published": "Thu, 24 Sep 2026 10:05:53 +0530",
     "tags": [
-      "NSE",
-      "TRADING"
+      "EXCHANGE",
+      "NSE"
     ],
     "relevance_score": 2
   },
   {
-    "id": "wire-13",
-    "title": "Turtlemint Soars 9% Intraday Amid Positive Brokerage Reports",
-    "summary": "Shares of insurtech company Turtlemint soared 9% to touch an intraday high of ₹142.90 apiece on the BSE today. The",
-    "url": "https://inc42.com/buzz/turtlemint-soars-9-intraday-amid-positive-brokerage-reports/",
-    "source": "Inc42 Media",
-    "category": "Capital Markets & MTF",
-    "subcategory": "FinTech Innovation",
-    "published": "Tue, 22 Sep 2026 10:26:45 +0000",
-    "tags": [
-      "BROKER",
-      "BSE"
-    ],
-    "relevance_score": 2
-  },
-  {
-    "id": "wire-14",
+    "id": "wire-20",
     "title": "Banks plan to align norms for project finance lending",
     "summary": "Banks are developing a common framework for project finance lending. This initiative aims to curb regulatory arbitrage and operational misalignment among lenders. Discussions will involve state-run and private banks to establish common parameters. Such alignment will enhance risk mitigation and avoi",
     "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-unite-to-establish-unified-project-finance-lending-standards-to-minimize-regulatory-gaps/articleshow/134374140.cms",
@@ -211,111 +310,13 @@
     "subcategory": "Banking & Lending",
     "published": "Mon, 21 Sep 2026 00:11:41 +0530",
     "tags": [
-      "RBI",
-      "BSE"
+      "BSE",
+      "RBI"
     ],
     "relevance_score": 2
   },
   {
-    "id": "wire-15",
-    "title": "Meesho shares drop 4% after block deal worth Rs 900 crore. Should you buy the dip?",
-    "summary": "Meesho shares witnessed a dip on Wednesday after 3.86 crore shares changed hands in a block deal worth Rs 899.71 crore on the BSE. The transaction came a day after the stock surged nearly 10% following UBS’ 24% target price hike.",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/meesho-shares-drop-4-after-block-deal-worth-rs-900-crore-should-you-buy-the-dip/articleshow/134427534.cms",
-    "source": "ET Markets - Stocks & Broking",
-    "category": "Capital Markets & MTF",
-    "subcategory": "Broking & Markets",
-    "published": "Wed, 23 Sep 2026 11:50:38 +0530",
-    "tags": [
-      "BSE"
-    ],
-    "relevance_score": 1
-  },
-  {
-    "id": "wire-16",
-    "title": "Clean Max shares surge 13% in 3 days as Macquarie initiates coverage with outperform rating",
-    "summary": "Clean Max shares: Macquarie initiated coverage on Clean Max Enviro Energy Solutions with an Outperform rating and a Rs 1,700 target price, implying 24% upside from current levels. The stock has gained 13% in three sessions, making Macquarie the second brokerage to initiate coverage after JM Financia",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/clean-max-shares-surge-13-in-3-days-as-macquarie-initiates-coverage-with-outperform-rating/articleshow/134427464.cms",
-    "source": "ET Markets - Stocks & Broking",
-    "category": "Capital Markets & MTF",
-    "subcategory": "Broking & Markets",
-    "published": "Wed, 23 Sep 2026 11:47:32 +0530",
-    "tags": [
-      "BROKER"
-    ],
-    "relevance_score": 1
-  },
-  {
-    "id": "wire-17",
-    "title": "Bajaj Finance shares jump 3% after UBS upgrades to Neutral, hikes target price while Jefferies screams Buy",
-    "summary": "Bajaj Finance shares jumped 3% on Wednesday following bullish brokerage calls. Global brokerages Jefferies and UBS issued positive outlooks, with Jefferies maintaining a Buy rating with a target of Rs 1,280, while UBS upgraded the stock to Neutral with a target price of Rs 1,100.",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-shares-jump-3-after-ubs-upgrades-to-neutral-hikes-target-price-while-jefferies-screams-buy/articleshow/134426497.cms",
-    "source": "ET Markets - Stocks & Broking",
-    "category": "Capital Markets & MTF",
-    "subcategory": "Broking & Markets",
-    "published": "Wed, 23 Sep 2026 11:00:40 +0530",
-    "tags": [
-      "BROKER"
-    ],
-    "relevance_score": 1
-  },
-  {
-    "id": "wire-18",
-    "title": "Sensex crossed 85K for first time 2 years ago, now down 10K points from milestone. What can trigger the next bull run?",
-    "summary": "Two years ago, Sensex soared to an impressive 85,000, but the market has seen a steep decline since then. This downturn is attributed to several factors, including high crude oil prices and geopolitical instability. Analysts believe a change in macroeconomic conditions could help the index bounce ba",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-crossed-85k-for-first-time-2-years-ago-now-down-10k-points-from-milestone-what-can-trigger-the-next-bull-run/articleshow/134426180.cms",
-    "source": "ET Markets - Stocks & Broking",
-    "category": "Capital Markets & MTF",
-    "subcategory": "Broking & Markets",
-    "published": "Wed, 23 Sep 2026 10:29:20 +0530",
-    "tags": [
-      "NSE"
-    ],
-    "relevance_score": 1
-  },
-  {
-    "id": "wire-19",
-    "title": "Ola Electric shares soar 10%, stock rallies 86% in 6 months. More upside ahead?",
-    "summary": "Ola Electric shares surged nearly 10%, extending their three-session rally and gaining over 86% in six months from the March low. Brokerages, however, remain cautious amid weak volumes, lower margins and continued cash burn.",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-shares-soar-10-stock-rallies-86-in-6-months-more-upside-ahead/articleshow/134426139.cms",
-    "source": "ET Markets - Stocks & Broking",
-    "category": "Capital Markets & MTF",
-    "subcategory": "Broking & Markets",
-    "published": "Wed, 23 Sep 2026 10:23:57 +0530",
-    "tags": [
-      "BROKER"
-    ],
-    "relevance_score": 1
-  },
-  {
-    "id": "wire-20",
-    "title": "US Market: Financial stocks slide as AI disruption, bond curve weigh on banks",
-    "summary": "US financial stocks fell sharply as investors weighed AI-driven disruption risks, uncertainty around AI-linked IPOs and a flatter Treasury yield curve. The S P 500 Financial index dropped 2%, with money managers and banks among the biggest decliners.",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/us-market-financial-stocks-slide-as-ai-disruption-bond-curve-weigh-on-banks/articleshow/134425549.cms",
-    "source": "ET Markets - Stocks & Broking",
-    "category": "Capital Markets & MTF",
-    "subcategory": "Broking & Markets",
-    "published": "Wed, 23 Sep 2026 09:54:23 +0530",
-    "tags": [
-      "BOND"
-    ],
-    "relevance_score": 1
-  },
-  {
     "id": "wire-21",
-    "title": "Ather Energy among 4 F&amp;O stocks with a sharp rise in futures open interest",
-    "summary": "Four NSE F O stocks recorded over 10% increases in futures open interest on September 22. Kaynes Technology led with 42.37%, followed by Ather Energy, RBL Bank and Indian Railway Finance Corporation, indicating increased futures activity.",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/134425538.cms",
-    "source": "ET Markets - Stocks & Broking",
-    "category": "Capital Markets & MTF",
-    "subcategory": "Broking & Markets",
-    "published": "Wed, 23 Sep 2026 09:38:16 +0530",
-    "tags": [
-      "NSE"
-    ],
-    "relevance_score": 1
-  },
-  {
-    "id": "wire-22",
     "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
     "summary": "Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
     "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -329,7 +330,7 @@
     "relevance_score": 1
   },
   {
-    "id": "wire-23",
+    "id": "wire-22",
     "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
     "summary": "Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
     "url": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
@@ -343,7 +344,7 @@
     "relevance_score": 1
   },
   {
-    "id": "wire-24",
+    "id": "wire-23",
     "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
     "summary": "India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
     "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
@@ -357,14 +358,28 @@
     "relevance_score": 1
   },
   {
-    "id": "wire-25",
-    "title": "This stock is one of the top gainers in Nifty 500 today - Check share price performance | Do you own it?",
-    "summary": "Elecon Engineering share price rallied as much as 10% on NSE, making it one of the top gainers in Nifty 500 index on Wednesday.",
-    "url": "https://www.livemint.com/market/stock-market-news/elecon-engineering-stock-is-one-of-the-top-gainers-in-nifty-500-today-check-share-price-performance-do-you-own-it-11790146275326.html",
+    "id": "wire-24",
+    "title": "Penny stock under 10 rupees hits 5% upper circuit despite stock market crash; here's why",
+    "summary": "Penny stock under 10 rupees: The penny stock extended its upward momentum for the fifth consecutive session on Thursday.",
+    "url": "https://www.livemint.com/market/penny-stock-under-10-rupees-elitecon-international-hits-5-upper-circuit-despite-stock-market-crash-heres-why-11790228424989.html",
     "source": "Livemint Markets",
     "category": "Capital Markets & MTF",
     "subcategory": "Exchanges & Equities",
-    "published": "Wed, 23 Sep 2026 13:23:45 +0530",
+    "published": "Thu, 24 Sep 2026 12:14:39 +0530",
+    "tags": [
+      "NSE"
+    ],
+    "relevance_score": 1
+  },
+  {
+    "id": "wire-25",
+    "title": "NSE shares trump HUL! Enters top 10 list of Indian stocks in terms of market capitalization",
+    "summary": "NSE shares debuted at ₹1,800 on September 24, rising to an intraday high of ₹1,878. With a market capitalization of ₹4.63 lakh crore, NSE becomes the ninth-largest listed company in India, surpassing major firms like HUL and Sun Pharma.",
+    "url": "https://www.livemint.com/market/stock-market-news/nse-shares-trump-hul-enters-top-10-list-of-indian-stocks-in-terms-of-market-capitalization-11790228790916.html",
+    "source": "Livemint Markets",
+    "category": "Capital Markets & MTF",
+    "subcategory": "Exchanges & Equities",
+    "published": "Thu, 24 Sep 2026 11:42:21 +0530",
     "tags": [
       "NSE"
     ],
@@ -372,132 +387,146 @@
   },
   {
     "id": "wire-26",
-    "title": "Sebi board is set to grow. Experts say it's missing one safeguard it needs most",
-    "summary": "A new Bill to expand the Sebi board leaves appointments to non-binding government rules rather than establishing a statutory, independent selection panel. The expansion may add capacity without guaranteeing regulatory independence or specialized expertise, experts say.",
-    "url": "https://www.livemint.com/market/stock-market-news/sebi-board-expansion-securities-markets-code-2025-appointmentprocess-11788844688106.html",
+    "title": "PB Fintech leads slump in insurance stocks on IRDAI's fee cap plan",
+    "summary": "The IRDAI has proposed measured that could slash insurance fee income for banks and digital brokers by as much as 90% in high-margin categories.",
+    "url": "https://www.livemint.com/market/stock-market-news/pb-fintech-leads-slump-in-insurance-stocks-on-irdais-fee-cap-plan-11790228201934.html",
     "source": "Livemint Markets",
-    "category": "Regulatory (RBI/SEBI)",
+    "category": "Capital Markets & MTF",
     "subcategory": "Exchanges & Equities",
-    "published": "Wed, 23 Sep 2026 13:02:20 +0530",
+    "published": "Thu, 24 Sep 2026 11:13:26 +0530",
     "tags": [
-      "SEBI"
+      "BROKER"
     ],
     "relevance_score": 1
   },
   {
     "id": "wire-27",
-    "title": "Silver Price Outlook: Future is bright with  ₹3.25 lk/kg target in sight? Expert explains what could trigger next spark",
-    "summary": "With silver currently trading around the mid-$60s per ounce ( ₹2.40 lakh/kg), the key question for investors is what could push the precious metal towards the higher end of its expected range.",
-    "url": "https://www.livemint.com/market/commodities/silver-price-outlook-future-is-bright-with-rs-3-25-lk-kg-target-in-sight-expert-explains-what-could-trigger-next-spark-11790141170060.html",
+    "title": "Hero Motors share price hits record high despite stock market crash | Is it time to book profits?",
+    "summary": "Hero Motors share price: The newly listed stock surged as much as 18% on NSE on 24 September, after falling over 20% in the previous session.",
+    "url": "https://www.livemint.com/market/stock-market-news/hero-motors-share-price-hits-record-high-despite-stock-market-crash-is-it-time-to-book-profits-11790223907951.html",
     "source": "Livemint Markets",
     "category": "Capital Markets & MTF",
     "subcategory": "Exchanges & Equities",
-    "published": "Wed, 23 Sep 2026 11:31:13 +0530",
+    "published": "Thu, 24 Sep 2026 10:23:01 +0530",
     "tags": [
-      "TRADING"
+      "NSE"
     ],
     "relevance_score": 1
   },
   {
     "id": "wire-28",
-    "title": "Realty stock falls 12% in 2026, but Emkay sees 56% upside on strong growth | Do you own? Check target price, rationale",
-    "summary": "Shares of Sobha Limited rebounded from an intraday low after a positive trading session. The company aims to exceed ₹100 billion in pre-sales by FY 2026-27, with a forecasted 56% upside.",
-    "url": "https://www.livemint.com/market/stock-market-news/realty-stock-falls-12-in-2026-but-emkay-sees-55-upside-on-strong-growth-do-you-own-check-target-price-rationale-11790135913009.html",
-    "source": "Livemint Markets",
+    "title": "Sensex stuck for 2 years: What a ‘time correction’ means for your SIP and investments",
+    "summary": "Sensex stuck for 2 years: What a ‘time correction’ means for your SIP and investments",
+    "url": "https://economictimes.indiatimes.com/wealth/invest/sensex-stuck-for-2-years-what-a-time-correction-means-for-your-sip-and-investments/slideshow/134453698.cms",
+    "source": "ET Wealth",
     "category": "Capital Markets & MTF",
-    "subcategory": "Exchanges & Equities",
-    "published": "Wed, 23 Sep 2026 11:17:06 +0530",
+    "subcategory": "Wealth & Advisory",
+    "published": "Thu, 24 Sep 2026 11:49:13 +0530",
+    "tags": [
+      "NSE"
+    ],
+    "relevance_score": 1
+  },
+  {
+    "id": "wire-29",
+    "title": "Bank strike: Will banks be open on September 26 and 27? What RBI and bank unions say",
+    "summary": "In a proactive measure, the Reserve Bank of India has granted approval for banks to remain open on Sunday, September 27, 2026. This strategic decision aims to support customers anticipating a three-day strike from September 28 through September 30, organized by the United Forum of Bank Unions. Altho",
+    "url": "https://economictimes.indiatimes.com/wealth/save/bank-strike-update-are-banks-open-this-saturday-and-sunday-heres-what-rbi-says-after-union-allows-employees-to-attend-office/articleshow/134435422.cms",
+    "source": "ET Wealth",
+    "category": "Regulatory (RBI/SEBI)",
+    "subcategory": "Wealth & Advisory",
+    "published": "Wed, 23 Sep 2026 17:34:04 +0530",
+    "tags": [
+      "RBI"
+    ],
+    "relevance_score": 1
+  },
+  {
+    "id": "wire-30",
+    "title": "Gold and silver price today, Sept 24: Check retail rates of 24K, 22K gold and 999 silver in Mumbai, Delhi, other cities",
+    "summary": "Gold and silver prices in India dropped slightly during early trading hours on Thursday. Check retail rates of the precious metals in top metro cities of the country.",
+    "url": "https://www.livemint.com/money/gold-and-silver-price-today-sept-24-check-retail-rates-of-24k-22k-gold-and-999-silver-in-mumbai-delhi-other-cities-11790218419546.html",
+    "source": "Livemint Money & Wealth",
+    "category": "FinTech & WealthTech",
+    "subcategory": "Personal Finance & PMS",
+    "published": "Thu, 24 Sep 2026 09:21:58 +0530",
     "tags": [
       "TRADING"
     ],
     "relevance_score": 1
   },
   {
-    "id": "wire-29",
-    "title": "360 One Wam share price jumps 4% today on appointment of new CEO | Should you buy or sell?",
-    "summary": "360 One Wam share price: The stock opened at ₹1,093.70 on NSE today, as compared to previous close of ₹1,073.50 on Tuesday.",
-    "url": "https://www.livemint.com/market/stock-market-news/360-one-wam-share-price-jumps-4-today-on-appointment-of-new-ceo-should-you-buy-or-sell-11790138276934.html",
-    "source": "Livemint Markets",
-    "category": "Capital Markets & MTF",
-    "subcategory": "Exchanges & Equities",
-    "published": "Wed, 23 Sep 2026 11:16:55 +0530",
-    "tags": [
-      "NSE"
-    ],
-    "relevance_score": 1
-  },
-  {
-    "id": "wire-30",
-    "title": "Ola Electric Mobility share price jumps 12%, up almost 80% in 6 months - What is driving the stock? Time to buy or sell?",
-    "summary": "Ola Electric shares have been on an uptrend lately. BSE data show the company's shares have surged nearly 80% over the last six months, defying stock market volatility.",
-    "url": "https://www.livemint.com/market/stock-market-news/ola-electric-mobility-share-price-jumps-12-up-almost-80-in-6-months-what-is-driving-the-stock-11790141073905.html",
-    "source": "Livemint Markets",
-    "category": "Capital Markets & MTF",
-    "subcategory": "Exchanges & Equities",
-    "published": "Wed, 23 Sep 2026 11:14:11 +0530",
-    "tags": [
-      "BSE"
-    ],
-    "relevance_score": 1
-  },
-  {
     "id": "wire-31",
-    "title": "Lalithaa Jewellery share price hits 5% upper circuit | What’s driving the rally?",
-    "summary": "Lalithaa Jewellery Mart shares reached ₹352.80 on BSE, up 75% from IPO. The company opened its 66th showroom in Tamil Nadu, offering discounts until September 2026. Despite a revenue increase, Q1 FY27 profitability decreased due to stable gold prices impacting inventory gains.",
-    "url": "https://www.livemint.com/market/stock-market-news/lalithaa-jewellery-share-price-hits-5-upper-circuit-what-s-driving-the-rally-11790139873026.html",
-    "source": "Livemint Markets",
-    "category": "Capital Markets & MTF",
-    "subcategory": "Exchanges & Equities",
-    "published": "Wed, 23 Sep 2026 10:54:17 +0530",
+    "title": "Home loan repaid but lender didn’t return property papers? You can get  ₹5,000/day compensation",
+    "summary": "The RBI mandates that lenders complete loan closure formalities, including the return of documents, within a specified timeline after repayment. Here's when you can claim compensation. nbsp;",
+    "url": "https://www.livemint.com/money/personal-finance/home-loan-repaid-but-lender-didn-t-return-property-papers-you-can-get-5-000-day-compensation-11790212055604.html",
+    "source": "Livemint Money & Wealth",
+    "category": "Regulatory (RBI/SEBI)",
+    "subcategory": "Personal Finance & PMS",
+    "published": "Thu, 24 Sep 2026 07:41:14 +0530",
     "tags": [
-      "BSE"
+      "RBI"
     ],
     "relevance_score": 1
   },
   {
     "id": "wire-32",
-    "title": "EPFO fund withdrawal rules for illness: How much EPF can you withdraw for medical treatment?",
-    "summary": "Eligible Employees' Provident Fund Organisation (EPFO) members can withdraw up to 75% of their EPF balance for illness-related expenses after completing 12 months of EPF membership.",
-    "url": "https://economictimes.indiatimes.com/wealth/save/epfo-fund-withdrawal-rules-for-illness-how-much-epf-can-you-withdraw-for-medical-treatment/articleshow/134412169.cms",
-    "source": "ET Wealth",
-    "category": "Capital Markets & MTF",
-    "subcategory": "Wealth & Advisory",
-    "published": "Tue, 22 Sep 2026 17:51:12 +0530",
+    "title": "Transaction records alone can’t prove genuine share gains: Why ITAT upheld  ₹14.85 lakh tax addition",
+    "summary": "Ahmedabad ITAT upheld a ₹14.85 lakh addition in a share-trading case after finding that transaction records alone did not establish the genuineness of gains from Kushal Tradelink shares. The tribunal, however, sent the taxpayer’s separate ₹40.74 lakh long-term capital-loss claim back to the CIT(A).",
+    "url": "https://www.livemint.com/money/personal-finance/transaction-records-alone-can-t-prove-genuine-share-gains-why-itat-upheld-14-85-lakh-tax-addition-11790214956191.html",
+    "source": "Livemint Money & Wealth",
+    "category": "FinTech & WealthTech",
+    "subcategory": "Personal Finance & PMS",
+    "published": "Thu, 24 Sep 2026 07:34:39 +0530",
     "tags": [
-      "NSE"
+      "TRADING"
     ],
     "relevance_score": 1
   },
   {
     "id": "wire-33",
-    "title": "Have investments across mutual funds, stocks and FDs? Here’s how to ensure your family can find them after your death",
-    "summary": "Your investments may be spread across banks, mutual funds, demat accounts, insurance policies and multiple apps, making them difficult for your family to trace after your death. Experts suggest maintaining a consolidated asset inventory, keeping nominations updated and having a will to help heirs.",
-    "url": "https://www.livemint.com/money/personal-finance/have-investments-across-mutual-funds-stocks-and-fds-here-s-how-to-ensure-your-family-can-find-them-after-your-death-11790146366978.html",
+    "title": "US ETF frenzy: Why Indians are paying  ₹150 for  ₹100 of assets, and what to do instead",
+    "summary": "Indian ETFs faced a tumultuous week, with some trading at steep premiums and experiencing sharp declines. Experts warn that limited supply amidst high demand creates risks for investors",
+    "url": "https://www.livemint.com/money/personal-finance/us-etf-frenzy-why-indians-are-paying-150-for-100-of-assets-and-what-to-do-instead-11790179135194.html",
     "source": "Livemint Money & Wealth",
-    "category": "Capital Markets & MTF",
+    "category": "FinTech & WealthTech",
     "subcategory": "Personal Finance & PMS",
-    "published": "Wed, 23 Sep 2026 12:36:07 +0530",
+    "published": "Wed, 23 Sep 2026 22:32:23 +0530",
     "tags": [
-      "DEMAT"
+      "TRADING"
     ],
     "relevance_score": 1
   },
   {
     "id": "wire-34",
-    "title": "Zetwerk, Ayr Energy Settle Legal Dispute",
-    "summary": "IPO-bound Zetwerk and US-based transformer startup Ayr Energy have reached a settlement by agreeing to dismiss all claims in lawsuits",
-    "url": "https://inc42.com/buzz/zetwerk-ayr-energy-settle-legal-dispute/",
+    "title": "RPS Ventures Offloads Meesho Stake Worth About ₹900 Cr",
+    "summary": "Meesho backer RPS Ventures sold nearly 3.9 Cr shares of ecommerce major Meesho to net ₹899.7 Cr. As per BSE",
+    "url": "https://inc42.com/buzz/rps-ventures-offloads-meesho-stake-worth-about-%e2%82%b9900-cr/",
+    "source": "Inc42 Media",
+    "category": "Capital Markets & MTF",
+    "subcategory": "FinTech Innovation",
+    "published": "Wed, 23 Sep 2026 16:33:05 +0000",
+    "tags": [
+      "BSE"
+    ],
+    "relevance_score": 1
+  },
+  {
+    "id": "wire-35",
+    "title": "BYJU’S Settles Rights Issue Dispute With Aakash",
+    "summary": "BYJU S has reportedly reached a settlement with Aakash Educational Services Limited (AESL) over the dispute over the latter’s rights issue.",
+    "url": "https://inc42.com/buzz/byjus-settles-rights-issue-dispute-with-aakash/",
     "source": "Inc42 Media",
     "category": "FinTech & WealthTech",
     "subcategory": "FinTech Innovation",
-    "published": "Tue, 22 Sep 2026 11:39:48 +0000",
+    "published": "Wed, 23 Sep 2026 15:23:22 +0000",
     "tags": [
       "SETTLEMENT"
     ],
     "relevance_score": 1
   },
   {
-    "id": "wire-35",
+    "id": "wire-36",
     "title": "RBI warns banks against a loan price war",
     "summary": "In situations where banks are inundated with liquidity, the natural tendency among many lenders is to push loans and go down the credit matrix. The fear is that such aggressive lending to generate returns that cover the interest outgo on deposits and other costs may show up as sticky assets a few ye",
     "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-warns-banks-against-a-loan-price-war/articleshow/134419709.cms",
@@ -511,7 +540,7 @@
     "relevance_score": 1
   },
   {
-    "id": "wire-36",
+    "id": "wire-37",
     "title": "High-level panel on banking likely by October-end",
     "summary": "Its composition is being finalised and is likely to include a former Reserve Bank of India (RBI) deputy governor, industry leaders from the fintech sector and an Indian Banks' Association (IBA) nominee, said people familiar with the matter.",
     "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/high-level-panel-on-banking-likely-by-october-end/articleshow/134419394.cms",
@@ -525,7 +554,7 @@
     "relevance_score": 1
   },
   {
-    "id": "wire-37",
+    "id": "wire-38",
     "title": "Bandhan Bank promoter to gradually reduce stake to meet RBI norms",
     "summary": "Bandhan Financial Services will reduce its stake in Bandhan Bank gradually. The promoter aims to comply with RBI regulations by 2030. Recent share sales occurred on the open market, lowering holdings. A proposed stock split will divide shares to attract retail investors. Shareholders will review thi",
     "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bandhan-bank-promoter-to-gradually-reduce-stake-to-meet-rbi-norms/articleshow/134397291.cms",
@@ -539,7 +568,7 @@
     "relevance_score": 1
   },
   {
-    "id": "wire-38",
+    "id": "wire-39",
     "title": "'FCNR haul to power HSBC's India wealth, retail banking push'",
     "summary": "HSBC forecasts that foreign currency deposits will significantly enhance its operations in India. By securing $14.5 billion through a special RBI swap facility, the bank aims to expand lending and wealth management services. The attractive leverage option of up to nineteen times has drawn in deposit",
     "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fcnr-haul-to-power-hsbcs-india-wealth-retail-banking-push/articleshow/134374668.cms",
@@ -553,28 +582,14 @@
     "relevance_score": 1
   },
   {
-    "id": "wire-39",
-    "title": "FCNR(B) scheme could yield Rs 5.5 trillion notional profit for banks, RBI: SBI Research",
-    "summary": "SBI Research indicates FCNR(B) deposits may yield substantial profits for banks and the RBI. The report refutes earlier estimates of significant financial losses from the scheme. Mobilized funds could support additional bank credit and generate considerable interest income. Hedging costs are conside",
-    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fcnrb-scheme-could-yield-rs-5-5-trillion-notional-profit-for-banks-rbi-sbi-research/articleshow/134347997.cms",
-    "source": "Economic Times BFSI",
-    "category": "Regulatory (RBI/SEBI)",
-    "subcategory": "Banking & Lending",
-    "published": "Sat, 19 Sep 2026 10:24:29 +0530",
-    "tags": [
-      "RBI"
-    ],
-    "relevance_score": 1
-  },
-  {
     "id": "wire-40",
-    "title": "Hero Motors shares hit 20% upper circuit after lackluster debut. Should you buy, sell or hold?",
-    "summary": "Hero Motors shares staged a dramatic recovery on Wednesday, surging 20% to hit the upper circuit at Rs 98.40 after listing at a 2% discount at Rs 82. Despite strong IPO demand, analysts recommend holding existing shares with a stop-loss or waiting for price consolidation before taking fresh position",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/hero-motors-shares-rally-20-to-hit-upper-circuit-after-listing-at-2-discount-to-ipo-price-should-you-buy-sell-or-hold/articleshow/134427748.cms",
+    "title": "PB Fintech loses Rs 22,700 cr from market value as stock crashes 26% after IRDAI’s reform plans. What Citi and Jefferies are warning",
+    "summary": "PB Fintech shares plunged 26%, wiping out nearly Rs 22,703 crore from its market capitalisation after IRDAI proposed changes to insurance commission structures. Jefferies flagged risks to distributor earnings, while Citi warned of a potential sharp compression in distribution economics across severa",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-loses-rs-22700-cr-from-market-value-as-stock-crashes-26-after-irdais-reform-plans-what-citi-and-jefferies-are-warning/articleshow/134454219.cms",
     "source": "ET Markets - Stocks & Broking",
     "category": "Capital Markets & MTF",
     "subcategory": "Broking & Markets",
-    "published": "Wed, 23 Sep 2026 12:06:31 +0530",
+    "published": "Thu, 24 Sep 2026 12:21:55 +0530",
     "tags": [
       "MARKETS",
       "BFSI"
@@ -583,13 +598,13 @@
   },
   {
     "id": "wire-41",
-    "title": "10 midcap stocks that soared up to 105% in 6 months; check FII and MF holdings",
-    "summary": "India’s midcap stocks outperformed the Nifty 50 over six months, with 10 stocks gaining 50%-105%, alongside notable FII and mutual fund holdings.",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/10-midcap-stocks-that-soared-up-to-105-in-6-months-check-fii-and-mf-holdings/slideshow/134427145.cms",
+    "title": "Multibagger trap: 15 stocks that soared up to 4,000% in 2025 crashed as much as 90%",
+    "summary": "In 2025, numerous stocks saw remarkable growth, but the following year revealed a stark contrast in their trajectories. While Cupid enjoyed impressive gains, Blue Pearl Agriventures suffered considerable losses. This shift indicates a more cautious market with heightened selectivity in stock perform",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/multibagger-trap-15-stocks-that-soared-up-to-4000-in-2025-crashed-as-much-as-90/articleshow/134453848.cms",
     "source": "ET Markets - Stocks & Broking",
-    "category": "Capital Markets & MTF",
+    "category": "Digital Lending & NBFC",
     "subcategory": "Broking & Markets",
-    "published": "Wed, 23 Sep 2026 11:24:35 +0530",
+    "published": "Thu, 24 Sep 2026 12:05:30 +0530",
     "tags": [
       "MARKETS",
       "BFSI"
@@ -598,13 +613,13 @@
   },
   {
     "id": "wire-42",
-    "title": "Arvind SmartSpaces shares rally 11% as bookings cross Rs 500 crore in Bengaluru project",
-    "summary": "Arvind SmartSpaces shares surged 10.83% after its Bengaluru project, Arvind Sylva – The Green Reserve, crossed Rs 500 crore in bookings within 30 days, achieving 60% value-based absorption. Located on Sarjapur Road, the premium project spans 4.7 acres with 375 residences. The stock has also shown st",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/arvind-smartspaces-shares-rally-11-as-bookings-cross-rs-500-crore-in-bengaluru-project/articleshow/134425999.cms",
+    "title": "Avantel shares rise 9% after Rs 177 crore satellite communication order from Zetwerk",
+    "summary": "Avantel shares jumped over 8% on Thursday after securing a Rs 177.35 crore purchase order from Zetwerk Manufacturing Businesses for satellite communication equipment. Scheduled for execution by March 2027, the domestic manufacturing contract boosts revenue visibility for the telecom and defence elec",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/avantel-shares-rise-9-after-rs-177-crore-satellite-communication-order-from-zetwerk/articleshow/134452815.cms",
     "source": "ET Markets - Stocks & Broking",
     "category": "Capital Markets & MTF",
     "subcategory": "Broking & Markets",
-    "published": "Wed, 23 Sep 2026 10:15:09 +0530",
+    "published": "Thu, 24 Sep 2026 11:14:43 +0530",
     "tags": [
       "MARKETS",
       "BFSI"
@@ -613,13 +628,13 @@
   },
   {
     "id": "wire-43",
-    "title": "Rajesh Exports, 9 other Nifty 500 stocks tumble up to 60% in 2026. How many do you own?",
-    "summary": "Rajesh Exports has seen a staggering drop of 61.39% since the start of the year, making it the worst performer in the Nifty 500 index. HEG isn't far behind, down 61.16% year-to-date, reflecting significant volatility. Alok Industries' decline of 54.52% highlights the tough atmosphere for stocks. Wit",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/rajesh-exports-9-other-nifty-500-stocks-tumble-up-to-60-in-2026-how-many-do-you-own/slideshow/134425678.cms",
+    "title": "Steel Authority of India among 3 stocks showing White Marubozu pattern",
+    "summary": "Three stocks in the Nifty 500 pack, including Steel Authority of India, Whirlpool of India, and Aditya Infotech, gained 5% or more on September 23 and formed a 'White Marubozu' bullish candlestick pattern. StockEdge technical scan data indicates strong buying momentum and upward price trend for thes",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/steel-authority-of-india-among-3-stocks-showing-white-marubozu-pattern/slideshow/134451812.cms",
     "source": "ET Markets - Stocks & Broking",
     "category": "Capital Markets & MTF",
     "subcategory": "Broking & Markets",
-    "published": "Wed, 23 Sep 2026 09:45:21 +0530",
+    "published": "Thu, 24 Sep 2026 10:15:44 +0530",
     "tags": [
       "MARKETS",
       "BFSI"
@@ -628,6 +643,21 @@
   },
   {
     "id": "wire-44",
+    "title": "Bharat Dynamics shares rise 2% in a weak market after bagging Rs 811 crore order from Ministry of Defence",
+    "summary": "Bharat Dynamics shares gained 2% after the Defence Ministry awarded an Rs 810.79-crore contract for 160 SAT-SAAW weapons and associated equipment for the Indian Air Force, adding to the company’s order visibility amid rising defence spending.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-dynamics-shares-rise-2-in-a-weak-market-after-bagging-rs-811-crore-order-from-ministry-of-defence/articleshow/134451249.cms",
+    "source": "ET Markets - Stocks & Broking",
+    "category": "Capital Markets & MTF",
+    "subcategory": "Broking & Markets",
+    "published": "Thu, 24 Sep 2026 09:49:01 +0530",
+    "tags": [
+      "MARKETS",
+      "BFSI"
+    ],
+    "relevance_score": 0
+  },
+  {
+    "id": "wire-45",
     "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
     "summary": "Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industries",
     "url": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
@@ -642,29 +672,14 @@
     "relevance_score": 0
   },
   {
-    "id": "wire-45",
-    "title": "Raymond share price: Defence stock falls over 3% after hitting 52-week high; soars 214% in 6 months",
-    "summary": "Raymond's share price fell over 3% on September 23 after a 52-week high. Despite this, the stock's gains include 10% in one week and 214% in six months. Investors eye the upcoming EGM on October 3, where key proposals will be discussed.",
-    "url": "https://www.livemint.com/market/stock-market-news/raymond-share-price-defence-stock-falls-over-3-after-hitting-52-week-high-soars-214-in-6-months-11790147096265.html",
-    "source": "Livemint Markets",
-    "category": "Capital Markets & MTF",
-    "subcategory": "Exchanges & Equities",
-    "published": "Wed, 23 Sep 2026 13:23:40 +0530",
-    "tags": [
-      "MARKETS",
-      "BFSI"
-    ],
-    "relevance_score": 0
-  },
-  {
     "id": "wire-46",
-    "title": "GE Vernova’s order book faces a revenue conversion test",
-    "summary": "The Barmer HVDC project has lifted GE Vernova T amp;D India’s backlog to nearly five times FY26 revenue, but slow execution and a softer order pipeline put the focus on revenue conversion and margins.",
-    "url": "https://www.livemint.com/market/mark-to-market/ge-vernova-td-india-order-backlog-barmer-hvdc-project-revenue-11790144047118.html",
+    "title": "IT dividend heavyweights compared: TCS, Infosys, HCL Tech, Wipro, Accelya Solutions - Which IT stock has highest yield?",
+    "summary": "Major IT companies like TCS, Infosys, and HCL Tech showcase high dividend yields despite a challenging 2026 with an 11% decline in Nifty IT stocks. Check full list",
+    "url": "https://www.livemint.com/market/stock-market-news/it-dividend-heavyweights-compared-tcs-infosys-hcl-tech-wipro-accelya-solutions-which-it-stock-has-highest-yield-11790235272610.html",
     "source": "Livemint Markets",
     "category": "Capital Markets & MTF",
     "subcategory": "Exchanges & Equities",
-    "published": "Wed, 23 Sep 2026 13:12:54 +0530",
+    "published": "Thu, 24 Sep 2026 13:13:56 +0530",
     "tags": [
       "MARKETS",
       "BFSI"
@@ -673,13 +688,13 @@
   },
   {
     "id": "wire-47",
-    "title": "Vedanta Power to join Nifty 500 index: What it means for investors? Check outlook",
-    "summary": "Vedanta Power shares rose nearly 5% ahead of inclusion in Nifty 500 and Nifty Smallcap 250. Despite a 25.9% decline since demerger, experts believe increased visibility may attract institutional investors, although long-term stock performance hinges on earnings and operational improvements.",
-    "url": "https://www.livemint.com/market/stock-market-news/vedanta-power-to-join-nifty-500-index-what-it-means-for-investors-check-outlook-11790146080492.html",
+    "title": "₹85,000 crore gone! PB Fintech to HDFC Bank — these 5 financial stocks witness highest wealth erosion on IRDAI's move",
+    "summary": "Financial stocks faced significant selloff on Thursday due to proposed changes by IRDAI to insurance distribution and commission structures, erasing ₹1.12 lakh crore in market capitalisation. Major losses were seen in Bajaj Finance, PB Fintech, HDFC Bank, and Axis Bank, leading the decline.",
+    "url": "https://www.livemint.com/market/stock-market-news/rs-85-000-crore-gone-pb-fintech-to-hdfc-bank-these-5-financial-stocks-witness-highest-wealth-erosion-on-irdais-move-11790233480906.html",
     "source": "Livemint Markets",
     "category": "Capital Markets & MTF",
     "subcategory": "Exchanges & Equities",
-    "published": "Wed, 23 Sep 2026 12:24:10 +0530",
+    "published": "Thu, 24 Sep 2026 12:58:43 +0530",
     "tags": [
       "MARKETS",
       "BFSI"
@@ -688,13 +703,13 @@
   },
   {
     "id": "wire-48",
-    "title": "LG Electronics India share price target: BOB Capital sees 20% upside | What’s driving the call?",
-    "summary": "BOB Capital Markets has rated LG Electronics India as a ‘Buy’ with a target price of ₹1,980 per share, indicating a 20% upside. Strong brand recognition, product diversification, and increased local manufacturing are expected to drive growth over three years.",
-    "url": "https://www.livemint.com/market/stock-market-news/lg-electronics-india-share-price-target-bob-capital-sees-20-upside-what-s-driving-the-call-11790145087964.html",
+    "title": "Nifty 50 crossed 26K for first time 2 yrs ago, now down 3000 points from record high but one factor may trigger bull run",
+    "summary": "Nifty 50 today: Exactly two years ago on 24 September 2024, the 50-stock index crossed the landmark 26,000 level for the first time",
+    "url": "https://www.livemint.com/market/stock-market-news/nifty-50-crossed-26k-for-first-time-2-yrs-ago-now-down-2900-points-from-record-high-but-one-factor-may-trigger-bull-run-11790219519167.html",
     "source": "Livemint Markets",
     "category": "Capital Markets & MTF",
     "subcategory": "Exchanges & Equities",
-    "published": "Wed, 23 Sep 2026 12:19:02 +0530",
+    "published": "Thu, 24 Sep 2026 12:50:05 +0530",
     "tags": [
       "MARKETS",
       "BFSI"
@@ -703,13 +718,13 @@
   },
   {
     "id": "wire-49",
-    "title": "BlueStone Jewellery share price falls 52-week low today | What's behind the plunge?",
-    "summary": "BlueStone Jewellery share price opened at ₹941.65 apiece today, as compared to previous close of ₹930.40 on Tuesday.",
-    "url": "https://www.livemint.com/market/stock-market-news/bluestone-jewellery-share-price-falls-52-week-low-today-whats-behind-the-plunge-11790143391033.html",
+    "title": "IPO GMPs: Runwal Enterprises IPO, German Green Steel IPO to Acevector IPO | What grey market hints ahead of opening?",
+    "summary": "The primary market is bustling with four IPOs opening for public subscription on 25 September, aiming to raise ₹1,776 crore. Grey market premiums indicate positive trends for Runwal Enterprises, German Green Steel, and Orient Cables, while Acevector IPO shows no premium.",
+    "url": "https://www.livemint.com/market/ipo/ipo-gmps-runwal-enterprises-ipo-german-green-steel-ipo-to-acevector-ipo-what-grey-market-hints-ahead-of-opening-11790232398413.html",
     "source": "Livemint Markets",
     "category": "Capital Markets & MTF",
     "subcategory": "Exchanges & Equities",
-    "published": "Wed, 23 Sep 2026 12:19:02 +0530",
+    "published": "Thu, 24 Sep 2026 12:45:52 +0530",
     "tags": [
       "MARKETS",
       "BFSI"
@@ -718,13 +733,13 @@
   },
   {
     "id": "wire-50",
-    "title": "IDFC First Bank gets Buy from Motilal Oswal, upgrades the stock as it sees 23% upside - Check target price",
-    "summary": "IDFC First Bank is upgraded to BUY by MOFSL, citing strong loan growth and improved asset quality. The target price is set at INR105, with the stock already rising 54% from its low. Positive NII and efficient deposits are key highlights.",
-    "url": "https://www.livemint.com/market/stock-market-news/idfc-first-bank-gets-buy-from-motilal-oswal-upgrades-the-stock-as-it-sees-23-upside-check-target-price-11790143770090.html",
+    "title": "Oil India is beating ONGC. Can its production edge last?",
+    "summary": "Oil India has outperformed ONGC as stronger production growth boosts earnings visibility, but its richer valuation and ONGC’s larger reserves could narrow the gap over time.",
+    "url": "https://www.livemint.com/market/mark-to-market/ongc-oil-india-share-price-production-growth-crude-oil-11790228253135.html",
     "source": "Livemint Markets",
-    "category": "Digital Lending & NBFC",
+    "category": "Capital Markets & MTF",
     "subcategory": "Exchanges & Equities",
-    "published": "Wed, 23 Sep 2026 12:10:11 +0530",
+    "published": "Thu, 24 Sep 2026 12:20:44 +0530",
     "tags": [
       "MARKETS",
       "BFSI"
@@ -733,13 +748,13 @@
   },
   {
     "id": "wire-51",
-    "title": "Vedanta Iron and Steel to Vedanta Oil and Gas shares: Anil Agarwal-owned stocks rise up to 6%; target, stoploss",
-    "summary": "Vedanta Group shares are skyrocketing today as rising metal prices and ease in the Middle East tension has created buzz for the high beta stocks, say experts",
-    "url": "https://www.livemint.com/market/stock-market-news/vedanta-iron-and-steel-to-vedanta-oil-and-gas-shares-anil-agarwal-owned-stocks-rise-up-to-6-target-stoploss-11790139232331.html",
+    "title": "78% rally in six months! PC Jeweller shares pause after four straight sessions of gains; will it rebound?",
+    "summary": "PC Jeweller's stock fell 2.4% amid profit booking after reaching a 52-week high. The broader market witnessed declines as crude oil prices rose, impacting investor sentiment. Despite Thursday's drop, the stock has shown significant gains over various periods and is on track to become debt-free soon.",
+    "url": "https://www.livemint.com/market/stock-market-news/75-rally-in-six-months-pc-jeweller-shares-pause-after-four-straight-sessions-of-gains-will-it-rebound-11790225987578.html",
     "source": "Livemint Markets",
     "category": "Capital Markets & MTF",
     "subcategory": "Exchanges & Equities",
-    "published": "Wed, 23 Sep 2026 11:28:43 +0530",
+    "published": "Thu, 24 Sep 2026 10:50:39 +0530",
     "tags": [
       "MARKETS",
       "BFSI"
@@ -748,13 +763,13 @@
   },
   {
     "id": "wire-52",
-    "title": "Gold and silver rate today (September 23, 2026): Check 24k, 22k, 20k, 18k gold jewellery prices from IBJA, Malabar Gold &amp; Diamonds, Joyalukkas, Kalyan Jewellers and Tanishq",
-    "summary": "Let’s have a look at the latest 22k gold rates at Malabar Gold Diamonds, Joyalukkas, Kalyan Jewellers and Tanishq in New Delhi, Mumbai, Chennai, Kolkata, Trivandrum and Bengaluru. Also see the updated indicative rates of 24k, 22k, 20k, 18k and 14k gold and 999-purity silver at the IBJA today.",
-    "url": "https://economictimes.indiatimes.com/wealth/invest/gold-and-silver-rate-today-september-23-2026-check-24k-22k-20k-18k-gold-jewellery-prices-from-ibja-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-tanishq/articleshow/134428890.cms",
-    "source": "ET Wealth",
-    "category": "FinTech & WealthTech",
-    "subcategory": "Wealth & Advisory",
-    "published": "Wed, 23 Sep 2026 13:13:00 +0530",
+    "title": "Nephrocare shares tumble 5% | What’s driving the decline?",
+    "summary": "Nephrocare Health Services shares fell over 5% after reports of a potential ₹650 crore block deal. The sale includes multiple promoters and investors, with shares priced at ₹705 each, 5% lower than the last closing price of ₹741.90.",
+    "url": "https://www.livemint.com/market/stock-market-news/nephrocare-shares-tumble-5-what-s-driving-the-decline-11790225133307.html",
+    "source": "Livemint Markets",
+    "category": "Capital Markets & MTF",
+    "subcategory": "Exchanges & Equities",
+    "published": "Thu, 24 Sep 2026 10:45:04 +0530",
     "tags": [
       "MARKETS",
       "BFSI"
@@ -763,13 +778,13 @@
   },
   {
     "id": "wire-53",
-    "title": "BHIM MyUPI payments launched: 9 services users can access at one place, from checking transactions to managing UPI Autopay",
-    "summary": "In a significant move towards enhancing digital payments, NPCI BHIM Services Limited has introduced MyUPI, a conversational AI assistant seamlessly integrated within the BHIM Payments App.",
-    "url": "https://economictimes.indiatimes.com/wealth/save/bhim-myupi-launched-9-services-users-can-access-at-one-place-from-checking-transactions-to-managing-upi-autopay/articleshow/134427675.cms",
-    "source": "ET Wealth",
-    "category": "Digital Lending & NBFC",
-    "subcategory": "Wealth & Advisory",
-    "published": "Wed, 23 Sep 2026 12:10:06 +0530",
+    "title": "NTPC dividend alert: Maharatna PSU pays  ₹3,394 crore final dividend in FY26, check payout per share, yield",
+    "summary": "NTPC Limited announced a final dividend of ₹3,393.8 crore for FY 2025-26, maintaining a 35% payout ratio. This brings total dividends to ₹8,727 crore, marking 33 years of consistent payments. nbsp;",
+    "url": "https://www.livemint.com/market/stock-market-news/ntpc-dividend-alert-maharatna-psu-pays-rs-3-394-crore-final-dividend-in-fy26-check-payout-per-share-yield-11790222460353.html",
+    "source": "Livemint Markets",
+    "category": "Capital Markets & MTF",
+    "subcategory": "Exchanges & Equities",
+    "published": "Thu, 24 Sep 2026 10:20:31 +0530",
     "tags": [
       "MARKETS",
       "BFSI"
@@ -778,13 +793,13 @@
   },
   {
     "id": "wire-54",
-    "title": "Wife pressuring husband to leave parents and live separately in rented house amounts to cruelty, rules Madras HC and upholds divorce on this ground",
-    "summary": "Husband with Rs 45,000 salary started living in rented house because of wife’s pressure to live separately from his parents; Madras HC says this is cruelty and upholds divorce. Justice P.T. Asha and Justice N. Mala of the Madras High Court heard this case.",
-    "url": "https://economictimes.indiatimes.com/wealth/legal/will/wife-pressuring-husband-to-leave-parents-and-live-separately-in-rented-house-amounts-to-cruelty-rules-madras-hc-and-upholds-divorce-on-this-ground/articleshow/134426766.cms",
+    "title": "Central government employees, pensioners to get payouts on September 25, 2026: Ministry orders early disbursal of salaries, pensions amid 3-day bank strike",
+    "summary": "The central government is taking steps to ensure that employees and pensioners are not affected by the upcoming nationwide bank strike. Salaries and pensions for September 2026 will be disbursed early on September 25. The Department of Expenditure has mandated relevant offices to submit drawals prom",
+    "url": "https://economictimes.indiatimes.com/wealth/save/central-government-employees-pensioners-to-get-payouts-on-september-25-2026-ministry-orders-early-disbursal-of-salaries-pensions-amid-3-day-bank-strike/articleshow/134453915.cms",
     "source": "ET Wealth",
     "category": "FinTech & WealthTech",
     "subcategory": "Wealth & Advisory",
-    "published": "Wed, 23 Sep 2026 11:51:43 +0530",
+    "published": "Thu, 24 Sep 2026 12:14:44 +0530",
     "tags": [
       "MARKETS",
       "BFSI"
@@ -793,13 +808,13 @@
   },
   {
     "id": "wire-55",
-    "title": "Family land dispute: Karnataka HC upholds partition based on Taluka Surveyor’s report; owners can separately claim encroached portions",
-    "summary": "While family was disputing about their properties, neighbours grabbed some lands and encroached it; Karnataka HC upholds partition of properties based on Taluka Surveyor’s report and allows property owners to make separate claims for over land encroached by neighbours. This judgement was given by Ju",
-    "url": "https://economictimes.indiatimes.com/wealth/legal/will/family-land-dispute-karnataka-hc-upholds-partition-based-on-taluka-surveyors-report-owners-can-separately-claim-encroached-portions/articleshow/134412693.cms",
+    "title": "Second marriage declared void? Children can still inherit father’s property under Hindu Marriage Act: Know the law",
+    "summary": "Can children from a void second marriage claim father’s property? Know their inheritance rights under Hindu law. HC says Section 16 of the Hindu Marriage Act, can mean that a child born from a second marriage which was proved as void can still inherit the father’s property.",
+    "url": "https://economictimes.indiatimes.com/wealth/legal/will/second-marriage-declared-void-children-can-still-inherit-fathers-property-under-hindu-marriage-act-know-the-law/articleshow/134452512.cms",
     "source": "ET Wealth",
     "category": "FinTech & WealthTech",
     "subcategory": "Wealth & Advisory",
-    "published": "Wed, 23 Sep 2026 10:54:02 +0530",
+    "published": "Thu, 24 Sep 2026 11:00:40 +0530",
     "tags": [
       "MARKETS",
       "BFSI"
@@ -808,13 +823,13 @@
   },
   {
     "id": "wire-56",
-    "title": "EV buying guide: Driving range, charging speed &amp; 5 other key factors to check before choosing your next electric car",
-    "summary": "EV buying guide: Driving range, charging speed &amp; 5 other key factors to check before choosing your next electric car",
-    "url": "https://economictimes.indiatimes.com/wealth/spend/ev-buying-guide-driving-range-charging-speed-5-other-key-factors-to-check-before-choosing-your-next-electric-car/slideshow/134425339.cms",
+    "title": "Builder promised to bear stamp duty, then refused; MahaRERA orders payment plus Rs 5.4 lakh interest to buyer",
+    "summary": "Homebuyer wins as MahaRERA orders builder to pay stamp duty and registration charges and also Rs 5.4 lakh interest to homebuyer. Read this article to know why the homebuyer won the case in MahaRERA real estate tribunal.",
+    "url": "https://economictimes.indiatimes.com/wealth/legal/will/builder-promised-to-bear-stamp-duty-then-refused-maharera-orders-payment-plus-rs-5-4-lakh-interest-to-buyer/articleshow/134451899.cms",
     "source": "ET Wealth",
     "category": "FinTech & WealthTech",
     "subcategory": "Wealth & Advisory",
-    "published": "Wed, 23 Sep 2026 09:22:09 +0530",
+    "published": "Thu, 24 Sep 2026 10:47:26 +0530",
     "tags": [
       "MARKETS",
       "BFSI"
@@ -823,13 +838,13 @@
   },
   {
     "id": "wire-57",
-    "title": "Money Management: Can your family access your bank accounts if you can't manage your finances? Know the law",
-    "summary": "Money Management: Can your family access your bank accounts if you can't manage your finances? Know the law",
-    "url": "https://economictimes.indiatimes.com/wealth/plan/money-management-can-your-family-access-your-bank-accounts-if-you-cant-manage-your-finances-know-the-law/slideshow/134425224.cms",
+    "title": "Middle class salary: Why your salary vanishes within 48 hours &amp; how to get financial freedom",
+    "summary": "Middle class salary: Why your salary vanishes within 48 hours &amp; how to get financial freedom",
+    "url": "https://economictimes.indiatimes.com/wealth/save/middle-class-salary-why-your-salary-vanishes-within-48-hours-how-to-get-financial-freedom/slideshow/134451161.cms",
     "source": "ET Wealth",
     "category": "FinTech & WealthTech",
     "subcategory": "Wealth & Advisory",
-    "published": "Wed, 23 Sep 2026 09:11:48 +0530",
+    "published": "Thu, 24 Sep 2026 09:39:56 +0530",
     "tags": [
       "MARKETS",
       "BFSI"
@@ -838,13 +853,13 @@
   },
   {
     "id": "wire-58",
-    "title": "8th Pay Commission Mumbai meeting schedule and 4 other key developments",
-    "summary": "8th Pay Commission Mumbai meeting schedule and 4 other key developments",
-    "url": "https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-mumbai-meeting-schedule-and-4-other-key-developments/slideshow/134424998.cms",
+    "title": "FD-backed SBI credit card: Advantage SBI Card launched; who can benefit from it?",
+    "summary": "SBI Card has introduced the Advantage SBI Card through the SBI YONO app, making it simpler than ever for customers to apply. This innovative offering features four variants of secured credit cards linked to fixed deposits. With a fully paperless application process, it's designed to enhance accessib",
+    "url": "https://economictimes.indiatimes.com/wealth/spend/fd-backed-sbi-card-advantage-sbi-card-launched-who-can-benefit-from-it/articleshow/134450704.cms",
     "source": "ET Wealth",
-    "category": "FinTech & WealthTech",
+    "category": "Digital Lending & NBFC",
     "subcategory": "Wealth & Advisory",
-    "published": "Wed, 23 Sep 2026 08:54:01 +0530",
+    "published": "Thu, 24 Sep 2026 09:33:22 +0530",
     "tags": [
       "MARKETS",
       "BFSI"
@@ -853,13 +868,13 @@
   },
   {
     "id": "wire-59",
-    "title": "UPI vs debit vs credit cards: Will UPI payments with MDR charges still be cheapest? NPCI explains",
-    "summary": "After the MDR charge announcement on certain merchant UPI transactions, many UPI users are thinking whether they should shift from the UPI to a debit card or a credit card for daily transactions.",
-    "url": "https://economictimes.indiatimes.com/wealth/invest/upi-vs-debit-vs-credit-cards-will-upi-payments-with-mdr-charges-still-be-cheapest-npci-explains/articleshow/134411699.cms",
+    "title": "ABVKY Scheme 2026 explained: Check 90-day ESIC relief, eligibility and benefits",
+    "summary": "ABVKY Scheme 2026 explained: Check 90-day ESIC relief, eligibility and benefits",
+    "url": "https://economictimes.indiatimes.com/wealth/insure/abvky-scheme-2026-explained-check-90-day-esic-relief-eligibility-and-benefits/slideshow/134450929.cms",
     "source": "ET Wealth",
-    "category": "Digital Lending & NBFC",
+    "category": "FinTech & WealthTech",
     "subcategory": "Wealth & Advisory",
-    "published": "Tue, 22 Sep 2026 17:38:14 +0530",
+    "published": "Thu, 24 Sep 2026 09:23:16 +0530",
     "tags": [
       "MARKETS",
       "BFSI"
@@ -868,13 +883,13 @@
   },
   {
     "id": "wire-60",
-    "title": "8th Pay Commission: Pensioners seek 11-year restoration period of commuted pension, cite HC judgment",
-    "summary": "8th Pay Commission news: Bharat Pensioners' Samaj has urged the Centre and 8th Pay Commission to reduce the restoration period for commuted pension from 15 to 11 years. The demand follows the Himachal Pradesh High Court’s September 16 judgment, which called for examination under changed actuarial co",
-    "url": "https://economictimes.indiatimes.com/wealth/save/8thpay-commission-latest-news-pensioners-seek-11-year-restoration-period-of-commuted-pensioncite-hc-judgment/articleshow/134410424.cms",
+    "title": "Good news: Property purchase from NRIs gets easier as govt amends Form 141; check how it helps",
+    "summary": "From October 1, 2026, Indian property buyers can buy properties from non-residents without getting a TAN. Instead a new system has been launched by the Finance Ministry under which the buyer needs to file Form 141 and fill Schedule E and then issue the TDS certificate in Form 132 to the non-resident",
+    "url": "https://economictimes.indiatimes.com/wealth/legal/will/good-news-property-purchase-from-nris-gets-easier-as-govt-amends-form-141-check-how-it-helps/articleshow/134437012.cms",
     "source": "ET Wealth",
     "category": "FinTech & WealthTech",
     "subcategory": "Wealth & Advisory",
-    "published": "Tue, 22 Sep 2026 16:40:10 +0530",
+    "published": "Wed, 23 Sep 2026 17:56:36 +0530",
     "tags": [
       "MARKETS",
       "BFSI"
