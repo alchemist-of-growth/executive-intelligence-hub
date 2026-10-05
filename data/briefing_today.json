@@ -1,6 +1,6 @@
 {
-  "date": "October 04, 2026",
-  "generated_at": "08:54 AM IST",
+  "date": "October 05, 2026",
+  "generated_at": "09:43 AM IST",
   "reading_time_minutes": 8,
   "top_macro_signals": [
     "SEBI and RBI tightening risk architectures while accelerating instant digital rails (Account Aggregator, vKYC).",
@@ -10,20 +10,20 @@
   "briefing_cards": [
     {
       "id": "card-1",
-      "headline": "Sebi to soon issue framework on Closing Auction Session; receives over 3,500 comments",
-      "category": "Regulatory (RBI/SEBI)",
+      "headline": "CAS chaos eases? Jefferies names top stock picks as options volumes recover, IPOs and commodities gain traction",
+      "category": "FinTech & WealthTech",
       "source": "ET Markets - Stocks & Broking",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-soon-issue-framework-on-closing-auction-session-receives-over-3500-comments/articleshow/134655426.cms",
-      "summary": "Securities and Exchange Board of India will release a framework regarding changes to the Closing Auction Session mechanism. The regulator reviewed comments on its consultation paper about market timings and settlement methodology. Sebi intends to address specific issues related to derivatives settle",
-      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn ET Markets - Stocks & Broking Directives into Scaled Distribution Moats.'",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-eases-jefferies-names-top-stock-picks-as-options-volumes-recover-ipos-and-commodities-gain-traction/articleshow/134692619.cms",
+      "summary": "Jefferies sees signs of recovery in India’s derivatives market as options volumes rebound after the disruption caused by the closing auction session (CAS). BSE’s cash-market share also rose, while MCX benefited from stronger energy options activity. The brokerage expects Groww to benefit from improv",
+      "pl_impact": "Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base.",
+      "action_trigger": "Engage peer group on product-led growth loops and automated lifecycle servicing.",
       "tags": [
         "BFSI",
         "Growth",
         "FinTech",
         "Strategy"
       ],
-      "audio_text": "Story from ET Markets - Stocks & Broking: Sebi to soon issue framework on Closing Auction Session; receives over 3,500 comments. Details: Securities and Exchange Board of India will release a framework regarding changes to the Closing Auction Session mechanism. The regulator reviewed comments on its consultation paper about market timings and settlement methodology. Sebi intends to address specific issues related to derivatives settle. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+      "audio_text": "Story from ET Markets - Stocks & Broking: CAS chaos eases? Jefferies names top stock picks as options volumes recover, IPOs and commodities gain traction. Details: Jefferies sees signs of recovery in India’s derivatives market as options volumes rebound after the disruption caused by the closing auction session (CAS). BSE’s cash-market share also rose, while MCX benefited from stronger energy options activity. The brokerage expects Groww to benefit from improv. Strategic P&L take: Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base."
     },
     {
       "id": "card-2",
