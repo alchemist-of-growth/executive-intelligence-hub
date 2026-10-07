@@ -1,6 +1,6 @@
 {
-  "date": "October 06, 2026",
-  "generated_at": "09:31 AM IST",
+  "date": "October 07, 2026",
+  "generated_at": "09:27 AM IST",
   "reading_time_minutes": 8,
   "top_macro_signals": [
     "SEBI and RBI tightening risk architectures while accelerating instant digital rails (Account Aggregator, vKYC).",
@@ -10,23 +10,6 @@
   "briefing_cards": [
     {
       "id": "card-1",
-      "headline": "CAS U-turn ahead? BSE, Groww, NSE, other capital market stocks jump up to 4% amid buzz around Sebi tweaking F&amp;O settlement rules",
-      "category": "Regulatory (RBI/SEBI)",
-      "source": "ET Markets - Stocks & Broking",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/cas-u-turn-ahead-bse-groww-nse-other-capital-market-stocks-jump-up-to-4-amid-buzz-around-sebi-tweaking-fo-settlement-rules/articleshow/134725833.cms",
-      "summary": "Capital market stocks rallied after a Reuters report said Sebi may partly reverse its new Closing Auction Session rules for derivatives settlement. BSE, NSE, Groww and Angel One gained as options volumes recovered and CAS-related concerns eased.",
-      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn ET Markets - Stocks & Broking Directives into Scaled Distribution Moats.'",
-      "tags": [
-        "BFSI",
-        "Growth",
-        "FinTech",
-        "Strategy"
-      ],
-      "audio_text": "Story from ET Markets - Stocks & Broking: CAS U-turn ahead? BSE, Groww, NSE, other capital market stocks jump up to 4% amid buzz around Sebi tweaking F&amp;O settlement rules. Details: Capital market stocks rallied after a Reuters report said Sebi may partly reverse its new Closing Auction Session rules for derivatives settlement. BSE, NSE, Groww and Angel One gained as options volumes recovered and CAS-related concerns eased.. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
-    },
-    {
-      "id": "card-2",
       "headline": "SEBI: Display of “investor awareness message(s)” by stock brokers on their trading apps and websites, under Project Jagrook",
       "category": "Capital Markets & MTF",
       "source": "SEBI Official Circulars",
@@ -43,7 +26,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Display of “investor awareness message(s)” by stock brokers on their trading apps and websites, under Project Jagrook. Details: Securities and Exchange Board of India circular: Display of “investor awareness message(s)” by stock brokers on their trading apps and websites, under Project Jagrook. Strategic P&L take: Direct impact on collateral utilization and net interest margins (NIM). Brokerages scaling automated risk platforms can expand MTF books with controlled capital adequacy."
     },
     {
-      "id": "card-3",
+      "id": "card-2",
       "headline": "SEBI: Review of Position Limits for Clients and Penalty Provisions for Violation / Breach of Position Limits for Commodity Derivatives Segment",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -60,7 +43,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Review of Position Limits for Clients and Penalty Provisions for Violation / Breach of Position Limits for Commodity Derivatives Segment. Details: Securities and Exchange Board of India circular: Review of Position Limits for Clients and Penalty Provisions for Violation / Breach of Position Limits for Commodity Derivatives Segment. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-4",
+      "id": "card-3",
       "headline": "SEBI: Extension of timeline for implementation of provisions of SEBI Circular dated June 15, 2026 on norms for base price, price bands, call auction in pre-open session and Close-out procedure for Exchange Traded Funds (ETFs)",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -77,7 +60,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Extension of timeline for implementation of provisions of SEBI Circular dated June 15, 2026 on norms for base price, price bands, call auction in pre-open session and Close-out procedure for Exchange Traded Funds (ETFs). Details: Securities and Exchange Board of India circular: Extension of timeline for implementation of provisions of SEBI Circular dated June 15, 2026 on norms for base price, price bands, call auction in pre-open session and Close-out procedure for Exchange Traded Funds (ETFs). Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-5",
+      "id": "card-4",
       "headline": "SEBI: Modification in the regulatory framework for Online Bond Platform Providers (OBPPs) including measures for promoting ease of doing business",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -94,7 +77,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Modification in the regulatory framework for Online Bond Platform Providers (OBPPs) including measures for promoting ease of doing business. Details: Securities and Exchange Board of India circular: Modification in the regulatory framework for Online Bond Platform Providers (OBPPs) including measures for promoting ease of doing business. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-6",
+      "id": "card-5",
       "headline": "SEBI: Framework for Calculation of Net Distributable Cash Flows for InvITs",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -109,6 +92,23 @@
         "Strategy"
       ],
       "audio_text": "Story from SEBI Official Circulars: SEBI: Framework for Calculation of Net Distributable Cash Flows for InvITs. Details: Securities and Exchange Board of India circular: Framework for Calculation of Net Distributable Cash Flows for InvITs. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+    },
+    {
+      "id": "card-6",
+      "headline": "Soon, FD details will be part of your CAS statement; Here’s how it helps you",
+      "category": "FinTech & WealthTech",
+      "source": "ET Wealth",
+      "url": "https://economictimes.indiatimes.com/wealth/save/soon-fd-details-will-be-part-of-your-cas-statement-heres-how-it-helps-you/articleshow/134757204.cms",
+      "summary": "Soon you will get to see your fixed deposit (FD) details in CAS statements. CAS stands for consolidated account statements and it is usually sent by NSDL, CDSL, Karvy or CAMS. This CAS statement at present shows your demat and non-demat holdings including mutual funds, bonds, listed shares.",
+      "pl_impact": "Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base.",
+      "action_trigger": "Engage peer group on product-led growth loops and automated lifecycle servicing.",
+      "tags": [
+        "BFSI",
+        "Growth",
+        "FinTech",
+        "Strategy"
+      ],
+      "audio_text": "Story from ET Wealth: Soon, FD details will be part of your CAS statement; Here’s how it helps you. Details: Soon you will get to see your fixed deposit (FD) details in CAS statements. CAS stands for consolidated account statements and it is usually sent by NSDL, CDSL, Karvy or CAMS. This CAS statement at present shows your demat and non-demat holdings including mutual funds, bonds, listed shares.. Strategic P&L take: Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base."
     }
   ]
 }
