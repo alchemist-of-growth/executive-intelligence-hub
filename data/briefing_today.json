@@ -1,6 +1,6 @@
 {
-  "date": "October 30, 2026",
-  "generated_at": "09:12 AM IST",
+  "date": "October 31, 2026",
+  "generated_at": "09:01 AM IST",
   "reading_time_minutes": 8,
   "top_macro_signals": [
     "SEBI and RBI tightening risk architectures while accelerating instant digital rails (Account Aggregator, vKYC).",
@@ -10,6 +10,23 @@
   "briefing_cards": [
     {
       "id": "card-1",
+      "headline": "SEBI: Extension of timeline with respect to compliance of Digital Accessibility Circulars",
+      "category": "Regulatory (RBI/SEBI)",
+      "source": "SEBI Official Circulars",
+      "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-with-respect-to-compliance-of-digital-accessibility-circulars_105523.html",
+      "summary": "Securities and Exchange Board of India circular: Extension of timeline with respect to compliance of Digital Accessibility Circulars",
+      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
+      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn SEBI Official Circulars Directives into Scaled Distribution Moats.'",
+      "tags": [
+        "BFSI",
+        "Growth",
+        "FinTech",
+        "Strategy"
+      ],
+      "audio_text": "Story from SEBI Official Circulars: SEBI: Extension of timeline with respect to compliance of Digital Accessibility Circulars. Details: Securities and Exchange Board of India circular: Extension of timeline with respect to compliance of Digital Accessibility Circulars. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+    },
+    {
+      "id": "card-2",
       "headline": "SEBI: Margin Waiver on Subsequent Buy/Sell Transactions Post Early Pay-In (EPI) in Cash Segment",
       "category": "Capital Markets & MTF",
       "source": "SEBI Official Circulars",
@@ -26,7 +43,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Margin Waiver on Subsequent Buy/Sell Transactions Post Early Pay-In (EPI) in Cash Segment. Details: Securities and Exchange Board of India circular: Margin Waiver on Subsequent Buy/Sell Transactions Post Early Pay-In (EPI) in Cash Segment. Strategic P&L take: Direct impact on collateral utilization and net interest margins (NIM). Brokerages scaling automated risk platforms can expand MTF books with controlled capital adequacy."
     },
     {
-      "id": "card-2",
+      "id": "card-3",
       "headline": "SEBI: Review of certain aspects of the Closing Auction Session, market timings and settlement methodology for derivatives contracts",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -43,7 +60,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Review of certain aspects of the Closing Auction Session, market timings and settlement methodology for derivatives contracts. Details: Securities and Exchange Board of India circular: Review of certain aspects of the Closing Auction Session, market timings and settlement methodology for derivatives contracts. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-3",
+      "id": "card-4",
       "headline": "SEBI: Display of “investor awareness message(s)” by stock brokers on their trading apps and websites, under Project Jagrook",
       "category": "Capital Markets & MTF",
       "source": "SEBI Official Circulars",
@@ -60,7 +77,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Display of “investor awareness message(s)” by stock brokers on their trading apps and websites, under Project Jagrook. Details: Securities and Exchange Board of India circular: Display of “investor awareness message(s)” by stock brokers on their trading apps and websites, under Project Jagrook. Strategic P&L take: Direct impact on collateral utilization and net interest margins (NIM). Brokerages scaling automated risk platforms can expand MTF books with controlled capital adequacy."
     },
     {
-      "id": "card-4",
+      "id": "card-5",
       "headline": "SEBI: Review of Position Limits for Clients and Penalty Provisions for Violation / Breach of Position Limits for Commodity Derivatives Segment",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -77,38 +94,21 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Review of Position Limits for Clients and Penalty Provisions for Violation / Breach of Position Limits for Commodity Derivatives Segment. Details: Securities and Exchange Board of India circular: Review of Position Limits for Clients and Penalty Provisions for Violation / Breach of Position Limits for Commodity Derivatives Segment. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-5",
-      "headline": "SEBI: Extension of timeline for implementation of provisions of SEBI Circular dated June 15, 2026 on norms for base price, price bands, call auction in pre-open session and Close-out procedure for Exchange Traded Funds (ETFs)",
-      "category": "Regulatory (RBI/SEBI)",
-      "source": "SEBI Official Circulars",
-      "url": "https://www.sebi.gov.in/legal/circulars/aug-2026/extension-of-timeline-for-implementation-of-provisions-of-sebi-circular-dated-june-15-2026-on-norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-_104094.html",
-      "summary": "Securities and Exchange Board of India circular: Extension of timeline for implementation of provisions of SEBI Circular dated June 15, 2026 on norms for base price, price bands, call auction in pre-open session and Close-out procedure for Exchange Traded Funds (ETFs)",
-      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn SEBI Official Circulars Directives into Scaled Distribution Moats.'",
-      "tags": [
-        "BFSI",
-        "Growth",
-        "FinTech",
-        "Strategy"
-      ],
-      "audio_text": "Story from SEBI Official Circulars: SEBI: Extension of timeline for implementation of provisions of SEBI Circular dated June 15, 2026 on norms for base price, price bands, call auction in pre-open session and Close-out procedure for Exchange Traded Funds (ETFs). Details: Securities and Exchange Board of India circular: Extension of timeline for implementation of provisions of SEBI Circular dated June 15, 2026 on norms for base price, price bands, call auction in pre-open session and Close-out procedure for Exchange Traded Funds (ETFs). Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
-    },
-    {
       "id": "card-6",
-      "headline": "Retail investors borrow  ₹2,227 crore via MTF to buy Jio Platforms shares on listing debut",
-      "category": "Capital Markets & MTF",
-      "source": "Livemint Markets",
-      "url": "https://www.livemint.com/market/stock-market-news/jio-platforms-listing-retail-investors-mtf-funding-debut-11793336615040.html",
-      "summary": "Retail investors heavily leveraged margin trading facilities to borrow ₹2,227 crore for Jio Platforms shares on its trading debut, making it one of the top broker-funded stocks on 28 October.",
-      "pl_impact": "Direct impact on collateral utilization and net interest margins (NIM). Brokerages scaling automated risk platforms can expand MTF books with controlled capital adequacy.",
-      "action_trigger": "Post on LinkedIn: 'The Structural MTF Advantage: Why Technology & Real-Time Risk Surpass Aggressive Fee Discounting in Broking Economics.'",
+      "headline": "SEBI Greenlights Atomberg’s ₹450 Cr+ IPO",
+      "category": "Regulatory (RBI/SEBI)",
+      "source": "Inc42 Media",
+      "url": "https://inc42.com/buzz/sebi-greenlights-atombergs-%e2%82%b9450-cr-ipo/",
+      "summary": "Markets regulator Securities and Exchange Board of India (SEBI) has cleared the ₹450 Cr IPO of consumer appliances company Atomberg",
+      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
+      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn Inc42 Media Directives into Scaled Distribution Moats.'",
       "tags": [
         "BFSI",
         "Growth",
         "FinTech",
         "Strategy"
       ],
-      "audio_text": "Story from Livemint Markets: Retail investors borrow  ₹2,227 crore via MTF to buy Jio Platforms shares on listing debut. Details: Retail investors heavily leveraged margin trading facilities to borrow ₹2,227 crore for Jio Platforms shares on its trading debut, making it one of the top broker-funded stocks on 28 October.. Strategic P&L take: Direct impact on collateral utilization and net interest margins (NIM). Brokerages scaling automated risk platforms can expand MTF books with controlled capital adequacy."
+      "audio_text": "Story from Inc42 Media: SEBI Greenlights Atomberg’s ₹450 Cr+ IPO. Details: Markets regulator Securities and Exchange Board of India (SEBI) has cleared the ₹450 Cr IPO of consumer appliances company Atomberg. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     }
   ]
 }
