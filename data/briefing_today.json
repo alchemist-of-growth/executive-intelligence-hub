@@ -1,6 +1,6 @@
 {
-  "date": "November 02, 2026",
-  "generated_at": "10:12 AM IST",
+  "date": "November 03, 2026",
+  "generated_at": "10:13 AM IST",
   "reading_time_minutes": 8,
   "top_macro_signals": [
     "SEBI and RBI tightening risk architectures while accelerating instant digital rails (Account Aggregator, vKYC).",
@@ -10,6 +10,40 @@
   "briefing_cards": [
     {
       "id": "card-1",
+      "headline": "SEBI: Framework for Issuance of Depository Receipts on Units of REITs​",
+      "category": "Regulatory (RBI/SEBI)",
+      "source": "SEBI Official Circulars",
+      "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/framework-for-issuance-of-depository-receipts-on-units-of-reits-_105558.html",
+      "summary": "Securities and Exchange Board of India circular: Framework for Issuance of Depository Receipts on Units of REITs​",
+      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
+      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn SEBI Official Circulars Directives into Scaled Distribution Moats.'",
+      "tags": [
+        "BFSI",
+        "Growth",
+        "FinTech",
+        "Strategy"
+      ],
+      "audio_text": "Story from SEBI Official Circulars: SEBI: Framework for Issuance of Depository Receipts on Units of REITs​. Details: Securities and Exchange Board of India circular: Framework for Issuance of Depository Receipts on Units of REITs​. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+    },
+    {
+      "id": "card-2",
+      "headline": "SEBI: Framework for Issuance of Depository Receipts on Units of InvITs​",
+      "category": "Regulatory (RBI/SEBI)",
+      "source": "SEBI Official Circulars",
+      "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/framework-for-issuance-of-depository-receipts-on-units-of-invits-_105557.html",
+      "summary": "Securities and Exchange Board of India circular: Framework for Issuance of Depository Receipts on Units of InvITs​",
+      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
+      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn SEBI Official Circulars Directives into Scaled Distribution Moats.'",
+      "tags": [
+        "BFSI",
+        "Growth",
+        "FinTech",
+        "Strategy"
+      ],
+      "audio_text": "Story from SEBI Official Circulars: SEBI: Framework for Issuance of Depository Receipts on Units of InvITs​. Details: Securities and Exchange Board of India circular: Framework for Issuance of Depository Receipts on Units of InvITs​. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+    },
+    {
+      "id": "card-3",
       "headline": "SEBI: Extension of timeline with respect to compliance of Digital Accessibility Circulars",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -26,7 +60,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Extension of timeline with respect to compliance of Digital Accessibility Circulars. Details: Securities and Exchange Board of India circular: Extension of timeline with respect to compliance of Digital Accessibility Circulars. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-2",
+      "id": "card-4",
       "headline": "SEBI: Margin Waiver on Subsequent Buy/Sell Transactions Post Early Pay-In (EPI) in Cash Segment",
       "category": "Capital Markets & MTF",
       "source": "SEBI Official Circulars",
@@ -43,7 +77,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Margin Waiver on Subsequent Buy/Sell Transactions Post Early Pay-In (EPI) in Cash Segment. Details: Securities and Exchange Board of India circular: Margin Waiver on Subsequent Buy/Sell Transactions Post Early Pay-In (EPI) in Cash Segment. Strategic P&L take: Direct impact on collateral utilization and net interest margins (NIM). Brokerages scaling automated risk platforms can expand MTF books with controlled capital adequacy."
     },
     {
-      "id": "card-3",
+      "id": "card-5",
       "headline": "SEBI: Review of certain aspects of the Closing Auction Session, market timings and settlement methodology for derivatives contracts",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -60,55 +94,21 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Review of certain aspects of the Closing Auction Session, market timings and settlement methodology for derivatives contracts. Details: Securities and Exchange Board of India circular: Review of certain aspects of the Closing Auction Session, market timings and settlement methodology for derivatives contracts. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-4",
-      "headline": "SEBI: Display of “investor awareness message(s)” by stock brokers on their trading apps and websites, under Project Jagrook",
-      "category": "Capital Markets & MTF",
-      "source": "SEBI Official Circulars",
-      "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/display-of-investor-awareness-message-s-by-stock-brokers-on-their-trading-apps-and-websites-under-project-jagrook_104858.html",
-      "summary": "Securities and Exchange Board of India circular: Display of “investor awareness message(s)” by stock brokers on their trading apps and websites, under Project Jagrook",
-      "pl_impact": "Direct impact on collateral utilization and net interest margins (NIM). Brokerages scaling automated risk platforms can expand MTF books with controlled capital adequacy.",
-      "action_trigger": "Post on LinkedIn: 'The Structural MTF Advantage: Why Technology & Real-Time Risk Surpass Aggressive Fee Discounting in Broking Economics.'",
-      "tags": [
-        "BFSI",
-        "Growth",
-        "FinTech",
-        "Strategy"
-      ],
-      "audio_text": "Story from SEBI Official Circulars: SEBI: Display of “investor awareness message(s)” by stock brokers on their trading apps and websites, under Project Jagrook. Details: Securities and Exchange Board of India circular: Display of “investor awareness message(s)” by stock brokers on their trading apps and websites, under Project Jagrook. Strategic P&L take: Direct impact on collateral utilization and net interest margins (NIM). Brokerages scaling automated risk platforms can expand MTF books with controlled capital adequacy."
-    },
-    {
-      "id": "card-5",
-      "headline": "SEBI: Review of Position Limits for Clients and Penalty Provisions for Violation / Breach of Position Limits for Commodity Derivatives Segment",
-      "category": "Regulatory (RBI/SEBI)",
-      "source": "SEBI Official Circulars",
-      "url": "https://www.sebi.gov.in/legal/circulars/sep-2026/review-of-position-limits-for-clients-and-penalty-provisions-for-violation-breach-of-position-limits-for-commodity-derivatives-segment_104387.html",
-      "summary": "Securities and Exchange Board of India circular: Review of Position Limits for Clients and Penalty Provisions for Violation / Breach of Position Limits for Commodity Derivatives Segment",
-      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn SEBI Official Circulars Directives into Scaled Distribution Moats.'",
-      "tags": [
-        "BFSI",
-        "Growth",
-        "FinTech",
-        "Strategy"
-      ],
-      "audio_text": "Story from SEBI Official Circulars: SEBI: Review of Position Limits for Clients and Penalty Provisions for Violation / Breach of Position Limits for Commodity Derivatives Segment. Details: Securities and Exchange Board of India circular: Review of Position Limits for Clients and Penalty Provisions for Violation / Breach of Position Limits for Commodity Derivatives Segment. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
-    },
-    {
       "id": "card-6",
-      "headline": "Sebi backs removal of LTCG tax for foreign investors: Report",
-      "category": "Regulatory (RBI/SEBI)",
+      "headline": "NSE International Exchange begins 23.5-hour trading, extends market access across global time zones",
+      "category": "FinTech & WealthTech",
       "source": "ET Markets - Stocks & Broking",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-backs-removal-of-ltcg-tax-for-foreign-investors-report/articleshow/135448760.cms",
-      "summary": "To boost foreign investment interest, India's Securities and Exchange Board has put forth a proposal to scrap long-term capital gains tax for foreign investors and extend tax relief to mutual fund investors. This move is designed to counteract the high capital gains taxes and transaction costs faced",
-      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn ET Markets - Stocks & Broking Directives into Scaled Distribution Moats.'",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nse-international-exchange-begins-23-5-hour-trading-extends-market-access-across-global-time-zones/articleshow/135488585.cms",
+      "summary": "NSE International Exchange has introduced a 23.5-hour trading schedule, providing near-continuous market access across Asian, European and American time zones. The extended window aims to help global investors respond to international developments while strengthening GIFT City’s position as a global",
+      "pl_impact": "Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base.",
+      "action_trigger": "Engage peer group on product-led growth loops and automated lifecycle servicing.",
       "tags": [
         "BFSI",
         "Growth",
         "FinTech",
         "Strategy"
       ],
-      "audio_text": "Story from ET Markets - Stocks & Broking: Sebi backs removal of LTCG tax for foreign investors: Report. Details: To boost foreign investment interest, India's Securities and Exchange Board has put forth a proposal to scrap long-term capital gains tax for foreign investors and extend tax relief to mutual fund investors. This move is designed to counteract the high capital gains taxes and transaction costs faced. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+      "audio_text": "Story from ET Markets - Stocks & Broking: NSE International Exchange begins 23.5-hour trading, extends market access across global time zones. Details: NSE International Exchange has introduced a 23.5-hour trading schedule, providing near-continuous market access across Asian, European and American time zones. The extended window aims to help global investors respond to international developments while strengthening GIFT City’s position as a global. Strategic P&L take: Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base."
     }
   ]
 }
