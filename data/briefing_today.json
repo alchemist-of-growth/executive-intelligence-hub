@@ -1,6 +1,6 @@
 {
-  "date": "November 04, 2026",
-  "generated_at": "10:04 AM IST",
+  "date": "November 05, 2026",
+  "generated_at": "09:59 AM IST",
   "reading_time_minutes": 8,
   "top_macro_signals": [
     "SEBI and RBI tightening risk architectures while accelerating instant digital rails (Account Aggregator, vKYC).",
@@ -10,6 +10,23 @@
   "briefing_cards": [
     {
       "id": "card-1",
+      "headline": "SEBI: Revision of limits relating to requirement of underlying exposure for currency derivatives contracts",
+      "category": "Regulatory (RBI/SEBI)",
+      "source": "SEBI Official Circulars",
+      "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/revision-of-limits-relating-to-requirement-of-underlying-exposure-for-currency-derivatives-contracts_105614.html",
+      "summary": "Securities and Exchange Board of India circular: Revision of limits relating to requirement of underlying exposure for currency derivatives contracts",
+      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
+      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn SEBI Official Circulars Directives into Scaled Distribution Moats.'",
+      "tags": [
+        "BFSI",
+        "Growth",
+        "FinTech",
+        "Strategy"
+      ],
+      "audio_text": "Story from SEBI Official Circulars: SEBI: Revision of limits relating to requirement of underlying exposure for currency derivatives contracts. Details: Securities and Exchange Board of India circular: Revision of limits relating to requirement of underlying exposure for currency derivatives contracts. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+    },
+    {
+      "id": "card-2",
       "headline": "SEBI: Framework for Issuance of Depository Receipts on Units of REITs​",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -26,7 +43,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Framework for Issuance of Depository Receipts on Units of REITs​. Details: Securities and Exchange Board of India circular: Framework for Issuance of Depository Receipts on Units of REITs​. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-2",
+      "id": "card-3",
       "headline": "SEBI: Framework for Issuance of Depository Receipts on Units of InvITs​",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -43,7 +60,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Framework for Issuance of Depository Receipts on Units of InvITs​. Details: Securities and Exchange Board of India circular: Framework for Issuance of Depository Receipts on Units of InvITs​. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-3",
+      "id": "card-4",
       "headline": "SEBI: Extension of timeline with respect to compliance of Digital Accessibility Circulars",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -60,7 +77,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Extension of timeline with respect to compliance of Digital Accessibility Circulars. Details: Securities and Exchange Board of India circular: Extension of timeline with respect to compliance of Digital Accessibility Circulars. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-4",
+      "id": "card-5",
       "headline": "SEBI: Margin Waiver on Subsequent Buy/Sell Transactions Post Early Pay-In (EPI) in Cash Segment",
       "category": "Capital Markets & MTF",
       "source": "SEBI Official Circulars",
@@ -77,29 +94,12 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Margin Waiver on Subsequent Buy/Sell Transactions Post Early Pay-In (EPI) in Cash Segment. Details: Securities and Exchange Board of India circular: Margin Waiver on Subsequent Buy/Sell Transactions Post Early Pay-In (EPI) in Cash Segment. Strategic P&L take: Direct impact on collateral utilization and net interest margins (NIM). Brokerages scaling automated risk platforms can expand MTF books with controlled capital adequacy."
     },
     {
-      "id": "card-5",
-      "headline": "SEBI: Review of certain aspects of the Closing Auction Session, market timings and settlement methodology for derivatives contracts",
-      "category": "Regulatory (RBI/SEBI)",
-      "source": "SEBI Official Circulars",
-      "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/review-of-certain-aspects-of-the-closing-auction-session-market-timings-and-settlement-methodology-for-derivatives-contracts_105293.html",
-      "summary": "Securities and Exchange Board of India circular: Review of certain aspects of the Closing Auction Session, market timings and settlement methodology for derivatives contracts",
-      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn SEBI Official Circulars Directives into Scaled Distribution Moats.'",
-      "tags": [
-        "BFSI",
-        "Growth",
-        "FinTech",
-        "Strategy"
-      ],
-      "audio_text": "Story from SEBI Official Circulars: SEBI: Review of certain aspects of the Closing Auction Session, market timings and settlement methodology for derivatives contracts. Details: Securities and Exchange Board of India circular: Review of certain aspects of the Closing Auction Session, market timings and settlement methodology for derivatives contracts. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
-    },
-    {
       "id": "card-6",
-      "headline": "Equitas Small Finance Bank shares jump 9% after Balaji Nuthalapadi’s appointment as interim CEO",
+      "headline": "BSE vs NSE vs MCX vs IEX shares: Which exchange stock to buy after Q2 results for good returns? Experts' views",
       "category": "FinTech & WealthTech",
-      "source": "ET Markets - Stocks & Broking",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/equitas-small-finance-bank-shares-jump-9-after-balaji-nuthalapadis-appointment-as-interim-ceo/articleshow/135528943.cms",
-      "summary": "The bank further said that appointment of Nuthalapadi as interim CEO, consequent to the resignation of P. N. Vasudevan as the MD CEO, shall take effect from the date of RBI approval or such other date as may be stipulated by the RBI in this regard.",
+      "source": "Livemint Markets",
+      "url": "https://www.livemint.com/market/stock-market-news/bse-vs-nse-vs-mcx-vs-iex-shares-which-exchange-stock-to-buy-after-q2-results-for-good-returns-experts-views-11793860967633.html",
+      "summary": "BSE vs NSE vs MCX vs IEX shares: According to market experts, MCX emerged as the strongest performer in terms of revenue and profit growth, BSE also delivered robust earnings, supported by growth across its derivatives and mutual fund platforms.",
       "pl_impact": "Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base.",
       "action_trigger": "Engage peer group on product-led growth loops and automated lifecycle servicing.",
       "tags": [
@@ -108,7 +108,7 @@
         "FinTech",
         "Strategy"
       ],
-      "audio_text": "Story from ET Markets - Stocks & Broking: Equitas Small Finance Bank shares jump 9% after Balaji Nuthalapadi’s appointment as interim CEO. Details: The bank further said that appointment of Nuthalapadi as interim CEO, consequent to the resignation of P. N. Vasudevan as the MD CEO, shall take effect from the date of RBI approval or such other date as may be stipulated by the RBI in this regard.. Strategic P&L take: Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base."
+      "audio_text": "Story from Livemint Markets: BSE vs NSE vs MCX vs IEX shares: Which exchange stock to buy after Q2 results for good returns? Experts' views. Details: BSE vs NSE vs MCX vs IEX shares: According to market experts, MCX emerged as the strongest performer in terms of revenue and profit growth, BSE also delivered robust earnings, supported by growth across its derivatives and mutual fund platforms.. Strategic P&L take: Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base."
     }
   ]
 }
