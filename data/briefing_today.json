@@ -1,6 +1,6 @@
 {
-  "date": "November 05, 2026",
-  "generated_at": "09:59 AM IST",
+  "date": "November 06, 2026",
+  "generated_at": "10:01 AM IST",
   "reading_time_minutes": 8,
   "top_macro_signals": [
     "SEBI and RBI tightening risk architectures while accelerating instant digital rails (Account Aggregator, vKYC).",
@@ -10,6 +10,40 @@
   "briefing_cards": [
     {
       "id": "card-1",
+      "headline": "SEBI: Review of the framework for Accredited Investors",
+      "category": "Regulatory (RBI/SEBI)",
+      "source": "SEBI Official Circulars",
+      "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-the-framework-for-accredited-investors_105618.html",
+      "summary": "Securities and Exchange Board of India circular: Review of the framework for Accredited Investors",
+      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
+      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn SEBI Official Circulars Directives into Scaled Distribution Moats.'",
+      "tags": [
+        "BFSI",
+        "Growth",
+        "FinTech",
+        "Strategy"
+      ],
+      "audio_text": "Story from SEBI Official Circulars: SEBI: Review of the framework for Accredited Investors. Details: Securities and Exchange Board of India circular: Review of the framework for Accredited Investors. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+    },
+    {
+      "id": "card-2",
+      "headline": "SEBI: Framework for net settlement of funds for transactions undertaken by mutual fund schemes in cash market",
+      "category": "Regulatory (RBI/SEBI)",
+      "source": "SEBI Official Circulars",
+      "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/framework-for-net-settlement-of-funds-for-transactions-undertaken-by-mutual-fund-schemes-in-cash-market_105616.html",
+      "summary": "Securities and Exchange Board of India circular: Framework for net settlement of funds for transactions undertaken by mutual fund schemes in cash market",
+      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
+      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn SEBI Official Circulars Directives into Scaled Distribution Moats.'",
+      "tags": [
+        "BFSI",
+        "Growth",
+        "FinTech",
+        "Strategy"
+      ],
+      "audio_text": "Story from SEBI Official Circulars: SEBI: Framework for net settlement of funds for transactions undertaken by mutual fund schemes in cash market. Details: Securities and Exchange Board of India circular: Framework for net settlement of funds for transactions undertaken by mutual fund schemes in cash market. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+    },
+    {
+      "id": "card-3",
       "headline": "SEBI: Revision of limits relating to requirement of underlying exposure for currency derivatives contracts",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -26,7 +60,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Revision of limits relating to requirement of underlying exposure for currency derivatives contracts. Details: Securities and Exchange Board of India circular: Revision of limits relating to requirement of underlying exposure for currency derivatives contracts. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-2",
+      "id": "card-4",
       "headline": "SEBI: Framework for Issuance of Depository Receipts on Units of REITs​",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -43,7 +77,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Framework for Issuance of Depository Receipts on Units of REITs​. Details: Securities and Exchange Board of India circular: Framework for Issuance of Depository Receipts on Units of REITs​. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-3",
+      "id": "card-5",
       "headline": "SEBI: Framework for Issuance of Depository Receipts on Units of InvITs​",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -60,46 +94,12 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Framework for Issuance of Depository Receipts on Units of InvITs​. Details: Securities and Exchange Board of India circular: Framework for Issuance of Depository Receipts on Units of InvITs​. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-4",
-      "headline": "SEBI: Extension of timeline with respect to compliance of Digital Accessibility Circulars",
-      "category": "Regulatory (RBI/SEBI)",
-      "source": "SEBI Official Circulars",
-      "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-with-respect-to-compliance-of-digital-accessibility-circulars_105523.html",
-      "summary": "Securities and Exchange Board of India circular: Extension of timeline with respect to compliance of Digital Accessibility Circulars",
-      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn SEBI Official Circulars Directives into Scaled Distribution Moats.'",
-      "tags": [
-        "BFSI",
-        "Growth",
-        "FinTech",
-        "Strategy"
-      ],
-      "audio_text": "Story from SEBI Official Circulars: SEBI: Extension of timeline with respect to compliance of Digital Accessibility Circulars. Details: Securities and Exchange Board of India circular: Extension of timeline with respect to compliance of Digital Accessibility Circulars. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
-    },
-    {
-      "id": "card-5",
-      "headline": "SEBI: Margin Waiver on Subsequent Buy/Sell Transactions Post Early Pay-In (EPI) in Cash Segment",
-      "category": "Capital Markets & MTF",
-      "source": "SEBI Official Circulars",
-      "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/margin-waiver-on-subsequent-buy-sell-transactions-post-early-pay-in-epi-in-cash-segment_105364.html",
-      "summary": "Securities and Exchange Board of India circular: Margin Waiver on Subsequent Buy/Sell Transactions Post Early Pay-In (EPI) in Cash Segment",
-      "pl_impact": "Direct impact on collateral utilization and net interest margins (NIM). Brokerages scaling automated risk platforms can expand MTF books with controlled capital adequacy.",
-      "action_trigger": "Post on LinkedIn: 'The Structural MTF Advantage: Why Technology & Real-Time Risk Surpass Aggressive Fee Discounting in Broking Economics.'",
-      "tags": [
-        "BFSI",
-        "Growth",
-        "FinTech",
-        "Strategy"
-      ],
-      "audio_text": "Story from SEBI Official Circulars: SEBI: Margin Waiver on Subsequent Buy/Sell Transactions Post Early Pay-In (EPI) in Cash Segment. Details: Securities and Exchange Board of India circular: Margin Waiver on Subsequent Buy/Sell Transactions Post Early Pay-In (EPI) in Cash Segment. Strategic P&L take: Direct impact on collateral utilization and net interest margins (NIM). Brokerages scaling automated risk platforms can expand MTF books with controlled capital adequacy."
-    },
-    {
       "id": "card-6",
-      "headline": "BSE vs NSE vs MCX vs IEX shares: Which exchange stock to buy after Q2 results for good returns? Experts' views",
+      "headline": "Diwali Muhurat Trading 2026, Samvat 2083: Date, timings, history, settlement rules, more - Top 10 things for investors",
       "category": "FinTech & WealthTech",
       "source": "Livemint Markets",
-      "url": "https://www.livemint.com/market/stock-market-news/bse-vs-nse-vs-mcx-vs-iex-shares-which-exchange-stock-to-buy-after-q2-results-for-good-returns-experts-views-11793860967633.html",
-      "summary": "BSE vs NSE vs MCX vs IEX shares: According to market experts, MCX emerged as the strongest performer in terms of revenue and profit growth, BSE also delivered robust earnings, supported by growth across its derivatives and mutual fund platforms.",
+      "url": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-samvat-2083-date-timings-history-settlement-rules-more-top-10-things-for-investors-11793949250215.html",
+      "summary": "India’s exchanges will hold Diwali Muhurat Trading on Sunday, November 8, marking the start of Samvat 2083. The main equity session runs from 2:20 pm to 3:30 pm, with separate windows for pre-open orders, commodities, IPOs and other securities.",
       "pl_impact": "Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base.",
       "action_trigger": "Engage peer group on product-led growth loops and automated lifecycle servicing.",
       "tags": [
@@ -108,7 +108,7 @@
         "FinTech",
         "Strategy"
       ],
-      "audio_text": "Story from Livemint Markets: BSE vs NSE vs MCX vs IEX shares: Which exchange stock to buy after Q2 results for good returns? Experts' views. Details: BSE vs NSE vs MCX vs IEX shares: According to market experts, MCX emerged as the strongest performer in terms of revenue and profit growth, BSE also delivered robust earnings, supported by growth across its derivatives and mutual fund platforms.. Strategic P&L take: Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base."
+      "audio_text": "Story from Livemint Markets: Diwali Muhurat Trading 2026, Samvat 2083: Date, timings, history, settlement rules, more - Top 10 things for investors. Details: India’s exchanges will hold Diwali Muhurat Trading on Sunday, November 8, marking the start of Samvat 2083. The main equity session runs from 2:20 pm to 3:30 pm, with separate windows for pre-open orders, commodities, IPOs and other securities.. Strategic P&L take: Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base."
     }
   ]
 }
