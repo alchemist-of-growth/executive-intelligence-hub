@@ -1,6 +1,6 @@
 {
-  "date": "November 13, 2026",
-  "generated_at": "10:13 AM IST",
+  "date": "November 14, 2026",
+  "generated_at": "09:35 AM IST",
   "reading_time_minutes": 8,
   "top_macro_signals": [
     "SEBI and RBI tightening risk architectures while accelerating instant digital rails (Account Aggregator, vKYC).",
@@ -10,96 +10,28 @@
   "briefing_cards": [
     {
       "id": "card-1",
-      "headline": "SEBI: Review of the framework for Accredited Investors",
-      "category": "Regulatory (RBI/SEBI)",
+      "headline": "SEBI Updates Margin Trading Facility (MTF) & Surveillance Architecture",
+      "category": "Capital Markets & MTF",
       "source": "SEBI Official Circulars",
-      "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-the-framework-for-accredited-investors_105618.html",
-      "summary": "Securities and Exchange Board of India circular: Review of the framework for Accredited Investors",
-      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn SEBI Official Circulars Directives into Scaled Distribution Moats.'",
+      "url": "https://www.sebi.gov.in/legal/circulars.html",
+      "summary": "SEBI refines real-time exposure limits and collateral haircut models for retail margin finance.",
+      "pl_impact": "Direct impact on collateral utilization and net interest margins (NIM). Brokerages scaling automated risk platforms can expand MTF books with controlled capital adequacy.",
+      "action_trigger": "Post on LinkedIn: 'The Structural MTF Advantage: Why Technology & Real-Time Risk Surpass Aggressive Fee Discounting in Broking Economics.'",
       "tags": [
         "BFSI",
         "Growth",
         "FinTech",
         "Strategy"
       ],
-      "audio_text": "Story from SEBI Official Circulars: SEBI: Review of the framework for Accredited Investors. Details: Securities and Exchange Board of India circular: Review of the framework for Accredited Investors. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+      "audio_text": "Story from SEBI Official Circulars: SEBI Updates Margin Trading Facility (MTF) & Surveillance Architecture. Details: SEBI refines real-time exposure limits and collateral haircut models for retail margin finance.. Strategic P&L take: Direct impact on collateral utilization and net interest margins (NIM). Brokerages scaling automated risk platforms can expand MTF books with controlled capital adequacy."
     },
     {
       "id": "card-2",
-      "headline": "SEBI: Framework for net settlement of funds for transactions undertaken by mutual fund schemes in cash market",
-      "category": "Regulatory (RBI/SEBI)",
-      "source": "SEBI Official Circulars",
-      "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/framework-for-net-settlement-of-funds-for-transactions-undertaken-by-mutual-fund-schemes-in-cash-market_105616.html",
-      "summary": "Securities and Exchange Board of India circular: Framework for net settlement of funds for transactions undertaken by mutual fund schemes in cash market",
-      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn SEBI Official Circulars Directives into Scaled Distribution Moats.'",
-      "tags": [
-        "BFSI",
-        "Growth",
-        "FinTech",
-        "Strategy"
-      ],
-      "audio_text": "Story from SEBI Official Circulars: SEBI: Framework for net settlement of funds for transactions undertaken by mutual fund schemes in cash market. Details: Securities and Exchange Board of India circular: Framework for net settlement of funds for transactions undertaken by mutual fund schemes in cash market. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
-    },
-    {
-      "id": "card-3",
-      "headline": "SEBI: Revision of limits relating to requirement of underlying exposure for currency derivatives contracts",
-      "category": "Regulatory (RBI/SEBI)",
-      "source": "SEBI Official Circulars",
-      "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/revision-of-limits-relating-to-requirement-of-underlying-exposure-for-currency-derivatives-contracts_105614.html",
-      "summary": "Securities and Exchange Board of India circular: Revision of limits relating to requirement of underlying exposure for currency derivatives contracts",
-      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn SEBI Official Circulars Directives into Scaled Distribution Moats.'",
-      "tags": [
-        "BFSI",
-        "Growth",
-        "FinTech",
-        "Strategy"
-      ],
-      "audio_text": "Story from SEBI Official Circulars: SEBI: Revision of limits relating to requirement of underlying exposure for currency derivatives contracts. Details: Securities and Exchange Board of India circular: Revision of limits relating to requirement of underlying exposure for currency derivatives contracts. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
-    },
-    {
-      "id": "card-4",
-      "headline": "SEBI: Framework for Issuance of Depository Receipts on Units of REITs​",
-      "category": "Regulatory (RBI/SEBI)",
-      "source": "SEBI Official Circulars",
-      "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/framework-for-issuance-of-depository-receipts-on-units-of-reits-_105558.html",
-      "summary": "Securities and Exchange Board of India circular: Framework for Issuance of Depository Receipts on Units of REITs​",
-      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn SEBI Official Circulars Directives into Scaled Distribution Moats.'",
-      "tags": [
-        "BFSI",
-        "Growth",
-        "FinTech",
-        "Strategy"
-      ],
-      "audio_text": "Story from SEBI Official Circulars: SEBI: Framework for Issuance of Depository Receipts on Units of REITs​. Details: Securities and Exchange Board of India circular: Framework for Issuance of Depository Receipts on Units of REITs​. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
-    },
-    {
-      "id": "card-5",
-      "headline": "SEBI: Framework for Issuance of Depository Receipts on Units of InvITs​",
-      "category": "Regulatory (RBI/SEBI)",
-      "source": "SEBI Official Circulars",
-      "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/framework-for-issuance-of-depository-receipts-on-units-of-invits-_105557.html",
-      "summary": "Securities and Exchange Board of India circular: Framework for Issuance of Depository Receipts on Units of InvITs​",
-      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn SEBI Official Circulars Directives into Scaled Distribution Moats.'",
-      "tags": [
-        "BFSI",
-        "Growth",
-        "FinTech",
-        "Strategy"
-      ],
-      "audio_text": "Story from SEBI Official Circulars: SEBI: Framework for Issuance of Depository Receipts on Units of InvITs​. Details: Securities and Exchange Board of India circular: Framework for Issuance of Depository Receipts on Units of InvITs​. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
-    },
-    {
-      "id": "card-6",
-      "headline": "After IPO listing, NSE shares hit  ₹2,000 mark for the first time - Buy, sell or hold? What stock market experts say",
+      "headline": "The infrastructure shift: Why tokenised bonds matter now",
       "category": "FinTech & WealthTech",
-      "source": "Livemint Markets",
-      "url": "https://www.livemint.com/market/stock-market-news/after-ipo-listing-nse-shares-hit-rs-2-000-mark-for-the-first-time-buy-sell-or-hold-what-stock-market-experts-say-11794550519441.html",
-      "summary": "NSE share price today climbed to a new peak of ₹2007.60 per share on the BSE, crossing the psychological ₹2000 mark for the first time after the IPO listing",
+      "source": "ET Wealth",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/the-infrastructure-shift-why-tokenised-bonds-matter-now/articleshow/135798716.cms",
+      "summary": "Demat 2.0 is an innovative pilot program initiated by India's Reserve Bank and SEBI, focusing on blockchain technology for corporate bonds. This venture strives to improve the settlement process and broaden investor access to various financial instruments. Key financial institutions are involved in ",
       "pl_impact": "Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base.",
       "action_trigger": "Engage peer group on product-led growth loops and automated lifecycle servicing.",
       "tags": [
@@ -108,7 +40,75 @@
         "FinTech",
         "Strategy"
       ],
-      "audio_text": "Story from Livemint Markets: After IPO listing, NSE shares hit  ₹2,000 mark for the first time - Buy, sell or hold? What stock market experts say. Details: NSE share price today climbed to a new peak of ₹2007.60 per share on the BSE, crossing the psychological ₹2000 mark for the first time after the IPO listing. Strategic P&L take: Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base."
+      "audio_text": "Story from ET Wealth: The infrastructure shift: Why tokenised bonds matter now. Details: Demat 2.0 is an innovative pilot program initiated by India's Reserve Bank and SEBI, focusing on blockchain technology for corporate bonds. This venture strives to improve the settlement process and broaden investor access to various financial instruments. Key financial institutions are involved in . Strategic P&L take: Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base."
+    },
+    {
+      "id": "card-3",
+      "headline": "[Update] Razorpay Gets SEBI Nod For ₹6,000 Cr IPO",
+      "category": "Regulatory (RBI/SEBI)",
+      "source": "Inc42 Media",
+      "url": "https://inc42.com/buzz/razorpay-gets-sebi-nod-for-%e2%82%b96000-cr-ipo/",
+      "summary": "Update November 14, 2026; 01:25 AM IST Fintech major Razorpay has received Securities and Exchange Board of India’s (SEBI)",
+      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
+      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn Inc42 Media Directives into Scaled Distribution Moats.'",
+      "tags": [
+        "BFSI",
+        "Growth",
+        "FinTech",
+        "Strategy"
+      ],
+      "audio_text": "Story from Inc42 Media: [Update] Razorpay Gets SEBI Nod For ₹6,000 Cr IPO. Details: Update November 14, 2026; 01:25 AM IST Fintech major Razorpay has received Securities and Exchange Board of India’s (SEBI). Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+    },
+    {
+      "id": "card-4",
+      "headline": "Softbank further trims India exposure, offloads Meesho shares worth Rs 1,885 cr",
+      "category": "FinTech & WealthTech",
+      "source": "ET Markets - Stocks & Broking",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/softbank-further-trims-india-exposure-offloads-meesho-shares-worth-rs-1885-cr/articleshow/135820907.cms",
+      "summary": "In the latest transaction, SVF II Meerkat (DE) LLC, an affiliate of SoftBank, offloaded 7.64 crore shares in Bengaluru-based Meesho, according to the block deal data on the National Stock Exchange (NSE).",
+      "pl_impact": "Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base.",
+      "action_trigger": "Engage peer group on product-led growth loops and automated lifecycle servicing.",
+      "tags": [
+        "BFSI",
+        "Growth",
+        "FinTech",
+        "Strategy"
+      ],
+      "audio_text": "Story from ET Markets - Stocks & Broking: Softbank further trims India exposure, offloads Meesho shares worth Rs 1,885 cr. Details: In the latest transaction, SVF II Meerkat (DE) LLC, an affiliate of SoftBank, offloaded 7.64 crore shares in Bengaluru-based Meesho, according to the block deal data on the National Stock Exchange (NSE).. Strategic P&L take: Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base."
+    },
+    {
+      "id": "card-5",
+      "headline": "7 schemes offering 7.5% or higher interest rates: SCSS, NSC, RBI floating rate bond",
+      "category": "Regulatory (RBI/SEBI)",
+      "source": "ET Wealth",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/7-schemes-offering-7-5-or-higher-interest-rates-scss-nsc-rbi-floating-rate-bond/slideshow/135736973.cms",
+      "summary": "7 schemes offering 7.5% or higher interest rates: SCSS, NSC, RBI floating rate bond",
+      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
+      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn ET Wealth Directives into Scaled Distribution Moats.'",
+      "tags": [
+        "BFSI",
+        "Growth",
+        "FinTech",
+        "Strategy"
+      ],
+      "audio_text": "Story from ET Wealth: 7 schemes offering 7.5% or higher interest rates: SCSS, NSC, RBI floating rate bond. Details: 7 schemes offering 7.5% or higher interest rates: SCSS, NSC, RBI floating rate bond. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+    },
+    {
+      "id": "card-6",
+      "headline": "Dodging bullet loans hurt gold NBFCs after RBI’s revised lending rules trigger repayment stress",
+      "category": "Regulatory (RBI/SEBI)",
+      "source": "Economic Times BFSI",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/dodging-bullet-loans-hurt-gold-nbfcs-after-rbis-revised-lending-rules-trigger-repayment-stress/articleshow/135815402.cms",
+      "summary": "Non-banking financial companies have begun reassessing gold loan structures following increased delinquencies in recent months. Bajaj Finance and Manappuram Finance are shifting towards longer-tenure loans in response to customer difficulties. Many borrowers are struggling to adapt to new repayment ",
+      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
+      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn Economic Times BFSI Directives into Scaled Distribution Moats.'",
+      "tags": [
+        "BFSI",
+        "Growth",
+        "FinTech",
+        "Strategy"
+      ],
+      "audio_text": "Story from Economic Times BFSI: Dodging bullet loans hurt gold NBFCs after RBI’s revised lending rules trigger repayment stress. Details: Non-banking financial companies have begun reassessing gold loan structures following increased delinquencies in recent months. Bajaj Finance and Manappuram Finance are shifting towards longer-tenure loans in response to customer difficulties. Many borrowers are struggling to adapt to new repayment . Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     }
   ]
 }
