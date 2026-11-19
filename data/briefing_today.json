@@ -1,5 +1,5 @@
 {
-  "date": "November 18, 2026",
+  "date": "November 19, 2026",
   "generated_at": "10:50 AM IST",
   "reading_time_minutes": 8,
   "top_macro_signals": [
@@ -10,23 +10,6 @@
   "briefing_cards": [
     {
       "id": "card-1",
-      "headline": "Angel One, 5paisa, BSE and other capital market stocks slide up to 3% as SEBI weighs MTF curbs; Is the MTF party over?",
-      "category": "Capital Markets & MTF",
-      "source": "Livemint Markets",
-      "url": "https://www.livemint.com/market/stock-market-news/angel-one-5paisa-bse-and-other-capital-market-stocks-slide-up-to-3-as-sebi-weighs-mtf-curbs-is-the-mtf-party-over-11794988829405.html",
-      "summary": "Shares of SMC Global Securities, Anand Rathi Share and Stock Brokers, 5paisa Capital, Angel One and BSE fell up to 3% amid reports that SEBI is considering limits on leveraged stock purchases. Proposed restrictions could apply when margin-funded holdings reach a set share of a company’s free float.",
-      "pl_impact": "Direct impact on collateral utilization and net interest margins (NIM). Brokerages scaling automated risk platforms can expand MTF books with controlled capital adequacy.",
-      "action_trigger": "Post on LinkedIn: 'The Structural MTF Advantage: Why Technology & Real-Time Risk Surpass Aggressive Fee Discounting in Broking Economics.'",
-      "tags": [
-        "BFSI",
-        "Growth",
-        "FinTech",
-        "Strategy"
-      ],
-      "audio_text": "Story from Livemint Markets: Angel One, 5paisa, BSE and other capital market stocks slide up to 3% as SEBI weighs MTF curbs; Is the MTF party over?. Details: Shares of SMC Global Securities, Anand Rathi Share and Stock Brokers, 5paisa Capital, Angel One and BSE fell up to 3% amid reports that SEBI is considering limits on leveraged stock purchases. Proposed restrictions could apply when margin-funded holdings reach a set share of a company’s free float.. Strategic P&L take: Direct impact on collateral utilization and net interest margins (NIM). Brokerages scaling automated risk platforms can expand MTF books with controlled capital adequacy."
-    },
-    {
-      "id": "card-2",
       "headline": "SEBI: Review of Margin Framework for Commodity Derivatives Segment",
       "category": "Capital Markets & MTF",
       "source": "SEBI Official Circulars",
@@ -43,7 +26,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Review of Margin Framework for Commodity Derivatives Segment. Details: Securities and Exchange Board of India circular: Review of Margin Framework for Commodity Derivatives Segment. Strategic P&L take: Direct impact on collateral utilization and net interest margins (NIM). Brokerages scaling automated risk platforms can expand MTF books with controlled capital adequacy."
     },
     {
-      "id": "card-3",
+      "id": "card-2",
       "headline": "SEBI: Review of the framework for Accredited Investors",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -60,7 +43,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Review of the framework for Accredited Investors. Details: Securities and Exchange Board of India circular: Review of the framework for Accredited Investors. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-4",
+      "id": "card-3",
       "headline": "SEBI: Framework for net settlement of funds for transactions undertaken by mutual fund schemes in cash market",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -77,7 +60,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Framework for net settlement of funds for transactions undertaken by mutual fund schemes in cash market. Details: Securities and Exchange Board of India circular: Framework for net settlement of funds for transactions undertaken by mutual fund schemes in cash market. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-5",
+      "id": "card-4",
       "headline": "SEBI: Revision of limits relating to requirement of underlying exposure for currency derivatives contracts",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -94,7 +77,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Revision of limits relating to requirement of underlying exposure for currency derivatives contracts. Details: Securities and Exchange Board of India circular: Revision of limits relating to requirement of underlying exposure for currency derivatives contracts. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-6",
+      "id": "card-5",
       "headline": "SEBI: Framework for Issuance of Depository Receipts on Units of REITs​",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -109,6 +92,23 @@
         "Strategy"
       ],
       "audio_text": "Story from SEBI Official Circulars: SEBI: Framework for Issuance of Depository Receipts on Units of REITs​. Details: Securities and Exchange Board of India circular: Framework for Issuance of Depository Receipts on Units of REITs​. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+    },
+    {
+      "id": "card-6",
+      "headline": "RBI warns Yes Bank AT1 bond ruling could weaken future bank rescue framework",
+      "category": "Regulatory (RBI/SEBI)",
+      "source": "Economic Times BFSI",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-warns-yes-bank-at1-bond-ruling-could-weaken-future-bank-rescue-framework/articleshow/135963509.cms",
+      "summary": "The case relates to Yes Bank's rescue in 2020, when authorities wrote off Rs 8,415 crore worth of additional Tier-1 (AT1) bonds. These securities are designed to absorb losses when banks face financial distress.",
+      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
+      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn Economic Times BFSI Directives into Scaled Distribution Moats.'",
+      "tags": [
+        "BFSI",
+        "Growth",
+        "FinTech",
+        "Strategy"
+      ],
+      "audio_text": "Story from Economic Times BFSI: RBI warns Yes Bank AT1 bond ruling could weaken future bank rescue framework. Details: The case relates to Yes Bank's rescue in 2020, when authorities wrote off Rs 8,415 crore worth of additional Tier-1 (AT1) bonds. These securities are designed to absorb losses when banks face financial distress.. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     }
   ]
 }
