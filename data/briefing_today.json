@@ -1,6 +1,6 @@
 {
-  "date": "November 23, 2026",
-  "generated_at": "11:26 AM IST",
+  "date": "November 24, 2026",
+  "generated_at": "01:01 PM IST",
   "reading_time_minutes": 8,
   "top_macro_signals": [
     "SEBI and RBI tightening risk architectures while accelerating instant digital rails (Account Aggregator, vKYC).",
@@ -95,20 +95,20 @@
     },
     {
       "id": "card-6",
-      "headline": "RBI warns Yes Bank AT1 bond ruling could weaken future bank rescue framework",
-      "category": "Regulatory (RBI/SEBI)",
-      "source": "Economic Times BFSI",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-warns-yes-bank-at1-bond-ruling-could-weaken-future-bank-rescue-framework/articleshow/135963509.cms",
-      "summary": "The case relates to Yes Bank's rescue in 2020, when authorities wrote off Rs 8,415 crore worth of additional Tier-1 (AT1) bonds. These securities are designed to absorb losses when banks face financial distress.",
-      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn Economic Times BFSI Directives into Scaled Distribution Moats.'",
+      "headline": "NSEL releases Rs 1,950 crore in one-time settlement, ends 14-year payment default",
+      "category": "FinTech & WealthTech",
+      "source": "ET Markets - Stocks & Broking",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nsel-releases-rs-1950-crore-in-one-time-settlement-ends-14-year-payment-default/articleshow/136104164.cms",
+      "summary": "The National Spot Exchange Ltd has revealed a substantial settlement payout of Rs 1,950 crore to eligible claimants, marking the end of a lengthy 14-year legal battle stemming from a Rs 5,600 crore payment crisis. This settlement received the green light from the Mumbai bench of the National Company",
+      "pl_impact": "Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base.",
+      "action_trigger": "Engage peer group on product-led growth loops and automated lifecycle servicing.",
       "tags": [
         "BFSI",
         "Growth",
         "FinTech",
         "Strategy"
       ],
-      "audio_text": "Story from Economic Times BFSI: RBI warns Yes Bank AT1 bond ruling could weaken future bank rescue framework. Details: The case relates to Yes Bank's rescue in 2020, when authorities wrote off Rs 8,415 crore worth of additional Tier-1 (AT1) bonds. These securities are designed to absorb losses when banks face financial distress.. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+      "audio_text": "Story from ET Markets - Stocks & Broking: NSEL releases Rs 1,950 crore in one-time settlement, ends 14-year payment default. Details: The National Spot Exchange Ltd has revealed a substantial settlement payout of Rs 1,950 crore to eligible claimants, marking the end of a lengthy 14-year legal battle stemming from a Rs 5,600 crore payment crisis. This settlement received the green light from the Mumbai bench of the National Company. Strategic P&L take: Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base."
     }
   ]
 }
