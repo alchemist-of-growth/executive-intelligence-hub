@@ -1,6 +1,6 @@
 {
-  "date": "November 24, 2026",
-  "generated_at": "01:01 PM IST",
+  "date": "November 25, 2026",
+  "generated_at": "11:50 AM IST",
   "reading_time_minutes": 8,
   "top_macro_signals": [
     "SEBI and RBI tightening risk architectures while accelerating instant digital rails (Account Aggregator, vKYC).",
@@ -10,6 +10,23 @@
   "briefing_cards": [
     {
       "id": "card-1",
+      "headline": "SEBI: Simplification of client on-boarding and rationalisation of risk management framework at KYC Registration Agencies",
+      "category": "Regulatory (RBI/SEBI)",
+      "source": "SEBI Official Circulars",
+      "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/simplification-of-client-on-boarding-and-rationalisation-of-risk-management-framework-at-kyc-registration-agencies_105839.html",
+      "summary": "Securities and Exchange Board of India circular: Simplification of client on-boarding and rationalisation of risk management framework at KYC Registration Agencies",
+      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
+      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn SEBI Official Circulars Directives into Scaled Distribution Moats.'",
+      "tags": [
+        "BFSI",
+        "Growth",
+        "FinTech",
+        "Strategy"
+      ],
+      "audio_text": "Story from SEBI Official Circulars: SEBI: Simplification of client on-boarding and rationalisation of risk management framework at KYC Registration Agencies. Details: Securities and Exchange Board of India circular: Simplification of client on-boarding and rationalisation of risk management framework at KYC Registration Agencies. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
+    },
+    {
+      "id": "card-2",
       "headline": "SEBI: Review of Margin Framework for Commodity Derivatives Segment",
       "category": "Capital Markets & MTF",
       "source": "SEBI Official Circulars",
@@ -26,7 +43,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Review of Margin Framework for Commodity Derivatives Segment. Details: Securities and Exchange Board of India circular: Review of Margin Framework for Commodity Derivatives Segment. Strategic P&L take: Direct impact on collateral utilization and net interest margins (NIM). Brokerages scaling automated risk platforms can expand MTF books with controlled capital adequacy."
     },
     {
-      "id": "card-2",
+      "id": "card-3",
       "headline": "SEBI: Review of the framework for Accredited Investors",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -43,7 +60,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Review of the framework for Accredited Investors. Details: Securities and Exchange Board of India circular: Review of the framework for Accredited Investors. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-3",
+      "id": "card-4",
       "headline": "SEBI: Framework for net settlement of funds for transactions undertaken by mutual fund schemes in cash market",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -60,7 +77,7 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Framework for net settlement of funds for transactions undertaken by mutual fund schemes in cash market. Details: Securities and Exchange Board of India circular: Framework for net settlement of funds for transactions undertaken by mutual fund schemes in cash market. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-4",
+      "id": "card-5",
       "headline": "SEBI: Revision of limits relating to requirement of underlying exposure for currency derivatives contracts",
       "category": "Regulatory (RBI/SEBI)",
       "source": "SEBI Official Circulars",
@@ -77,29 +94,12 @@
       "audio_text": "Story from SEBI Official Circulars: SEBI: Revision of limits relating to requirement of underlying exposure for currency derivatives contracts. Details: Securities and Exchange Board of India circular: Revision of limits relating to requirement of underlying exposure for currency derivatives contracts. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
     },
     {
-      "id": "card-5",
-      "headline": "SEBI: Framework for Issuance of Depository Receipts on Units of REITs​",
-      "category": "Regulatory (RBI/SEBI)",
-      "source": "SEBI Official Circulars",
-      "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/framework-for-issuance-of-depository-receipts-on-units-of-reits-_105558.html",
-      "summary": "Securities and Exchange Board of India circular: Framework for Issuance of Depository Receipts on Units of REITs​",
-      "pl_impact": "Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs.",
-      "action_trigger": "Highlight on LinkedIn: 'How Forward-Looking BFSI Teams Turn SEBI Official Circulars Directives into Scaled Distribution Moats.'",
-      "tags": [
-        "BFSI",
-        "Growth",
-        "FinTech",
-        "Strategy"
-      ],
-      "audio_text": "Story from SEBI Official Circulars: SEBI: Framework for Issuance of Depository Receipts on Units of REITs​. Details: Securities and Exchange Board of India circular: Framework for Issuance of Depository Receipts on Units of REITs​. Strategic P&L take: Strategic implications for customer onboarding TAT and verification overhead. Requires immediate API evaluation to prevent journey drop-offs."
-    },
-    {
       "id": "card-6",
-      "headline": "NSEL releases Rs 1,950 crore in one-time settlement, ends 14-year payment default",
+      "headline": "NSE shares hit record high after ICICI Securities initiates coverage with Buy; check target price and key triggers",
       "category": "FinTech & WealthTech",
-      "source": "ET Markets - Stocks & Broking",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nsel-releases-rs-1950-crore-in-one-time-settlement-ends-14-year-payment-default/articleshow/136104164.cms",
-      "summary": "The National Spot Exchange Ltd has revealed a substantial settlement payout of Rs 1,950 crore to eligible claimants, marking the end of a lengthy 14-year legal battle stemming from a Rs 5,600 crore payment crisis. This settlement received the green light from the Mumbai bench of the National Company",
+      "source": "Livemint Markets",
+      "url": "https://www.livemint.com/market/stock-market-news/nse-shares-hit-record-high-after-icici-securities-initiates-coverage-with-buy-check-target-price-and-key-triggers-11795600817257.html",
+      "summary": "NSE shares rose 5% to a record ₹2,324 after ICICI Securities initiated coverage with a Buy rating and a ₹2,650 target. The brokerage cited market leadership, rising retail participation and new growth areas, and forecast strong revenue and profit growth through FY29.",
       "pl_impact": "Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base.",
       "action_trigger": "Engage peer group on product-led growth loops and automated lifecycle servicing.",
       "tags": [
@@ -108,7 +108,7 @@
         "FinTech",
         "Strategy"
       ],
-      "audio_text": "Story from ET Markets - Stocks & Broking: NSEL releases Rs 1,950 crore in one-time settlement, ends 14-year payment default. Details: The National Spot Exchange Ltd has revealed a substantial settlement payout of Rs 1,950 crore to eligible claimants, marking the end of a lengthy 14-year legal battle stemming from a Rs 5,600 crore payment crisis. This settlement received the green light from the Mumbai bench of the National Company. Strategic P&L take: Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base."
+      "audio_text": "Story from Livemint Markets: NSE shares hit record high after ICICI Securities initiates coverage with Buy; check target price and key triggers. Details: NSE shares rose 5% to a record ₹2,324 after ICICI Securities initiated coverage with a Buy rating and a ₹2,650 target. The brokerage cited market leadership, rising retail participation and new growth areas, and forecast strong revenue and profit growth through FY29.. Strategic P&L take: Opportunities to optimize CAC payback and expand high-yield cross-sell corridors (PMS, structured notes) across the active digital client base."
     }
   ]
 }
